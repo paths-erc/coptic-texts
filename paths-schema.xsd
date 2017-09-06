@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://www.tei-c.org/ns/1.0" xmlns:ns1="http://www.tei-c.org/ns/1.0">
+
+  <xs:element name="TEI">
+
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:teiHeader"/>
+        <xs:element ref="ns1:text"/>
+      </xs:sequence>
+    </xs:complexType>
+
+  </xs:element>
+
+  <xs:element name="teiHeader">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:fileDesc"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="fileDesc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:titleStmt"/>
+        <xs:element ref="ns1:publicationStmt"/>
+        <xs:element ref="ns1:sourceDesc"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="titleStmt">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:title"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="title" type="xs:string"/>
+  <xs:element name="publicationStmt">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:p"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="sourceDesc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:p"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="text">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:body"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="body">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="ns1:p"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="p">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:date"/>
+        <xs:element ref="ns1:gap"/>
+        <xs:element ref="ns1:persName"/>
+        <xs:element ref="ns1:placeName"/>
+        <xs:element ref="ns1:roleName"/>
+        <xs:element ref="ns1:quote"/>
+        <xs:element ref="ns1:org"/>
+        <xs:element ref="ns1:rs"/>
+      </xs:choice>
+      <xs:attribute name="n" type="xs:integer" use="optional" />
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="date">
+    <xs:complexType mixed="true">
+      <xs:attribute name="type" use="required">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="commemoration" />
+            <xs:enumeration value="official_feast" />
+            <xs:enumeration value="concilia" />
+            <xs:enumeration value="liturgies_ceremonies" />
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="gap">
+    <xs:complexType/>
+  </xs:element>
+
+  <xs:element name="persName">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:roleName"/>
+      </xs:choice>
+      <xs:attribute name="ref" use="optional" />
+      <xs:attribute name="type" use="required">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="saint" />
+            <xs:enumeration value="martyr" />
+            <xs:enumeration value="apostle" />
+            <xs:enumeration value="bishop" />
+            <xs:enumeration value="archi_bishop" />
+            <xs:enumeration value="monk" />
+
+            <xs:enumeration value="arch_angel" />
+            <xs:enumeration value="daemon" />
+
+            <xs:enumeration value="emperor_king" />
+            <xs:enumeration value="civil" />
+            <xs:enumeration value="military" />
+            <xs:enumeration value="ecclesiastical" />
+            <xs:enumeration value="biblical" />
+            <xs:enumeration value="pagan_deity" />
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+
+
+  <xs:element name="placeName">
+    <xs:complexType mixed="true">
+   	  <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:persName"/>
+      </xs:choice>
+      <xs:attribute name="ref" use="optional" />
+      <xs:attribute name="subtype" use="optional">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <!-- Admin places -->
+            <xs:enumeration value="egyptian" />
+            <xs:enumeration value="non_egyptian" />
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+      <xs:attribute name="type" use="required">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <!-- Admin places -->
+            <xs:enumeration value="country" />
+            <xs:enumeration value="region" />
+            <xs:enumeration value="district_nomos" />
+            <xs:enumeration value="city_village" />
+            <xs:enumeration value="topos_ma" />
+            <!-- Religios places -->
+            <xs:enumeration value="monastery" />
+            <xs:enumeration value="church_basilica" />
+            <xs:enumeration value="episkopeion" />
+            <xs:enumeration value="chapel" />
+            <xs:enumeration value="oratory" />
+            <xs:enumeration value="martyr_shrine" />
+            <xs:enumeration value="temple" />
+            <xs:enumeration value="ermitage" />
+            <xs:enumeration value="tomb" />
+            <!-- Natural fetures -->
+            <xs:enumeration value="mount" />
+            <xs:enumeration value="river" />
+            <xs:enumeration value="lake" />
+            <xs:enumeration value="harbour" />
+            <!-- Lit -->
+            <xs:enumeration value="biblical" />
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="roleName">
+    <xs:complexType mixed="true">
+      <xs:attribute name="ref" use="optional" />
+      <xs:attribute name="type" use="required">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="religious" />
+            <xs:enumeration value="ecclesiastical" />
+            <xs:enumeration value="civil" />
+            <xs:enumeration value="military" />
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="org">
+    <xs:complexType mixed="true">
+      <xs:attribute name="ref" use="optional" />
+      <xs:attribute name="type" use="required">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="religious" />
+            <xs:enumeration value="ethnic" />
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="quote">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+      	<xs:element ref="ns1:date"/>
+        <xs:element ref="ns1:gap"/>
+        <xs:element ref="ns1:persName"/>
+        <xs:element ref="ns1:placeName"/>
+        <xs:element ref="ns1:roleName"/>
+        <xs:element ref="ns1:org"/>
+        <xs:element ref="ns1:rs"/>
+      </xs:choice>
+      <xs:attribute name="ref" use="optional" />
+      <xs:attribute name="type" use="required">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="biblical" />
+            <xs:enumeration value="classical" />
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  
+  <xs:element name="rs">
+    <xs:complexType mixed="true">
+    <xs:attribute name="ref" use="optional" />
+      <xs:attribute name="type" use="required">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="object" />
+            <xs:enumeration value="furniture" />
+            <xs:enumeration value="service" />
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>
