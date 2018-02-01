@@ -1,4 +1,5 @@
 .DS_STORE
 .project
+.gitignore
 old/*
 pdf/*

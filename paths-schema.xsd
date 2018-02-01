@@ -164,7 +164,7 @@
             <xs:enumeration value="oratory" />
             <xs:enumeration value="martyr_shrine" />
             <xs:enumeration value="temple" />
-            <xs:enumeration value="ermitage" />
+            <xs:enumeration value="hermitage" />
             <xs:enumeration value="tomb" />
             <!-- Natural fetures -->
             <xs:enumeration value="mount" />
@@ -231,7 +231,7 @@
       </xs:attribute>
     </xs:complexType>
   </xs:element>
-  
+
   <xs:element name="rs">
     <xs:complexType mixed="true">
     <xs:attribute name="ref" use="optional" />
