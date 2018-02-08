@@ -125,6 +125,10 @@
             <xs:enumeration value="ecclesiastical" />
             <xs:enumeration value="biblical" />
             <xs:enumeration value="pagan_deity" />
+
+            <xs:enumeration value="donor" />
+            <xs:enumeration value="copyist" />
+            <xs:enumeration value="restorer" />
           </xs:restriction>
         </xs:simpleType>
       </xs:attribute>
