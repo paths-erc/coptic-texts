@@ -70,6 +70,7 @@
       <xs:choice minOccurs="0" maxOccurs="unbounded">
         <xs:element ref="ns1:date"/>
         <xs:element ref="ns1:gap"/>
+        <xs:element ref="ns1:lb"/>
         <xs:element ref="ns1:persName"/>
         <xs:element ref="ns1:placeName"/>
         <xs:element ref="ns1:roleName"/>
@@ -83,6 +84,9 @@
 
   <xs:element name="date">
     <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:lb"/>
+      </xs:choice>
       <xs:attribute name="type" use="required">
         <xs:simpleType>
           <xs:restriction base="xs:string">
@@ -99,10 +103,14 @@
   <xs:element name="gap">
     <xs:complexType/>
   </xs:element>
+  <xs:element name="lb">
+    <xs:complexType/>
+  </xs:element>
 
   <xs:element name="persName">
     <xs:complexType mixed="true">
       <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:lb"/>
         <xs:element ref="ns1:roleName"/>
       </xs:choice>
       <xs:attribute name="ref" use="optional" />
@@ -140,6 +148,7 @@
     <xs:complexType mixed="true">
    	  <xs:choice minOccurs="0" maxOccurs="unbounded">
         <xs:element ref="ns1:persName"/>
+        <xs:element ref="ns1:lb"/>
       </xs:choice>
       <xs:attribute name="ref" use="optional" />
       <xs:attribute name="subtype" use="optional">
@@ -185,6 +194,9 @@
 
   <xs:element name="roleName">
     <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:lb"/>
+      </xs:choice>
       <xs:attribute name="ref" use="optional" />
       <xs:attribute name="type" use="required">
         <xs:simpleType>
@@ -201,6 +213,9 @@
 
   <xs:element name="org">
     <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:lb"/>
+      </xs:choice>
       <xs:attribute name="ref" use="optional" />
       <xs:attribute name="type" use="required">
         <xs:simpleType>
@@ -218,6 +233,7 @@
       <xs:choice minOccurs="0" maxOccurs="unbounded">
       	<xs:element ref="ns1:date"/>
         <xs:element ref="ns1:gap"/>
+        <xs:element ref="ns1:lb"/>
         <xs:element ref="ns1:persName"/>
         <xs:element ref="ns1:placeName"/>
         <xs:element ref="ns1:roleName"/>
@@ -238,7 +254,10 @@
 
   <xs:element name="rs">
     <xs:complexType mixed="true">
-    <xs:attribute name="ref" use="optional" />
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:lb"/>
+      </xs:choice>
+      <xs:attribute name="ref" use="optional" />
       <xs:attribute name="type" use="required">
         <xs:simpleType>
           <xs:restriction base="xs:string">
