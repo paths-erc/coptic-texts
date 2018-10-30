@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vat.Copt.57</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Vat.Copt.57</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Vat.Copt.57</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+      ⲥⲩⲛ ⲑ(ⲉⲱ) ⲁϥϣⲱⲡⲓ ⲛ̇ϫⲉⲡⲁⲓ ϣⲉⲛⲉⲣⲫⲙⲉⲩⲓ̇ ⲛ̇ⲧⲉ<lb />ⲡⲁⲓ ⲁⲅⲁⲑⲟⲛ ⲛ̇ϫⲱⲙ ⲉⲃⲟⲗ̇ ϩⲓⲧⲉⲛⲡϯⲙⲁϯ ⲙ̂ⲫ̂ϯ <lb /> ⲛⲉⲙⲡϥⲓⲣⲱⲟⲩϣ ⲛ̇ⲧⲉⲛⲓⲗⲁⲟⲥ ⲙ̂ⲡⲓⲥⲧⲟⲥ ⸳ ⲡⲁⲡⲁ <lb/> <persName type="donor">ⲃⲓⲕⲧⲱⲣ</persName> ⲛ̇ⲧⲉϯⲥⲕⲏⲛⲏ ⲛ̇ⲧⲉⲡⲓⲛⲓϣϯ ⲁⲃⲃⲁ <lb /> <placeName type="hermitage" ref="paths:places:208">ⲙⲁⲕⲁⲣⲓ</placeName> ⲁⲣⲓⲡⲉϥⲙⲉⲩⲓ̇ ⲉϥⲟⲛϧ ⲛ̂ⲧⲉⲡ⳪︦ ⲉⲣⲡⲓⲛⲁⲓ ⲛⲉⲙⲁϥ <lb /> ⲛⲉⲙⲛⲉϥϣⲏⲣⲓ ⲙ̂ⲡⲛ(ⲉⲩⲙⲁⲧ)ⲓⲕ(ⲟⲥ) (ⲁⲩⲱ) ⲁϥϣⲁⲛⲥⲓⲛⲓ ⲉⲃⲟⲗ <lb /> ϧⲉⲛⲡⲁⲓ ⲃⲓⲟⲥ ⲛ̂ⲧⲉⲡ⳪︦ ϯⲙ̇ⲧⲟⲛ ⲛ̇ⲧⲉϥⲙⲁⲕⲁⲣⲓⲁ <lb /> ⲙ̇ⲯⲩⲭⲏ ⲛⲉⲙⲛⲏⲑⲟⲩⲁⲃ ⲛ̇ⲧⲁϥ. <lb /> (ⲁⲩⲱ) ⲁⲣⲓⲫⲙⲉⲩⲓ̇ ⲙ̂ⲡⲁⲡⲁ <persName type="copyist">ⲑⲉⲟⲇⲱⲣⲟⲥ</persName> ⲡⲓ<roleName type="ecclesiastical">ⲣⲉϥⲱϣ</roleName> <lb /> ⲧⲉⲡ⳪︦ ⲉⲣⲡⲓⲛⲁⲓ ⲛⲉⲙⲧⲉϥⲯⲩⲭⲏ⸳ϫⲉⲛ̇ⲑⲟⲩ <lb /> ⲁⲧϥⲓⲫⲣⲱⲟⲩϣ ⲛ̇ⲛⲓⲅⲣⲁⲫⲏ ⲉⲑⲟⲩⲁⲃ ⲁϥⲥϧⲏⲧⲟⲩ <lb /> ⲉⲣⲉⲡ⳪︦ ⲓⲏ̄ⲥ︦ ⲡⲭ̄ⲥ︦ ⲥϧⲏⲧⲡⲉϥⲣⲁⲛ ϧⲉⲛⲡϫⲱⲙ <lb /> ⲛ̇ⲛⲉⲧⲟⲛϧ ⲁⲙⲏⲛ (ⲁⲩⲱ) ⲁⲙⲏⲛ (ⲁⲩⲱ) ⲁⲙⲏⲛ ⳨
+      </p>
+    </body>
+  </text>
+</TEI>
