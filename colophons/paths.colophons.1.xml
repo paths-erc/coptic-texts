@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.1</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.1</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.1</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+      ⲥⲩⲛ ⲑⲉⲱ ⲁⲣⲓⲡⲙⲉⲉⲩ]ⲉ ⲙⲡⲁⲉⲓⲱⲧ | [ⲡⲁⲡⲁ <persName type="ecclesiastical">ⲇⲁⲙⲓ]ⲁ̣ⲛⲟⲥ</persName> ϫⲉ|[ⲉⲛⲧⲁⲡⲉⲓⲕ]ⲁ̣ⲣⲡⲟⲥ ϣⲱⲡⲉ | [ϩⲛⲛⲉϥ]ϩ̣ⲟⲟⲩ. ⲁϥⲥⲙⲛⲡⲉⲓ|(5)ⲕ̣ⲁ̣[ⲓ]ⲫⲁⲗⲁⲓⲟⲛ ⲛ︤ϫ̣ⲱⲱⲙⲉ | ⲉϩⲟⲩⲛ ⲉⲡ<placeName type="monastery">ⲧⲟⲡⲟⲥ ⲙⲡⲁⲣ|ⲭⲁⲅⲅⲉⲗⲟⲥ ⲉⲧⲟⲩⲁ̣ⲁⲃ ⲙⲓ|ⲭⲁⲏⲗ</placeName> ⲛ<placeName type="city_village">ⲧⲙⲟⲛⲏ̣ ⲛ̣ⲁ̣ⲗⲗⲓ̣</placeName> | ϩⲛ̣ⲛ̣ⲉ̣ϩⲟⲟⲩ ⲛ̄ⲧⲉϥ̣<roleName type="ecclesiastical">ⲙ̣ⲛ̄ⲧⲁⲣ|(10)ⲭⲏⲙⲁⲛⲇⲣⲓⲧⲏⲥ</roleName>. ⲉⲣⲉ̣ⲡⲉϥ|ⲥⲟⲛ̣ ⲁⲩ̣ⲱ̣ ⲡⲉϥϣⲏⲣⲉ ϩ︤ⲙ|ⲡ̣ⲟ̣ⲥ̣ ϫⲉ̣ⲁⲡ̣ⲁ̣ <persName type="ecclesiastical">ⲁ̣ⲡⲁⲓⲟⲩⲗⲉ</persName> ⲡ|ϣ̣ⲏ̣ⲣⲉ ⲙⲡ̣ⲙⲁ̣ⲕⲁⲣⲓⲟⲥ ⲡⲁⲡⲁ | <persName type="civil">ⲃ̣ⲁ̣ⲥⲓⲗⲓⲟⲥ</persName> ⲡ̣<roleName type="civil">ⲛⲟⲧ̣[   ̣]ⲥ̣</roleName> ⲣ̄ϩⲱⲃ | (15) ⲛⲙⲙⲁϥ · ⲁⲩⲱ̣ ⲛⲧⲁⲛⲥ|ⲙⲛ̄ⲧϥ̄ ϩⲛⲧϣⲟⲣⲡ ⲛⲣⲟⲙⲡⲉ | ⲙ̣ⲡⲕⲩ̣ⲕⲗⲟⲥ · ⲁⲡⲟ ⲇⲓⲟⲕⲗⲏ̣ϯ̣ⲁ|ⲛⲟⲥ ⲫ̄ⲗ̄ⲑ̄ · ⲁⲣⲓⲡⲉⲩⲙⲉⲉⲩⲉ | ⲛ̣ⲧ̣ⲉ̣ⲡⲟ̄ⲥ̄ ϯ ⲛⲁⲩ ⲛϣⲃⲓⲱ ⲙ|(20)ⲡⲉⲩ̣ⲉ̣ⲣⲏⲧ ϩⲛⲑⲓⲗ︤ⲏ︦ⲙ︥ ⲛⲧⲡⲉ | ⲁⲩⲱ ⲛⲧⲉⲡⲁⲣⲭⲁⲅⲅⲏⲗⲟⲥ | ⲙⲓⲭⲁⲏⲗ ϫⲓϩⲙⲟⲧ ⲉϫⲱⲟⲩ | ϩ̄ⲙ̄ⲃⲏⲙⲁ ⲙⲡⲉⲭ̄ⲥ̄ ⲛⲧⲉ|ⲟⲩⲛ̣ⲁ̣ ⲧ̣ⲁ̣[ϩⲟ]ⲟⲩ ⲛⲁⲅⲁⲡⲏ· | (25) ⲁⲩⲱ̣ ⲟⲩⲟ̣ⲛ ⲛⲓⲙ ⲉ̣ⲧⲛ̣ⲁ̣ⲙⲉ|ⲗ̣ⲉ̣ⲧⲁ ϩⲙ̄ⲡⲉⲓϫⲱⲱⲙⲉ· | ⲁⲣⲓⲡⲙⲉⲉⲩⲉ ⲙⲡⲁⲉⲓⲱⲧ | ⲡⲁⲡⲁ <persName type="donor">ⲇⲁⲙⲓⲁⲛⲏ</persName> ⲙ̄ⲛ̄ⲛⲉⲥ|ⲛⲏⲩ ⲧⲏⲣⲟⲩ ⲛⲕⲗⲏⲣⲓⲕⲟⲥ | (30) ⲙ<placeName type="monastery">ⲡⲁⲣⲭⲁⲅⲅⲉⲗⲟⲥ ⲙⲓ|[ⲭ]ⲁⲏ̣ⲗ</placeName> ⲛⲧⲉ̣ⲡⲟ̄ⲥ̄ ϫⲟⲕⲧⲉⲩ|[ϩⲁ]ⲏ ⲉⲃⲟⲗ ⲉ̣ⲥⲣⲁⲛⲁϥ ϩⲁⲙⲏⲛ | m² ⲁ̣ⲛⲁⲕ ⲉ<persName type="copyist">ⲅⲁⲃⲣⲓ</persName> ⲫⲉⲙ|ϩ̣ⲁⲗ ⲉⲡ̣ⲛ̣ⲟ̣ⲩ̣̣ⲧ̣ⲉ ⲙ̣ⲛ̣|(25)ⲡϣ̣ⲏ̣ⲣⲉ ⲛ<placeName type="monastery">ⲡⲁ̣ⲣ̣ⲭ̣ⲁ̣ⲛ̣|ⲅⲉⲗ̣ⲟⲥ ⲙⲓⲭⲁ̣ⲏⲗ</placeName> ⲉⲡ|<placeName type="city_village">ⲫⲁⲛⲧ̣ⲁ̣ⲩ̣</placeName> ϩ̣ⲁ̣ⲙ̣ⲏ̣ⲛ̣
+      </p>
+    </body>
+  </text>
+</TEI>
