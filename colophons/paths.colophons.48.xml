@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.48</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.48</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.48</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+⳨ⲡ⳪︦ ⲓ︤ⲥ︦ ⲡⲉⲭ︦ⲥ︦ ⲡⲗⲟ|ⲅⲟⲥ ⲛⲧⲁϥϫⲓⲥⲁⲣⲝ | ϩⲛ̇ⲧⲕⲁⲗⲁϩⲏ ⲧⲡⲁⲣ|ⲑⲉⲛⲟⲥ ⲉⲧⲟⲩⲁⲁⲃ⸱ⲙⲁ|(5)ⲣⲓⲁ⸱ⲉϥⲉϯⲙⲧⲟⲛ ⲉⲧⲉ|ⲯⲩⲭⲏ ⲙⲡⲙⲁⲕⲁⲣⲓⲟⲥ | ⲡⲡⲁⲡⲁ <persName type="donor">ⲁⲡⲓ̈ⲙⲁ</persName>⸱<placeName type="monastery">ⲡⲓⲙⲓ|ⲭⲁⲏⲗ</placeName> ⲛ<placeName type="city_village">ⲧⲙⲟⲛⲏ ⲛⲁⲗⲗⲓ̈</placeName> | ⲁⲩⲱ rasura ⲉϥⲉⲥⲙⲟⲩ ⲉⲡ· |(10) ⲡⲁⲡⲁ <persName type="donor">ⲕⲟⲥⲙⲁ</persName> ⲙⲛⲡ<roleName type="ecclesiastical">ⲇ︦ⲕ︦</roleName> | <persName type="donor">ⲑⲱⲧⲉⲣ</persName> ⲡⲉϥⲥⲟ︦ ϫⲉⲛ|ⲧⲟⲟⲩ ⲁⲩⲃⲓⲡⲉϥⲣⲟⲟⲩϣ | ⲁⲩⲧⲁⲁϥ ⲉϩⲟⲩⲛ ⲉ<placeName type="monastery">ⲙⲓⲭⲁ|ⲏⲗ</placeName> ϩⲁⲡⲟⲩϫⲁⲓ ⲛⲛⲉⲩⲯⲩⲭⲏ |(15) ⲁⲩⲱ ⲉⲩϣⲁⲛⲓ̈ ⲉⲃⲟⲗ ϩⲛⲥⲱ|ⲙⲁ ⲛⲧⲉⲡⲛⲟⲩⲧ(ⲉ) ϯⲧϣⲉ|ⲃⲓ̈ⲱ ⲙⲡⲉⲩⲉⲣⲏⲧ ⲛⲁⲩ | ⲛⲟⲩ‵ⲧ′ⲃⲁ ⲛⲕⲱⲃ ⲛⲥⲱⲡ | ϩⲛⲑⲓⲗ︦ⲏ︦ⲙ︦ ⲛⲧⲡⲉ ϩⲁ|(20)ⲙⲏⲛ ⲉⲥⲉϣⲱⲡⲉ | ⲙⲏⲛⲓ ⲫⲁⲣⲙⲟⲩⲑⲓⲟⲩ ⲏ︦ | ⲁⲡⲟ ⲇⲓⲟⲕⲗⲏⲇⲓⲁⲛⲟⲩ ⲫ︦ⲟ︦ⲁ︦ | Ⲷⲡⲥⲡⲭⲣⲋⲟⲟⲗⲭ | ⲫⲋⲑⲡⲗⲭ⸱ⳍⲑⲕⲑ |(25) ⲡⲭⲣⲋⲕⲶⲏ⁄ⲥⲃⲣⲶ ː—
+
+ⲁⲣⲓⲡⲁⲙⲉⲉ ⲛⲁⲕⲁⲡⲏ | ⲁⲛⲁⲕ ⲡⲓⲣⲉϥⲛⲁⲃⲉ | ⲡⲁⲣⲣⲁⲕⲁϩ ⲧⲉⲣⲉϥ | ⲡⲓⲁⲧⲉⲛϣⲁ ⲣⲁⲛ ⲧⲁⲩ|(5)ⲧⲁⲗⲁϥ ϩⲣⲁⲓ ϩⲓϫⲱϥ | <roleName type="ecclesiastical">ⲇⲓⲁ(ⲕⲟⲛⲟⲥ)</roleName> <persName type="monk">ϩⲉⲗⲓⲁ</persName> | ⲡϫⲟⲙⲓ ⲛⲧⲁⲛⲁⲥ|ⲧⲁⲥⲓⲥ ⲉⲧⲟⲩⲁⲁⲃ | ⲧⲉ ⲡⲁⲓ ⲁⲃϫⲟⲕ ⲉ|ⲃⲟⲗ ⲇⲓⲉⲙⲟⲩ | <persName type="copyist">ⲅⲁⲃⲣⲓ</persName> ⲡⲣ︦ⲥ︦
+      </p>
+    </body>
+  </text>
+</TEI>
