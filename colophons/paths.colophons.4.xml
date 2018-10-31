@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.3</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.3</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.3</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+⳨ ⲥⲩⲛ ⲑ(ⲉⲱⲓ) ⲛⲁⲉⲓⲟⲧⲉ ⲉⲧⲟⲩⲁⲁⲃ ⲥⲙⲟⲩ ⲣⲟⲓ ϯϯⲙⲉⲧⲁⲛⲟⲓⲁ | ϩⲁⲡϣⲟⲉⲓϣ ⲛⲛⲉⲧⲉⲛⲟⲩⲉⲣⲏⲧⲉ⸱ⲉⲧⲟⲩⲁⲁⲃ⸱ⲟⲩⲟⲛ | ⲛⲓⲙ ⲉⲧⲛⲁⲱϣ⸱ϩⲙⲡⲉⲓϫⲱⲱⲙⲉ⸱ⲁⲣⲓⲡⲙⲉⲉⲩⲉ | ⲙⲡⲉⲛⲙⲁⲓⲛⲟⲩⲧⲉ⸱ⲛⲥⲟⲛ ⲡⲁⲡⲁ <persName type="donor">ⲉⲡⲓⲙⲁ</persName>⸱ⲡϣⲏⲣⲉ | (5) ⲙⲡⲙⲁⲕⲁⲣⲓⲟⲥ ⲙⲙⲁⲓ̈ⲛⲟⲩⲧⲉ ⲡⲁⲡⲁ <persName type="monk">ⲇⲁⲙⲓⲁⲛⲏ</persName>⸱ⲛⲧⲉ|ⲡⲛⲁⲏⲧ ⲛⲛⲟⲩⲧⲉ⸱ⲁⲩⲱ ⲛϣⲁⲛⲁϩⲧⲏϥ⸱ⲟⲓⲕⲟⲛⲟⲙⲉⲓ | ⲙⲡⲉϥⲃⲓⲟⲥ⸱ⲕⲁⲧⲁⲡⲉϥⲟⲩⲱϣ ⲉⲧⲟⲩⲁⲁⲃ⸱ⲁⲩⲱ | ⲛϥ̄ϫⲁⲕⲧⲉϥϩⲁⲏ ⲉⲃⲟⲗ⸱ⲕⲁⲗⲱⲥ⸱ϩⲛ︦ⲧⲉϥⲙⲉⲧⲉⲣⲟ | (10) ϫⲉⲛⲧⲟϥ⸱ⲁϥⲃⲓⲡⲉϥⲣⲟⲟⲩϣ⸱ϩⲙ̄ⲡⲉϥϩⲓⲥⲉ ⲙⲙⲓⲛ |ⲙⲙⲟϥ⸱ⲁϥⲧⲁⲁϥ ⲉϩⲟⲩⲛ ⲉⲡⲧⲟⲡⲟⲥ ⲙ<placeName type="monastery">ⲡⲁⲣⲭⲁⲅ|ⲅⲉⲗⲟⲥ ⲉⲧⲟⲩⲁⲁⲃ⸱ⲙⲓⲭⲁⲏⲗ</placeName>⸱ⲡⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ | ⲙ<placeName type="city_village">ⲡϩⲟⲛⲧⲟⲟⲩ</placeName>⸱ϩⲁⲡⲟⲩϫⲁⲓ | ⲛⲧⲉϥⲯⲩⲭ(ⲏ) ⲁⲩⲱ ⲥⲙⲟⲩ ⲣⲟⲓ | (15) ϯϯⲙⲉⲧⲁⲛⲟⲓⲁ⸱ϩⲱⲱⲧ⸱ⲙⲉϩ̣ⲕⲧⲏⲩⲧⲛ̄ ⲛⲙⲙⲁⲓ̈ | ⲙⲛⲡⲁⲕⲟⲩⲟⲓ ⲛϩⲱⲃ ⲛϭⲓϫ⸱ⲙⲟⲛ ⲛϯⲛⲟⲓ⸱ⲕⲁⲗⲱⲥ | ⲁⲣⲓⲡⲁⲙⲉⲉⲩⲉ⸱ⲛⲧⲉⲡⲛⲟⲩⲧⲉ ⲉⲣⲟⲩⲛⲁ⸱ⲛⲙⲙⲁⲓ̈⸱| ϩⲙⲡⲉϥⲃⲏⲙⲁ⸱ⲉⲧⲙⲉϩ ⲛϩⲟⲧⲉ ϩⲓⲥⲧⲱⲧ⸱| ϩⲁⲙⲏⲛ⸱ⲉⲥⲉϣⲱⲡⲉː-- | (20) ⳨ ἐγράφη μ(η)νὶ Φ(α)ω(φ)η ἰνδ(ικτίων)ο(ς) η ἔτου(ς) χρό(νων) σ︦λ︦ ἀπὸ Διοκλ(ητιανοῦ) φξ︦α︦ | ⳨ Ἐγὼ <persName type="copyist">Ζαχαρί(α)ς</persName> ἐλ(ά)χ(ιστος) πρ(ε)σ(βύ)τ(ερος) κ(αὶ) <roleName type="religious">γαλιογράφου</roleName> δοῦλλος τοῦ <placeName type="monastery">ἁγίου μονα|στηρίου ὤρος Καλαμο̃νος</placeName> ἀμήν.
+      </p>
+    </body>
+  </text>
+</TEI>
