@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.13</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.13</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.13</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+⳨ ⲡ⳪︦ ⲡⲛⲟⲩⲧⲓ ⲡⲡⲁⲛⲧ︦ⲱ︦ⲣ︦ | ⲃⲟⲏⲑⲓⲁ ⲁⲩⲱ ⲥⲙⲟⲩ ⲉⲡ<roleName type="ecclesiastical">ⲇⲓ︦</roleName> <persName type="donor">ⲛⲁϩⲣⲁⲩ</persName> | ⲙⲛ̄ⲧⲉϥⲥϩⲓⲙⲉ ⲙⲛⲛⲉϥϣⲏⲣⲉ | ϫⲉⲛⲧⲁϥ ⲁϥϥⲓⲡⲣⲁⲩϣ ⲙⲡⲓⲕⲉ|(5)ⲫⲁⲗⲁⲓⲟⲛ ⲛϫⲱⲱⲙⲉ ⲁϥⲥⲙⲛ̄ⲧϥ | ϩⲉⲛⲛⲉϥϩⲓⲥⲉ ⲙⲙⲓⲛ ⲙⲁϥ ⲁϥⲧⲁⲁϥ | ⲉϩⲟⲩⲛ ⲉⲛⲉⲕⲕⲗⲏⲥⲓⲁ ⲛⲛⲉⲩⲓⲁϯ | ⲉⲧⲉ<placeName type="monastery">ⲡⲁⲣⲭ(ⲁⲅⲅⲉⲗⲟⲥ) ⲙⲓⲭ(ⲁⲏⲗ)ⲡⲉ ⲙⲛⲡϩⲁⲅⲓⲟⲥ ⲁⲃⲁ | ⲕⲩⲣⲓⲁⲕⲟⲥ ⲙⲡⲛⲁϭ</placeName> ⲙⲙⲉⲣⲟⲥ ⲙ<placeName type="city_village">ⲙⲓⲧ|(10)ⲧⲁⲁⲗ̣</placeName> ϣⲗⲏⲗ ⲉϫϣϥ ⲛⲧⲉⲡⲛⲟⲩ|ⲧⲉ ϯ ⲛⲁϥ ⲛⲧϣⲉⲃⲓⲱ ⲙⲡⲉϥⲉⲣⲏⲧ | ϩⲉⲛⲑⲓⲗⲏ︦ⲙ︦ ⲛⲧⲡⲏ ⲡⲙⲁ ⲛϣⲱⲱ|ⲡⲉ ⲛⲛⲉⲇⲓⲕⲉⲟⲥ ⲧⲏⲣⲟⲩ | ⲁⲩⲱ ⲁⲣⲓ̈ⲡⲙⲉⲉⲩⲉ ⲛⲛⲉϥⲙⲉⲣⲁⲧⲉ | (15) ⲛⲥⲛⲏⲩ ⲡⲡⲁⲡⲁ <persName type="monk">ⲡⲉⲧⲣⲟⲥ</persName> ⲙⲛⲡ|<roleName type="ecclesiastical">ⲇⲓ(ⲁⲕⲟⲛⲟⲥ)</roleName> <persName type="monk">ⲃⲁⲣⲑ(ⲟⲗⲟⲙⲁⲓⲟⲥ)</persName> ⲙⲛⲛⲉⲩϣⲏⲣⲉ ⲙⲛⲛⲉ̣ⲩ|ⲧⲃⲛⲁⲟⲩⲉ ⲛⲧⲉⲡⲛⲟⲩⲧⲉ ⲥ|ⲙⲟⲩ ⲉⲣⲁⲩ ϩⲁⲙⲏⲛ ⲉⲥⲉϣⲟⲡⲓ | ⲙ̣ⲏⲛⲓ ⲡⲁⲩⲟ̣ⲛⲓ ⲓ̄ⲃ︦ ⲇⲓ̣ⲟⲕⲗ(ⲏⲧⲓⲁⲛⲟⲩ) ⲫ︦ⲟ︦ⲃ︦      </p>
+    </body>
+  </text>
+</TEI>
