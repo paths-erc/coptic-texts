@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.40</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.40</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.40</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+⳧ ⲡⲓⲱⲧ ⲙⲛ̇ⲡ̇ϣⲏⲣⲉ ⲙⲛ̇ⲡⲉⲡⲛ(ⲉⲩⲙ)ⲁ ⲉ̇ⲧⲟⲩⲁⲁⲃ ⸱ ϩⲁⲣⲉϩ | ⲉⲡⲱⲛϩ ⸱ ⲙ̇ⲡⲉⲛⲙⲁⲓⲛⲟⲩⲧⲉ ⲛⲓⲱⲧ ⲛ̇<roleName type="ecclesiastical">ⲕⲟⲓⲛⲟ|ⲃⲓⲁⲣⲭ(ⲏⲥ)</roleName> ⸱ ⲁⲩⲱ̇ ⲛ<roleName type="ecclesiastical">ⲁⲣˋⲭ´(ⲓ)ⲙⲁⲛⲇⲣⲓⲧⲏⲥ</roleName> ⸱ⲡⲁⲓⲱⲧ | ⲡ̇ⲡⲁⲡⲁ <persName type="monk">ⲓⲱϩⲁⲛⲛⲏⲥ</persName> ⸱ⲡ<roleName type="ecclesiastical">ⲓⲕⲟⲛⲟⲙⲟⲥ</roleName> ⲙⲡ̇|(5)<placeName type="monastery">ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ ⸱ ⲙ̇ⲡⲁⲣⲭⲁⲅⲅⲉⲗⲟⲥ ⲙⲓⲭⲁⲏⲗ</placeName> | ⲙ̇<placeName type="city_village">ⲫⲁⲛⲧⲁⲩ</placeName> ⸱ ⲛ̇<placeName type="city_village">ⲥⲱⲡⲉ̇ϩⲉⲥ</placeName> ⸱ ϩⲙ̇ⲡ̇ⲧⲟϣ | <placeName type="district_nomos">ⲡⲓⲟⲙ</placeName> ⸱ ϫⲉⲛ̇ⲧⲟϥ  ⲡⲉⲛⲧⲁϥϥⲓⲡ̇ⲣⲟⲟⲩϣ | ⲙ̇ⲡⲓϫⲱⲱ̇ⲙⲉ ⲛ̇ϩⲉⲣⲙⲏⲛⲓⲁ̇ ⸱ ⲁϥⲕⲁⲁϥ̇ ϩⲙ̇|ⲡⲉϥⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ ⸱ ⲉⲧⲣⲉϥϯⲕⲁⲣⲡⲟⲥ | (10) ⲙ̇ⲡ̇ⲛⲟⲩⲧⲉ ⲛϩⲏⲧϥ̇ ⸱ ⲙⲛ̇ⲛⲉⲧⲛⲏⲩ ⲙⲛ̇ⲛ̇ⲥⲱϥ | ϫⲉⲕⲁⲥ ⲉ̇ⲣⲉⲡ̇ⲛⲟⲩⲧⲉ ⲥ̇ⲙⲟⲩ ⲉ̇ⲣⲟϥ ⸱ ⲙⲛ̇ⲛⲉⲭ|ⲣⲓⲁ ⲧⲏⲣⲟⲩ ⲙ̇ⲡⲉϥⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ ⸱ ⲛ̇ϥⲕⲱ | ⲛⲁϥ ⲉ̇ⲃⲟⲗ ⲛ̇ⲛⲉϥⲛⲟⲃⲉ ⲛ̇ⲑⲉ ⲙ̇ⲡⲉϩⲟⲟⲩ ⲛ̇ⲧⲁⲩ|ϫ̇ⲡⲟϥ ⲉ̇ⲡⲓⲕⲟⲥⲙⲟⲥ ⲛ̇ϩⲏⲧϥ̇ ⸱ ⲁⲩⲱ̇ ⲛ̇ϥ̇ⲉⲛ|(15)ⲧⲉϥϩⲁⲏ ⲉ̇ⲃⲟⲗ ⲕⲁⲗⲱⲥ⸱ⲉⲥⲉⲣⲁⲛⲁϥ ϩⲛ̇ⲧ̇ⲙⲏ|ⲧⲉ ⲛ̇ⲛⲉⲥⲛⲏⲩ ⲧⲏⲣⲟⲩ ⸱ ϩⲁⲙⲏⲛ ⲉ̇ⲥⲉϣⲱⲡⲉ ː‒ | ⲥⲙⲟⲩ ⲉⲣⲟⲓ ϯϯⲙⲉⲧⲁⲛⲉⲁ ⲛⲁⲓⲟⲧⲉ ⲉⲧⲟⲩⲁⲁⲃ | ⲉⲧⲛⲁⲱϣ ϩⲙ̇ⲡⲓϫⲱⲱⲙⲉ  ϣⲗⲏⲗ ⲉϫⲱⲓ | ⲛⲁⲅⲁⲡⲏ ⲛⲧⲉⲡⲛⲟⲩⲧⲉ ϯⲡⲥⲟⲟⲩⲛ ⲛⲁⲓ ⲁⲩⲱ | (20) ⲛ̇ϥϯⲭⲁⲣⲓⲥ ⲉ̇ⲛⲁⲕⲟⲩⲓ ⲛ̇ϩⲱⲃ ⲛ̇ϭⲓϫ⸱ ϫⲉⲙ|ⲡⲁϯⲛⲱⲓ ⲕⲁⲗⲱⲥ ⸱ ⲁⲗⲗⲁ ⲉⲓϫⲓⲥⲃⲱ⸱ ⲁⲛⲟⲕ | ⲡⲓⲉⲗⲁⲭ(ⲓⲥⲧⲟⲥ) <persName type="copyist">ⲃⲁⲥⲓⲗⲓ</persName> ⸱ <roleName type="ecclesiastical">ⲇⲓⲁⲕ(ⲟⲛⲟⲥ)</roleName> ⲙⲛ̇<roleName type="ecclesiastical">ⲇⲓ(ⲁⲕⲟⲛⲟⲥ)</roleName> <persName type="copyist"ⲥⲁⲙⲟⲩⲏⲗ</persName> | ⲡⲉϥϣⲏⲣⲉ⸱	ⲛⲓⲥⲃⲟⲩⲓ ⲛⲣⲉⲙ<placeName type="city_village">ⲧⲟⲩ|ⲧⲱⲛ</placeName> ⲉ̇<placeName type="district_nomos">ⲡⲓⲟⲙ</placeName> ⸱ ⲙⲏⲡⲟⲧⲉ ⲁⲡⲉⲛⲛⲟⲩⲥ̇ ⲗⲁⲛⲑⲁ|(25)ⲛⲉ ⲁⲛϣⲱⲃ̇ⲧ ⲛⲟⲩⲗⲉⲝⲓⲥ ⸱ ϫⲉⲛⲧⲁⲛⲥ̇ϩⲁⲓ | ⲕⲁⲧⲁⲡⲁⲛⲧⲓⲅⲣⲁⲫⲱⲛ ⲉⲧϩⲁⲣⲱⲛ ⸱ ϥⲓ ϩⲁⲣⲟⲛ | ⲕⲱ ⲛⲁⲛ ⲉ̇ ⲃⲟⲗː‒ ⲕⲁⲧⲁ ⲭⲣⲟⲛⲟⲩ⸱ⲭⲓⲇ⸱ⲧⲟⲛ ⲁⲅⲓⲟⲛ | ⲙⲁⲣⲧ(ⲩⲣⲱⲛ).
+      </p>
+    </body>
+  </text>
+</TEI>
