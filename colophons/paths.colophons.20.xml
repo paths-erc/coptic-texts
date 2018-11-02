@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.20</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.20</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.20</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+[ⲡϫⲟⲉⲓⲥ ⲓ]ⲥ̣ ⲡ̣ⲉⲭ︦ⲥ︦ ⲉ[ⲣ]ⲟⲩⲛⲁ ⲙⲛⲧⲉⲯⲩⲭⲏ ⲙ̣ⲡ̣ⲙⲁⲓ̈ⲛⲟⲩⲧⲉ [ⲛⲉⲓ|ⲱⲧ ⲛⲧⲁϥ]ϥ̣ⲓ̣ⲡ̣[ⲣⲟⲟⲩϣ] ⲙⲡⲉⲓⲕⲉⲫⲁⲗⲉⲟⲛ ⲛ[ϫ]ⲱⲱⲙ̣ⲉ ⲉ̣ⲡ<placeName type="monastery">ⲙⲟⲛⲁ̣[ⲥ|ⲧⲏⲣⲓⲟⲛ] ⲙ[ⲡⲛ]ⲟϭ ⲛⲁⲣⲭⲁⲅⲅⲉⲗⲟⲥ ⲙⲓⲭ[ⲁ]ⲏⲗ</placeName> ⲙ<placeName type="city_village">ⲡ̣ϩⲁⲛⲧⲟⲟⲩ</placeName> | [ⲁϥⲧⲁⲁϥ] ⲉϩⲟⲩⲛ ⲉⲣⲟϥ ϩⲁⲡⲥⲱⲧⲉ ⲛⲧ[ⲉ]ϥⲯⲩⲭⲏ ϫⲉⲕ̣ⲁ̣ⲥ ⲉⲣⲉⲡ|(5)[ⲛⲟⲩⲧⲉ ⲙ]ⲛ̣ⲡ<persName type="arch_angel">ⲁⲣⲭⲁⲅⲅⲉⲗⲟⲥ ⲉⲧⲟⲩⲁⲁⲃ ⲙⲓⲭⲁⲏⲗ</persName> ϯ ⲛⲁϥ ⲛⲧ|[ϣⲃⲃⲓ]ⲱ̣ ⲙⲡⲉϥⲉⲣⲏⲧ ϩⲛⲑ︦ⲓ︦ⲉ︦ⲗ︦ⲏ︦ⲙ︦ ⲛⲧⲡⲉ̣ ⲧⲡⲟⲗⲓⲥ ⲛⲛⲇⲓ|[ⲕⲉⲟⲥ ⲧⲏ]ⲣⲟⲩ ϩⲁ̣ⲙⲏⲛ ⲉⲥⲉϣⲱⲡⲉ | διʾἐμοῦ <persName type="copyist">Μά]ρκου</persName> <roleName type="ecclesiastical">καλιοκράφου</roleName> ἐλ(α)χ(ίστου) τῆς ἁγίας ἐγλησίας ......
+    </p>
+    </body>
+  </text>
+</TEI>
