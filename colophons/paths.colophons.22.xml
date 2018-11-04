@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.22</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.22</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.22</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+<placeName type="monastery">ⲁⲅⲓⲟⲩ ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲩ ⲁⲃⲃⲁ̣ | ⲁⲡⲁ ⲉⲡⲓⲙⲁ</placeName> ⲙ<placeName type="city_village">ⲡϣⲱⲛⲧⲉ</placeName> | ⲛ<placeName type="city_village">ⲛⲁⲣⲙⲟⲩⲧⲉ</placeName> ⲙ<placeName type="district_nomos">ⲡⲓⲟⲙ</placeName>. | [  ̣ ̣ ̣ ̣ ̣ ̣]ⲟ̣ ⲉ̣ϫⲛ[  ̣ ̣ ̣]
+
+<persName type="monk">ⲁⲡⲓ̣ⲩ</persName> <roleName type="ecclesiastical">ⲡ̣ⲣⲥ</roleName> | ⲡ̣ⲉϥⲥⲟⲛ̣
+
+      </p>
+    </body>
+  </text>
+</TEI>
