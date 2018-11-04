@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.95</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.95</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.95</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+ⲁⲣⲓⲧⲁⲅⲁⲡⲏ ⲛⲁⲓⲟ|ⲧⲉ ⲉ̇ⲧⲟⲩⲁ̇ⲁⲃ ⲛ̇<roleName type="ecclesiastical">ⲅ̇|ⲗⲏⲣⲓⲕⲟⲥ</roleName>⸱ⲙⲛ̄|ⲛⲁⲉⲓ̈ⲟⲧⲉ ⲙ̇<roleName type="ecclesiastical">ⲙⲟⲛⲁ|(5)ⲭⲟⲥ</roleName>⸱ⲟⲩⲁⲛ ⲛⲓ̈ⲙ | ⲉ̇ⲧⲛⲁⲱϣ ϩⲙ̇ⲡⲓ̈|ⲕⲉⲫⲁⲗⲉⲱⲛ ⲛ̇|ϫⲱⲱ̇ⲙⲉ ϣ̇ⲗⲏⲗ | ϩⲓ̈ϫⲙⲡⲉⲛⲙⲁⲓ̈|(10)ⲛⲟⲩⲧⲉ ⲛⲁⲣⲭ(ⲓ)|ⲉⲧⲧ(ⲁⲓⲏⲩ) ⲕⲩⲣⲱ <roleName type="ecclesiastical">ⲁⲣⲭ(ⲓ)ⲇⲓⲁ(ⲕⲟⲛⲟⲥ)</roleName> | <persName type="donor">ϣⲉⲛⲟⲩⲧⲉ</persName>⸱ⲡ̇ϣⲏ|ⲣⲉ ⲛⲕⲩⲣⲱ ⲙⲉⲣⲕⲟⲩ|ⲣⲓⲟⲥ⸱ⲡⲁ<placeName type="city_village">ⲧⲟⲩⲧⲱⲛ</placeName>⸱|(15)	ϫⲉⲛ̇ⲧⲟϥ⸱ⲁϥϥⲓ̈|ⲡⲉϥⲣⲟⲟⲩϣ ϩⲛ̇|ⲛⲉϥϩⲓ̈ⲥⲉ ⲙ̇ⲙⲓ̈ⲛ | ⲙ̇ⲙⲟϥ⸱ⲁϥⲧⲁⲁϥ | ⲉϩⲟⲩⲛ ⲉ̇ⲧⲉⲕⲕ|(20)ⲗⲏⲥⲓⲁ ⲙ̇<placeName type="monastery">ⲡⲉⲡⲣⲟ|ⲫⲏⲧⲏⲥ ⲉ̇ⲧⲟⲩ|ⲁⲁⲃ⸱ⲁⲡⲁ ϣⲉⲛⲟⲩ|ⲧⲉ</placeName> ⲙ̇ⲡⲧⲟⲟⲩ ⲛ<placeName type="city_village">ⲁⲧ|ⲣⲉ̣ⲡⲉ</placeName> ϩⲙ̇ⲡ̇ⲧⲟϣ |(25) <placeName type="district_nomos">ⲡⲁⲛⲟⲥ</placeName>⸱ϩⲁⲡⲥⲱ|ⲧⲉ ⲛ̇ⲧⲉϥⲯⲩⲭⲏ⸱ | ϫⲉⲕⲁⲥ ⲉⲣⲉ<persName type="saint">ⲡⲉ̣ⲡ|ⲣⲟⲫⲏⲧⲏⲥ ⲉⲧⲟⲩ|ⲁⲁⲃ⸱ⲁⲡⲁ ϣⲉⲛⲟⲩ|(30)ⲧⲉ</persName> ⲡⲁⲣⲁⲕⲁⲗⲉⲓ̈ | ⲙⲡⲣⲣⲟ ⲡⲉ̣ⲭ(ⲣⲓⲥⲧⲟ)ⲥ | col. II ⲉϩⲣⲁⲓ ⲉ̇ϫⲱϥ ⲛ̇ϥ̇|ⲕⲱ ⲛⲁϥ ⲉ̇ⲃⲟⲗ ⲛ̇|ⲛⲉϥⲛⲟⲃⲉ ⲧⲏ̇ⲣⲟⲩ⸱|(35) ⲛ̇ϥ̇ⲥ̇ⲙⲟⲩ ⲉ̇ⲣⲟϥ | ⲙⲛ̇ⲧⲉϥⲥ̇ϩⲓ̈ⲙⲉ⸱ | ⲙⲛ̇ⲛⲉϥϣⲏⲣⲉ⸱ⲙⲛ|ⲡⲉϥϫⲓ̈⸱ⲙⲛⲡⲉϥϯ | ⲙⲛ̇ⲉⲛⲕⲁ ⲛⲓⲙ ⲉⲧ|(40)ϣⲟⲟⲡ ⲛⲁϥ⸱ⲁⲩⲱ̇ | ⲟⲛ ⲛ̇ϥϯ ⲛⲁϥ⸱ | ⲛ̇ⲧ̇ϣⲃ̇ⲃⲓⲱ̇ ⲙ̇ⲡⲉ|ϥⲉⲣⲏⲧ ⲛ̇ϣⲉ ⲛ̇|ⲕⲱⲃ ⲛ̇ⲥⲟⲡ ϩⲛ̄ⲑⲓ|(45)ⲗ︦ⲏ︦ⲙ︦ ⲛ̇ⲧⲡⲉ⸱ⲧⲡⲟ|ⲗⲓ̈ⲥ ⲛ̇ⲛⲉⲇⲓ̈ⲕⲁⲓ̈ⲟⲥ | ⲧⲏⲣⲟⲩ⸱ϩⲁⲙⲏⲛ | ⲉ̇ⲥⲉϣⲱⲡⲉː- | ⲁⲣⲓ̈ⲡⲉⲛⲙⲉⲉⲩⲉ̇ |(50) ϩⲱⲱⲛ ⲛⲁⲅⲁⲡⲏ | ⲛⲁⲓ̈ⲟⲧⲉ ⲉ̇ⲧⲟⲩⲁⲁⲃ | ϩⲙ̄ⲡ̇ⲃⲓ̈ ⲉϩⲣⲁⲓ̈ ⲛ̇|ⲛⲉ[ⲧⲉ]ⲛϭⲓϫ⸱ | ⲁⲛⲟⲛⲡⲉ ⲛⲓⲉⲗⲁ|(55)ⲭⲓ̈ⲥⲧⲟⲥ ⲛ̇ⲣⲉϥⲣ̇|ⲛⲟⲃⲉ⸱<persName type="copyist">ⲕⲁⲗⲁⲙⲱⲛ</persName> | <roleName type="ecclesiastical">ⲇⲓ(ⲁⲕⲟⲛⲟⲥ)</roleName>⸱(ⲕⲁⲓ) <persName type="copyist">ⲥⲧⲉⲫⲁⲛⲟⲥ</persName> | <roleName type="ecclesiastical">ⲇⲓⲁⲕⲟ(ⲛⲟⲥ)</roleName>⸱ⲛⲉϣⲏⲣⲉ | ⲙ̇ⲡ̇<roleName type="ecclesiastical">ⲇⲓ̣(ⲁⲕⲟⲛⲟⲥ)</roleName> <persName type="monk">ⲃⲁⲥⲓⲗⲉ</persName>⸱ⲛⲉ<roleName type="ecclesiastical">ⲕ|(60)ⲣⲁⲙⲁⲧⲉⲩⲥ</roleName> ⲛ̇<placeName type="city_village">ⲧⲟⲩ|ⲧⲱⲛ</placeName>⸱ⲉ̇<placeName type="district_nomos">ⲡⲓⲟⲙ</placeName>⸱| ⲁⲡⲟ ⲇⲓⲟⲕⲗⲏ(ⲧⲓⲁⲛⲟⲩ) ⲙ(ⲁ)ⲣ(ⲧⲩⲣⲱⲛ) ⲭⲙ[ 
+    </p>
+    </body>
+  </text>
+</TEI>
