@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.59</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.59</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.59</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+ⲁⲣⲓⲧⲁⲅⲁⲡⲏ ⲛⲁⲉⲓⲟⲧⲉ | ⲙⲛⲛⲁⲥⲛⲏⲩ⸱ⲛ<roleName type="ecclesiastical">ⲕⲗⲏⲣⲓ|ⲕⲟⲥ</roleName>⸱ⲟⲩⲟⲛ ⲛⲓⲙ ⲉⲧⲛⲁⲱϣ | ϩⲙⲡⲉⲓⲕⲉⲫⲁⲗⲁⲓⲟⲛ ⲛ|(5)ϫⲱⲱⲙⲉ ⸱ ϣⲗⲏⲗ ⲉϩⲣⲁⲓ | ⲉϫⲛⲧⲉⲛⲙⲁⲓⲛⲟⲩⲧⲉ ⲛ|ⲥⲱⲛⲉ ⲙⲙⲁⲓⲁⲅⲁⲡⲏ ⲁⲩⲱ | ⲙⲙⲁⲓⲡⲣⲟⲥⲫⲟⲣⲁ | ⲛ̇̇̇̇̇̇ⲧⲁⲥϥⲓⲡⲉϥⲣⲟⲟⲩϣ ϩⲁ|(10)ⲡⲟⲩϫⲁⲓ ⲛ̇ⲧⲉⲥⲯⲩⲭⲏ | ⲙⲛⲧⲉⲯⲩⲭⲏ ⲙⲡⲉⲥⲙⲁⲕⲁ|ⲣⲓⲟⲥ ⲛⲥⲟⲛ m² <persName type="donor">ⲅⲉⲱⲣⲅⲉ | ⲡϣⲉⲛϩⲁⲣⲱⲛ</persName> | m¹ ⲛ̇ⲧⲁϥⲉⲓ ⲉⲃⲟⲗ ϩⲛⲥⲱⲙⲁ |(15) ⲁϥⲁⲡⲟⲇⲏⲙⲉⲓ ϣⲁⲡ⳪︦ ⲓⲥ︦ | ϩⲛ̇ⲧⲉⲓⲣⲟⲙⲡⲉⲧⲁⲓ⸱ⲉⲁⲥ|ϥⲓⲡⲣⲟⲟⲩϣ ⲙ̇ⲡⲉⲓϫⲱⲱ|ⲙⲉ⸱ⲁⲥⲕⲁⲁϥ ϩⲛⲧⲉⲕⲕⲗⲏ|ⲥⲓⲁ ⲙ̇ⲡϩⲁⲅⲓⲟⲥ [rasura]  ̣ⲟ |(20)   ̣   ̣[        rasura         ] ⲉⲩⲣ|ⲡⲙⲉⲉⲩⲉ ⲛⲧⲉⲯⲩⲭⲏ ⲙ|ⲡⲉⲥⲙⲁⲕⲁⲣⲓⲟⲥ ⲛ̇ⲥⲟⲛ ϩⲙ̄|ⲡⲧⲟⲡⲟⲥ ⲉⲧⲉϥϣⲟⲟⲡ ⲛ̇ϩⲏ|ⲧϥ ⲧⲉⲛⲟⲩ⸱ϫⲉⲕⲁⲥ ⲉ|(25)ⲣⲉⲡⲓϩⲁⲅⲓⲟⲥ rasura | ⲛⲁⲡⲁⲣⲁⲕⲁⲗⲉⲓ ⲙⲡⲉⲭ︦ⲥ︦ ⲉ|ϩⲣⲁⲓ ⲉϫⲱϥ ⲛϥ̇ⲕⲱ ⲛⲁϥ | ⲉⲃⲟⲗ ⲛ̇ⲛⲉϥⲛⲟⲃⲉ ⲛ̇ⲑⲉ | ⲙ̇̇̇̇̇ⲡⲉϩⲟⲟⲩ ⲛⲧⲁⲩϫⲡⲟϥ ⲉ|(30)ⲡⲉⲓⲕⲟⲥⲙⲟⲥ ⲛ̇ϩⲏⲧϥ⸱| ⲁⲩⲱ ⲛϥⲛⲟϫϥ ⲉⲕⲟⲩ|ⲛϥ ⲛ<persName type="biblical">ⲁⲃⲣⲁϩⲁⲙ</persName> ⲙⲛ<persName type="biblical">ⲓⲥⲁ|ⲁⲕ</persName> ⲙⲛ<persName type="biblical">ⲓ̇ⲁⲕⲱⲃ</persName> ϩⲛ|ⲧⲙⲛⲧⲉⲣⲟ ⲛⲙⲡⲏⲩⲉ | (35) ϩⲁⲙⲏⲛ ⲉϥⲉϣⲱⲡⲉ | ⲁⲩⲱ ⲛϥⲁⲁⲥ ⲛⲙⲡϣⲁ ϩⲱ|ⲱⲥ ⲛ̇ⲟⲩⲙⲉⲣⲓⲥ ⲙⲛ̄ⲟⲩ|ⲕⲗⲏⲣⲟⲥ⸱ⲙⲛ̇ⲛⲉⲧⲟⲩⲁ|ⲁⲃ ⲧⲏⲣⲟⲩ⸱ⲅⲉⲛⲉⲧⲟ | (40) ⲁⲙⲏⲛ ⲁⲙⲏⲛ ⲁⲙⲏⲛ | ⲱⲛϩ ϯⲕⲁⲣⲡⲟⲥ ⲙ|ⲡⲛⲟⲩⲧⲉ⸱ⲛϩⲏⲧϥ | ϩⲙ́ⲡⲣⲁϣⲉ ⲙ̇ⲡⲉⲑⲩ|ⲥⲓⲁⲥⲧⲏⲣⲓⲟⲛ ⲉⲧⲟⲩⲁ|(45)ⲁⲃ⸱ⲛⲉⲛⲙⲁⲓⲛⲟⲩⲧⲉ | ⲛ̇<<roleName type="ecclesiastical">ⲕⲗⲏⲣⲓⲕⲟⲥ</roleName> ⲡⲁ|ⲉⲓⲱⲧ ⲡ<roleName type="ecclesiastical">ⲁⲣⲭ(ⲓⲙⲁⲛⲇⲣⲓⲧⲏⲥ)</roleName> <roleName type="ecclesiastical">ⲇⲓ(ⲁⲕⲟⲛⲟⲥ)</roleName> <persName type="monk">ⲓ̇̇̇̇̇̇ⲥⲁ|ⲁⲕ</persName> (ⲕⲁⲓ) ⲡⲉϥⲥⲟⲛ ⲡ<roleName type="ecclesiastical">ⲇⲓ(ⲁⲕⲟⲛⲟⲥ)</roleName> | <persName type="monk">ⲓⲱϩⲁⲛⲛⲏⲥ</persName> (ⲕⲁⲓ) ⲡ<roleName type="ecclesiastical">ⲇⲓ(ⲁⲕⲟⲛⲟⲥ)</roleName> | (50)	<persName type="monk">ⲛⲁⲧⲟⲗⲉⲩⲥ</persName> (ⲕⲁⲓ) <persName type="monk">ⲡⲁϩⲱ|ⲙⲟ̇</persName> <roleName type="ecclesiastical">ⲁⲛⲁⲅⲛⲱⲥⲧⲏⲥ</roleName> | ⲙⲛ̇ⲡⲥⲉⲉⲡⲉ ⲙⲡⲉⲩ|ⲕⲗⲏⲣⲟⲥ ⲧⲏⲣϥ ⲉⲣⲉ|ⲡ⳪︦ ⲡⲉⲭⲥ︦ ⲕⲁⲧⲉϥⲉⲓ|(55)ⲣⲏⲛⲏ ϩⲓϫⲱⲟⲩ ⲧⲏⲣⲟⲩ | ϩⲁⲙⲏⲛ | ⲁⲡⲟ ⲇⲓⲟⲕ(ⲗⲏⲧⲓⲁⲛⲟⲩ) ⲯ︦ⲓ︦ⲑ︦
+    </p>
+    </body>
+  </text>
+</TEI>
