@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.100</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.100</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.100</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+ⲡϫ(ⲟⲉⲓ)ⲥ ⲓ(ⲏⲥⲟⲩ)ⲥ ⲡⲉⲭ(ⲣⲓⲥⲧⲟ)ⲥ [ⲉϥ]ⲉⲥⲙⲟⲩ ⲉ|ⲡⲱⲛϩ̄ ⲙⲛ[ⲡ]ⲧⲁϩⲟ̣ ⲉⲣⲁⲧ(ϥ) | ⲙ̇ⲡⲉⲛⲉⲓ̈ⲱⲧ ⲉⲧⲧⲁⲓⲏ̣ⲩ | ⲙⲙⲁⲓ̇ⲛⲟⲩⲧ(ⲉ) ⲙⲙⲁⲓ̈ⲁⲅⲁ|(5)ⲡⲏ ⲙⲙⲁⲓ̇[ⲉⲕⲕⲗ]ⲏ[ⲥⲓⲁ] | ⲡⲣⲱⲙⲉ ⲙⲡⲛⲟⲩⲧ(ⲉ) ⲉⲧ|ϫⲏⲕ ⲉⲃⲟⲗ ϩⲛ̄ⲛⲉϥ|ⲁⲣⲉⲧⲏ ⲡⲁⲡⲉⲥⲭⲏⲙⲁ | ⲛⲁⲅⲅⲉⲗⲓ̄ⲕⲟⲛ ⲡⲁⲓⲧ | (10) <persName type="donor">ϭⲟⲩⲣⲉⲉⲓ̈ϭ</persName> ⲡ<roleName type="ecclesiastical">ⲙⲟⲛⲁⲭⲟⲥ</roleName> | ⲛ̇ⲧⲉⲗⲓ̈ⲟⲥ ⲉⲧϩⲙⲡⲙⲟ|ⲛⲁⲥⲧⲏⲣⲓ̈ⲟⲛ ⲙ<placeName type="monastery">ⲡⲉⲛ(ⲓ̈)ⲱⲧ | ⲙ̄ⲡⲛ(ⲉⲩⲙ)ⲁⲧⲟⲫⲟⲣⲟ(ⲥ) ⲁⲡⲁ ϣⲉ|ⲛⲟⲩⲧⲉ</placeName> ⲙ̇[ⲡⲧ]ⲟⲟⲩ ⲛ<placeName type="city_village">ⲁⲧ|(15)[ⲣⲏⲡⲉ</placeName> ϫⲉⲛⲧⲟ]ϥ [ⲁϥ]ϥ̣ⲓ̈|[ⲣⲟⲟⲩϣ ⲙⲡⲓⲕⲁ]ⲧⲁⲙⲉⲣⲟⲥ | [ϩⲛⲛⲉϥϩⲓⲥⲉ ⲙⲙ]ⲓⲛ ⲙ̣̄|[ⲙⲟϥ ⲁϥⲧⲁⲁϥ ⲉϩⲟ]ⲩ̣ⲛ | [ⲉⲧⲉⲕⲕⲗⲏⲥⲓⲁ ⲙ<placeName type="church_basilica">ⲡ]ⲉⲛ|(20)[ⲉⲓⲱⲧ ±7 ⲥ]ⲁⲣⲏⲥ</placeName> | ⲙ̇ⲡⲙⲟⲛⲁ[ⲥ]ⲧⲏⲣⲓ̈ⲟⲛ | [ϩⲁ]ⲡⲟⲩϫⲁⲓ ⲛ̇ⲧⲉϥⲯⲩⲭⲏ | ⲁ[ⲩ]ⲱ ⲛⲧⲟϥ ⲡⲉⲛⲧⲁϥ|ⲕⲱⲧ ⲛϯⲉⲕⲕⲗⲏⲥⲓⲁ |(25) ϩⲛⲛⲉϥϣⲡϩⲓⲥⲉ ⲙⲙⲓ̈ⲛ | ⲙⲙⲟϥ ⲁϥⲧⲣⲉⲩϩⲁⲅⲓ̇ⲁⲍⲉ | ⲙⲙⲟⲥ ⲁϥϥⲓ̇ⲡⲉⲥⲣⲟⲟⲩϣ | ⲉϥⲥⲩⲛⲁⲅⲉ ⲛϩⲏⲧⲥ ϩⲛ̄|ⲡⲉϩⲟⲟⲩ ⲙⲡⲣⲡⲙⲉⲉⲩⲉ | (30) ⲙ̇ⲡⲉⲛⲉⲓⲱⲧ ⲁⲡⲁ <persName type="saint">ⲥⲏⲑ</persName> | ⲙⲛ̄ⲡⲉⲛⲉⲓⲱⲧ ⲁⲡⲁ <persName type="saint">ⲕⲗⲁⲩⲧ(ⲓⲟⲥ) | ⲡⲁⲛⲁⲭⲟⲣⲓⲧ(ⲏⲥ)</persName> ϫⲉⲕⲁⲥ  | ⲉⲩⲉϫⲓ̇ϩ[ⲙ]ⲟⲧ ⲉϩⲣⲁⲓ̇ | ⲉϫⲱϥ ⲛⲛⲁϩⲣⲙ̄ⲡⲣⲣⲟ | ⲡⲉⲭ(ⲣⲓⲥⲧⲟ)ⲥ ⲛϥϫⲟⲕϥ ⲉⲃⲟⲗ | ϩⲙ̄ⲡⲉⲥⲭⲏⲙⲁ ⲛⲁⲅⲅⲉⲗⲓⲕⲟ̣ | ⲅⲉⲛⲉⲧⲟ ⲁⲙⲏ(ⲛ) ⲡⲟⲟⲩ ⲡⲁⲓ̇ | ⲥⲟⲩⲕ̄ⲃ︦ ⲛ̇ⲉⲡⲏⲡ ⲭⲣ(ⲟⲛⲟⲥ) ⲙ(ⲁ)ⲣ(ⲧⲩⲣⲱⲛ) ⲱ̄ⲗ︦ⲇ︦ | ⲡⲓ̇ⲉⲃⲓⲏⲛ <persName type="copyist">ⲃⲓⲕⲧ(ⲱⲣ) ⲩ(ⲓⲟ)ⲥ ⲛϣⲉⲛⲟⲩⲧ(ⲉ)</persName> <placeName type="city_village">ⲡⲟⲗ(ⲓⲥ) ⲡⲁ[ⲛⲟⲥ]</placeName> | ⲟⲩⲟⲓ̇ ⲛⲁⲓ ⲁⲛⲟⲕ ϫⲉϣⲁⲣⲉⲟⲩⲟ̣[ⲉⲓϣ] | ϣⲱⲡⲉ ⲛ̇ϯϣⲟⲟⲡ ⲁⲛ
+      </p>
+    </body>
+  </text>
+</TEI>
