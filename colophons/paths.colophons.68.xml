@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.67</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.67</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.67</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+ⲡⲁⲓⲡⲉ ⲡⲉⲣⲏⲧ ⲁⲩⲱ ⲡⲇⲱⲣⲟⲛ | ⲉⲛⲁⲡⲉⲣⲁⲧⲟⲛ ⲛⲧⲁⲙⲁⲓⲛⲟⲩ|ⲧⲉ ⲛⲥⲱⲛⲉ <persName type="donor">ⲕⲟⲩⲛⲧⲓⲧⲉ ⲧϣⲉ|ⲉⲣⲉ ⲙⲡⲙⲁⲕⲁⲣⲓⲟⲥ rasura</persName> |(5) ϩⲛⲧⲡⲟⲗⲓⲥ <placeName type="city_village">ⲣⲙⲟⲛ︤̄ⲧ︥</placeName>⸱ⲁⲥϥⲓⲡⲉϥ|ⲣⲟⲟⲩϣ ϩⲛⲛⲉⲥϩⲓⲥⲉ ⲙⲙⲓⲛ ⲉ|ⲙⲙⲟⲥ ⲁⲥⲧⲁⲁϥ ⲉϩⲟⲩⲛ ⲉⲡⲧⲟ|⟦ⲡⲧⲟ⟧ⲡⲟⲥ ⲙ<placeName type="monastery">ⲡⲁⲣⲭⲁⲅⲅⲉⲗⲟⲥ ⲙⲓ|ⲭⲁⲏⲗ</placeName> ⲙⲡ[   ] ϩⲁⲡⲟⲩ|(10)ϫⲁⲓ ⲛⲧⲉⲥⲯⲩⲭⲏ ⲙⲛⲧⲁⲡⲉⲥ|ϩⲁⲓ ⲙⲛⲧⲁⲛⲉⲥϣⲏⲣⲉ ϫⲉ|ⲕⲁⲥ ⲉⲣⲉⲡ<persName type="arch_angel">ⲁⲣⲭⲁⲅⲅⲉⲗⲟⲥ ⲙⲓⲭⲁ|ⲏ︤ⲗ︥</persName> ⲛⲁⲥⲙⲟⲩ ⲉⲣⲟⲥ ⲙⲛⲡⲉⲥϩⲁⲓ | ⲙ︤ⲛ︥ⲛⲉⲥϣⲏⲣⲉ · ⲛⲑⲉ ⲛ̄ⲧⲁϥ|(15)	ⲥⲙⲟⲩ ⲉⲛⲉⲛⲉⲓⲟⲧⲉ ⲙ̄ⲡⲡⲁⲧⲣⲓ|ⲁⲣⲭⲏⲥ · <persName type="biblical">ⲁⲃⲣⲁϩⲁⲙ</persName> · ⲙⲛ<persName type="biblical">ⲓⲉⲥⲁⲕ</persName> | ⲙⲛ<persName type="biblical">ⲓⲁⲕⲱⲃ</persName> · ⲙ︤ⲛ︥<persName type="biblical">ⲥⲁⲣⲣⲁ</persName> ⲙⲛ|<persName type="biblical">ϩⲉⲣⲉⲕⲕⲁ</persName> ·ⲙⲛ<persName type="biblical">ⲗⲓⲁ</persName> ⲙⲛ<persName type="biblical">ϩⲣⲁⲭⲏⲗ</persName> | ⲁⲩⲱ ⲉⲩϣⲁⲛⲉⲓ ⲉⲃⲟⲗ ϩⲙⲡⲉⲓ|(20)ⲃⲓⲟⲥ ⲛ̄ⲧⲉⲡ<persName type="arch_angel">ⲁⲣⲭⲁⲅⲅⲉⲗⲟⲥ | ⲉⲧⲟⲩⲁⲁⲃ ⲙⲓⲭⲁⲏⲗ</persName> ϫⲓϩⲙⲟⲧ | ⲉϩⲣⲁⲓ ⲉϫⲱⲟⲩ ⲛϥⲧⲟⲩϫⲟⲟⲩ | ⲉⲛⲕⲟⲗⲁⲥⲓⲥ ⲉⲧϩⲁϩⲟⲧⲉ ⲛϥ︦|ϫⲓⲧⲟⲩ ⲉϩⲟⲩⲛ ⲙⲙⲁ ⲛⲙⲧⲟⲛ |(25)	ⲛⲧⲙⲛⲧⲉⲣⲟ︥︥ ⲛⲙ̄ⲡⲏⲩⲉ̄ ⲛϥ|ⲧⲙⲙⲟⲟⲩ ⲉⲃⲟⲗ ϩⲙⲡϣⲏⲛ ⲙ̄|ⲡⲱ︦ⲛ︦ϩ︥ · ⲛϥⲁⲁⲩ ⲛⲙⲡϣⲁ | ⲛⲥⲱⲧⲙ ⲉⲧⲉⲥⲙⲏ ⲙⲙⲁⲕⲁⲣⲓ|ⲟⲛ ⲉⲧⲙⲉϩ ⲛⲣⲁϣⲉ ϩⲓⲉⲩⲫⲣⲟⲥⲩ|(30)ⲛⲏ ϫⲉ ⲁⲙⲏⲓⲧⲛ ⲛⲉⲧⲥⲙⲁⲙⲁⲁⲧ | ⲛⲧⲉⲡⲁⲉⲓⲱⲧ ⲛ̄ⲧⲉⲧⲛⲕⲗⲏ|ⲣⲟⲛⲟⲙⲉⲓ ⲛⲧⲙⲛⲧⲉⲣⲟ ⲛⲧⲁⲩ|ⲥⲃⲧⲱⲧⲥ ⲛⲏⲧⲛ ϫⲓⲛⲧⲕⲁ|ⲧⲁⲃⲟⲗⲏ ⲙⲡⲕⲟⲥⲙⲟⲥ ⸱ ⲁⲛⲟⲛ |(35) ⲙⲡⲅⲉⲛⲟⲥ ⲧⲏⲣϥ ⲛ̄ⲛⲉⲭⲣⲓⲥ|ϯⲁⲛⲟⲥ ⸱ ⲁⲙⲏⲛ (ⲕⲁⲓ) ⲁⲙⲏⲛ ⸱ ⲉϥⲉϣⲱⲡⲉ | ⲧⲉⲗⲓⲟⲩⲙⲛⲟⲩ ⸱ ⲙϣⲓⲣ ⲥⲟⲩⲏ̄ ⸺ ⲧⲟⲛ ⲁⲅⲓⲟⲛ ⲙⲁⲣⲧ(ⲩⲣⲟⲛ) ⲭ̄ϥ︤ⲑ︦ · ⲥⲁⲣⲁ|ⲕⲉⲛⲟⲥ ⲧ̄ⲟ̄ⲁ̄ ⲁⲛⲟⲕ ⲡⲉⲓⲉⲗⲁⲭ(ⲓⲥ)|(40)ⲧⲟⲥ <persName type="copyist">ⲙⲁⲣⲕⲟⲥ</persName> <roleName type="ecclesiastical">ⲇⲓ(ⲁ)ⲕ(ⲟⲛⲟⲥ)</roleName> ⲅⲣⲁⲯⲁⲥ | ϣⲗⲏⲗ ⲉϫⲱⲓ ⲛⲁⲅⲁⲡⲏ : -
+    </p>
+    </body>
+  </text>
+</TEI>
