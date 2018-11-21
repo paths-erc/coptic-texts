@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.97</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.97</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.97</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+      ⲡ]ⲁⲓ̈ⲡⲉ ⲡⲉⲣⲏⲧ ⲛ̄ⲧⲁⲛⲓⲙ ⲛ̄ⲥϩⲓⲙⲉ ϥⲓⲡⲉϥ<lb />ⲣ]ⲟⲩϣ ⲡϫⲟⲉⲓ̣ⲥ ⲡⲛⲟⲩⲧⲉ ⲥⲟⲟⲩⲛ ⲛ̄ⲛⲉⲩⲣⲁⲛ<lb />ⲁⲥ]ⲧⲁⲁϥ ϩⲓϫⲛ ⲉⲡⲧⲟⲡⲟⲥ ⲙ̄ⲡϩⲁⲅⲓⲟⲥ ⲁⲡ[ⲁ]<lb /><placeName type="hermitage">ⲓⲱ]ϩⲁⲛⲛⲏⲥ ⲛⲃⲁⲡⲧⲓⲥⲧⲏⲥ</placeName> ⲛ̄<placeName type="city_village" ref="paths:places:103">ⲧ̣ⲓⲛ</placeName> ϩⲁⲡⲟⲩ<lb />ϫⲁ]ⲓ̣ ⲛ︦ⲧ︦ⲉ[ⲥ]ⲯ̣ⲩⲭⲏ ⲙ︦ⲛ︦ⲡⲉⲥⲙⲁⲕⲁⲣⲓⲟⲥ <lb /> ⲛ]ϩ̣ⲁⲓ̈ ⲙⲛⲛ̣ⲉⲥϣⲏⲣⲉ ⲙⲛⲛⲉⲥⲣⲱⲙⲉ <lb /> ⲧ]ⲏⲣⲟⲩ ⲕⲁ̣ⲧⲁⲛⲉⲩⲣⲁⲛ ϫⲉⲕⲁⲥ ⲉⲣⲉ<lb />ⲡ̣ⲛ̣ⲟⲩⲧⲉ ⲙⲛ︦ⲡϩⲁⲅⲓⲟⲥ ⲁⲡⲁ ⲓ̈ⲱϩⲁⲛ<lb />ⲛ]ⲏⲥ ⲛⲁⲥⲙⲟⲩ ⲉⲣⲟⲟⲩ ⲙⲛ̄ⲡⲉⲕⲗⲏ <lb />ⲣ]ⲟ̣ⲥ ⲧⲏⲣ[ϥ] ⲙ̣ⲛ̣[ⲡⲉ]ⲩ̣ⲏⲓ ⲧⲏⲣϥ ⲕⲁⲧⲁ<lb />[ⲡⲉ]ⲥⲙⲟⲩ ⲛ︦<persName type="biblical">ⲁ̣ⲃ̣ⲣ̣ⲁ̣ϩ̣ⲁ̣ⲙ̣</persName> ⲙⲛ︦<persName type="biblical">ⲓ̈ⲥⲁⲁⲕ</persName> ⲙⲛ︦<lb /><persName type="biblical">[ⲓⲁ]ⲕⲱⲃ</persName> ϩ̣ⲛ̣ⲟ̣ⲩ̣ⲉⲓⲣⲏⲛⲏ ϩⲁⲙⲏⲛ
+      </p>
+    </body>
+  </text>
+</TEI>
