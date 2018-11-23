@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.139</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.139</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.139</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+⳧ ⲡ(ϫ)ⲟ(ⲉⲓ)ⲥ ⲓ(ⲏⲥⲟⲩ)ⲥ ⲡⲉⲭ(ⲣⲓⲥⲧⲟ)ⲥ ⲥⲙⲟⲩ ⲉⲡⲣⲱⲙⲉ | ⲛⲧⲁϥϥⲓⲡⲣⲟⲟⲩϣ ⲙⲡⲉⲓⲕⲟⲩⲓ | ⲛϫⲱⲱⲙⲉ ϩⲉⲛⲛⲉϥϩⲓⲥⲉ ⲙ|ⲙⲓⲛ ⲛⲙⲙⲟϥ ⲁϥⲧⲁⲁϥ ⲉϩⲟⲩ(ⲛ) | (5) ⲉⲧ<placeName type="church_basilica">ⲉⲕⲕⲗⲏⲥⲓⲁ̇ ⲙⲡϩⲁⲅⲓⲟⲥ | ⲅⲉⲱⲣⲅⲓⲟⲥ̄ ⲡⲙⲁⲣⲧⲩⲣⲟⲥ ⲛ|ϫⲱⲱⲣⲉ</placeName> ϩⲉⲛ<placeName type="city_village">ⲛⲁⲣⲙⲟⲩ|ⲧⲉ</placeName> ⲙ<placeName type="district_nomos">ⲡⲓⲟⲙ</placeName> ϩⲉⲛⲛⲉϩⲟⲟⲩ ⲛ|ⲛⲉⲛⲉⲓⲟⲧⲉ ⲛ<roleName type="ecclesiastical">ⲕⲗⲏⲣⲓⲕⲟⲥ</roleName> | (10) ⲡⲁⲓⲱⲧ ⲡⲁⲡⲁ <persName type="monk">ⲉⲛⲱⲭ</persName> ⲙⲛ|ⲡⲁⲡⲁⲓ̣ⲱⲧ ⲡⲁⲡⲁ <persName type="monk">ⲁⲃⲣⲁϩⲁⲙ</persName> | ⲙⲛⲡⲁⲡⲁ <persName type="monk">ⲥⲁⲙⲟⲩⲏⲗ</persName> ⲙⲛ|[ⲡ]ⲁⲡⲁ <persName type="monk">ⲥⲉⲩⲏⲣⲟⲥ</persName> ⲙⲛⲡ<roleName type="ecclesiastical">ⲇⲓⲁⲕⲱ(ⲛⲟⲥ)</roleName> | <persName type="monk">[ⲁ]ⲡⲁⲓⲟⲩⲗⲉⲓ</persName> ⲡ<roleName type="ecclesiastical">ⲥⲁϩ ⲛⲁⲛⲥⲏ|(15)[ⲃ]ⲏⲛ</roleName> ⲙⲛⲡ<roleName type="ecclesiastical">ⲇⲓⲁⲕⲟ(ⲛⲟⲥ)</roleName> <persName type="monk">ⲁⲡⲁⲓⲟⲩⲗⲉ</persName> | [ⲡϣ]ⲏⲣⲉ ⲙⲡⲁⲡⲁ <persName type="monk">ⲥⲉⲙⲱⲛ</persName> | [± 3]ⲉⲕⲕⲉⲧⲱϭⲉ ⲛⲃⲣⲣⲉ | [ⲡ<roleName type="ecclesiastical">ⲇⲓⲁ]ⲕⲟ(ⲛⲟⲥ)</roleName> <persName type="monk">ⲭⲟⲩⲗⲉⲓⲡ</persName> ⲙⲛⲡ<roleName type="monk">ⲇⲓⲁⲕⲟ(ⲛⲟⲥ)</roleName> | [± 5]ⲉ̣ ⲙⲛⲡⲉⲩⲕⲉⲕⲟⲩⲓ | (20) [ⲛⲥⲟⲛ ⲛ<roleName type="ecclesiastical">ⲁ]ⲛⲁⲅⲛⲟⲥⲧⲏⲥ</roleName> <persName type="monk">ⲁⲃ|[ⲣⲁϩⲁⲙ</persName> ⲙ]ⲛ̣ⲛ<roleName type="ecclesiastical">ⲇⲓⲁⲕⲟⲩ(ⲛⲟⲥ)</roleName> <persName type="monk">ⲭⲟⲩ|[ⲗⲉⲓⲡ</persName> ± 5]ⲙ̣ⲡⲁⲡⲁ | [± 10]ⲛ̣<roleName type="ecclesiastical">ⲇⲓⲁⲕⲟⲩ(ⲛⲟⲥ)</roleName> | [± 9] ϩ̣ⲁⲣⲉϩ ⲉⲣⲟⲟⲩ | (25) [± 17]ⲡⲉ | [---] | [---]ϩ̣ | [---]ⲧ̣ | [---]ⲉϩ | ---
+    </p>
+    </body>
+  </text>
+</TEI>
