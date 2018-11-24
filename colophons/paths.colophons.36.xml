@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.35</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.35</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.35</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+† Ἐγὼ <persName type="copyist">Ἀρχελλίτ(ης) ἐλάχ(ιστος) <roleName type="ecclesiastical">διάκο(νος)</roleName> παῖς τοῦ | Ἰωσὴφ</persName> <roleName type="ecclesiastical">πρεσ(βύτερος)</roleName> <placeName type="city_village">πώλ(εως) Λάτ(ων)</placeName> Διοκλε(τιανοῦ) | ψια
+
+† Ἐγὼ <persName type="copyist">ⲁⲍⲁⲣⲓⲁ</persName> ἐλάχ(ιστο)ς | <roleName type="ecclesiastical">ⲇⲓⲁⲕⲟⲛⲟⲩ</roleName> ⲡ<roleName type="ecclesiastical">ϩⲓⲡⲉⲣⲉϯⲥ</roleName> | ⲛ̄ⲁⲃⲃⲁ <persName type="bishop">ⲛⲓⲕⲟⲇⲓⲙⲟⲥ</persName> <roleName type="ecclesiastical">ⲉⲡⲓⲥ|ⲕⲟⲡⲟⲩ</roleName> ⲧ<placeName type="city_village">ⲡⲟⲗⲉⲟⲥ ⲑⲉⲟⲛ</placeName> | (5) ⲟⲩⲟⲛ ⲛⲓⲙ ⲉⲧⲛⲁⲱϣ | ⲡⲓⲥϩⲁⲓ ⲙⲁⲣϥⲥⲟⲡⲥ︦ⲡ ⁖ –
+    </p>
+    </body>
+  </text>
+</TEI>
