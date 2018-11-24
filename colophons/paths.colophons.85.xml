@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.85</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.85</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.85</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+⳨ εὔξασθε ὑπὲρ ἐμοῦ ἐγὼ ὁ τάλας | ἁμαρτωλοὺς⸳<persName type="copyist">Αὐρίλλιος⸳Βίκτωρ | ἐλάχιστου κ(αὶ) ἀνάξιου <roleName type="ecclesiastical">διάκο(νος)</roleName> παῖς | τοῦ μακαρίο(υ) Μερκουρίο(υ)</persName> <roleName type="ecclesiastical">διακό(νου)</roleName> <placeName type="monastery">τοῦ | (5)	ἁγίου Μερ(κυρίου) μεγαστρατηλάτ(ου)</placeName> ἀπὸ τ(ῆς) | <placeName type="city_village">πόλ(εως) Λατ(οῦς)</placeName> ἔγραψας βύβλος πάντων | ἀναγνωθη τὴν βιβλίου ἐπεύ|ξεται με ὅπως διεξάγοι κ(ύριο)ς τὴν | ἐλεοινὸ μου βίον εὐαρεστῶν ἀμή(ν)
+
+fol. 31r = van Lantschoot CXVII
+ἐγράφη μεν[ὶ] Παχων ἡμέ[ρᾳ] | ιζ ⸱ἰνδικδίο̣νος [   ] ἀπὸ τ(ῶν) | ἁγίων Μ(α)ρ̣(τύρων) [		] ἔτ[ους | Σαρακινός [
+
+ ̣ ̣]ⲉⲧ ːⲧ ⲙⲙⲁⲓⲁⲅⲁⲡ̣ⲏ ⲁⲩⲱ ⲙ̄ⲙⲁⲓⲡⲣⲟⲥⲫ̣ⲟ̣|[ⲣⲁ <persName type="donor">ⲅ]ⲉⲟⲣⲅⲓⲟⲥ ⲡϣⲏⲣⲉ ⲙ̄ⲡⲙⲁⲕⲁⲣⲓⲟⲥ ⲡϩⲏⲩ</persName> | ⲁϥ̣ⲥⲙⲛ︤ⲧ︥ⲡⲉⲓϫⲱⲱⲙⲉ ϩⲛ̄ⲛϥ̄ϩⲓⲥⲉ ⲙⲙⲓⲛ | (5) ⲙⲙⲟϥ ⸳ ⲁϥⲇⲱⲣⲓⲍⲉ ⲙⲙⲟϥ ⲉϩⲟⲩⲛ ⲉⲡⲙⲟ|ⲛⲁⲥⲧⲏⲣⲓⲟⲛ ⲙⲡ<placeName type="monastery">ⲫⲁⲅ̣ⲓ̣ⲟⲥ ⲙⲉⲣⲕⲟⲩⲣⲓⲟⲥ ⲡⲉⲥ|ⲧⲣⲁⲧⲏⲗ(ⲁ)ⲧ(ⲏⲥ) ⲁⲩⲱ ⲡⲁⲅⲱⲛⲱ̣(ⲑ)ⲉⲧⲏⲥ</placeName> ϩⲁ|ⲡⲟⲩϫⲁⲓ ⲛⲧϥ̄ⲯⲩⲭⲏ ⸳ ϫⲉⲕⲁⲥ ⲉⲣⲉⲡⲛⲟⲩⲧ(ⲉ) | ⲙ̄ⲡ<persName type="saint">ϩⲁⲅⲓⲟ(ⲥ) ⲙⲉⲣⲕⲟⲩⲣⲓⲟⲥ</persName> ⲛⲁⲥⲙⲟⲩ ⲉⲣⲟϥ [ϩ]ⲙ̣|(10) ⲡⲉⲓⲕⲟⲥⲙⲟⲥ ⲙⲛ̄ⲧϥ̄ⲥϩⲓⲙⲉ ⸳ ⲙⲛ̄ⲛϥ̄ϣ[ⲏⲣ]ⲉ |   ̣ ̣ ̣]ⲙ̣[ⲛ]ⲛ̄ⲕⲁ ⲛⲓⲙ ⲉⲧϣⲟⲟⲡ ⲛⲁϥ ⸳ ⲉϥϣⲁⲛⲉⲓ | ⲇⲉ ⲟ]ⲛ̣ ⲉⲃⲟⲗ ϩⲙⲡ̣[ⲉⲓⲃⲓ]ⲟⲥ ⲉ̣[ϥⲛ]ⲁϫⲓϩⲙⲟ̣ⲧ̣ | ⲉⲧⲟ]ⲟ̣ⲧ̣ϥ̣ ϩ̣ⲓ̣ⲧⲛⲡⲛ̣ⲣⲣⲟ ⲡⲉⲭ︦ⲥ︦ ⲛ︤ϥ︦ⲁⲁϥ | ⲛⲙ]ⲡϣⲁ ⲙ̣ⲡⲧⲩⲡⲛⲟⲛ ⲙ̄ⲡϣⲱ ⲛ̄ⲣⲟⲙⲡⲉ |(15) ⲛϥⲁ]ⲁϥ̣ ⲛⲙⲡϣⲁ ⲛⲥ[ⲱⲧ]ⲙ̄ ϫⲉⲁⲙⲏⲓⲧⲛ̄ | ⲛⲉⲧ]ⲥ̣ⲙ̣ⲁⲙⲁⲁⲧ ⲛ̄ⲧⲉⲡⲁⲉⲓⲱⲧ ⲛⲧⲉⲧⲛ̄|ⲕⲗ]ⲏ̣ⲣⲟⲛⲟ(ⲙⲟⲓ) ⲛ̣ⲧⲙⲛ︤ⲧ︦ⲉ̣ⲣⲟ ⲛⲧⲁⲩⲥ︤ⲃ︦ⲧⲱ|ⲧⲥ ⲛ]ⲏⲧⲛ̄ ϫⲓⲛⲧⲕⲁⲧⲁⲃⲟⲗⲏ ⲙⲡⲕⲟⲥⲙⲟⲥ | ϩⲁⲙⲏ]ⲛ ⲉⲥⲉϣⲱⲡⲉ [ⲁⲛ]ⲟⲛ ⲧⲏⲣⲛ̄ ϩⲁⲙⲏⲛ̣ |(20) ⲡϫ︦ⲥ︦ ⲓⲥ︦ ⲡⲉⲭ︦ⲥ︦ ⲉϥⲉ]ϩⲁⲣ̣ⲉϩ ⲉⲡⲱⲛ̄ϩ︦ ⲁ̣ⲩ̣ⲱ̣ | ⲧⲥⲱⲧⲏⲣⲓⲁ ⲙⲡⲥⲱⲟⲩϩ ⲉ]ϩⲟⲩⲛ ⲛⲛⲉⲥ|ⲛⲏⲩ		ⲉⲣⲉⲁⲃ]ⲃⲁ <persName type="monk">ⲁⲃⲣⲁϩⲁⲙ</persName> | ]ⲁⲃⲃⲁ <persName type="monk">ⲍ̣ⲁⲭⲁⲣⲓ|ⲁⲥ</persName> ---]ⲛ̣ⲧⲟⲟⲩ ϫⲉ[  ̣ ̣ |(25) ]ⲡ̣ⲙⲟⲛⲁ[ⲥ]ⲧⲏⲣⲓⲟⲛ ⲛ̣ϥ̄| ]ⲱⲕ ⲉⲃⲟⲗ [ | ]ⲕⲗ̣ⲏ̣ⲣⲟ[ | [- - - - - - - - - - - - - - - - -]
+
+      </p>
+    </body>
+  </text>
+</TEI>
