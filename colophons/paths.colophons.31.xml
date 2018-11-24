@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.31</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.31</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.31</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+ⲛ̄ⲧⲁⲡⲉⲓⲁⲅⲁⲑ(ⲟⲥ) ϣⲱⲡⲉ ⲉⲃⲟⲗ ϩⲓⲧⲟ|ⲟⲧϥ̄ ⲙ̄ⲡⲙⲁⲓⲛⲟⲩⲧⲉ ⲛ̇ⲥⲟⲛ·ⲉⲧⲧ(ⲁⲓⲏⲩ) | <persName type="donor">ⲯⲁⲧⲉ</persName>⸱ⲛ̇ⲣ︤ⲙ︥<placeName type="city_village">ⲧⲙⲉⲕⲣⲁ</placeName>⸱ϩⲙ̇ⲡⲧⲟϣ | ⲛ̄<placeName type="district_nomos">ⲣ̄ⲙⲟⲛ︤ⲧ︥</placeName>⸱| (5) ⲉⲣⲉⲡϫ(ⲟⲉⲓ)ⲥ ⲡⲛⲟⲩⲧⲉ ⲙⲡ<persName type="arch_angel">ⲁⲣⲭⲁⲅⲅⲉⲗⲟⲥ | ⲉⲧⲟⲩⲁⲁⲃ ϩⲣⲁⲫⲁⲏⲗ</persName> ⲙ︤ⲛ︥ⲡ<persName type="saint">ⲁⲅⲓⲟⲥ ⲡⲁⲩⲗⲟⲥ | ⲡⲁⲡⲟⲥⲧⲟⲗⲟⲥ</persName>⸱ⲛⲁⲥⲙⲟⲩ ⲉⲣⲟϥ ⲛ̇ⲧⲟϥ <persName type="donor">ⲯⲁⲧⲉ</persName> | ⲙⲛ̇ⲧⲉϥⲥϩⲓⲙⲉ ⲙ︤ⲛ︥ⲛⲉϥϣⲏⲣⲉ⸱ⲙ︤ⲛ︥ⲧⲉϥ|ϭⲓⲛⲣ̄ϩⲱⲃ⸱ⲛϥ̄ⲁⲁϥ ⲛ̄ⲥⲩⲛⲕⲗⲏⲣⲟⲛⲟⲙⲟⲥ |(10) ⲙ︤ⲛ︥ⲛⲉϥⲡⲉⲧⲟⲩⲁⲁⲃ ϩⲣⲁⲓ ϩⲛ̄ⲧⲉϥⲙ︤ⲛ︦ⲧ︥|ⲉⲣⲟ ⲉⲧϩⲛ̄ⲙ̄ⲙ̄ⲡⲏⲩⲉ⸱ϣⲁⲉⲛⲉϩ⸱ϩⲁⲙⲏⲛ | <persName type="copyist">Ἰωσήφ ἐλαχΐστου ϥ(ιο)ῦ Σίσιννϊς</persName> ἐγράφη ⸱Ἀθυρ⸱ϛ | ἔτους Σ̣α̣ρ̣α̣κ̣η̣[νῶν | τ︤μ︦θ̣︥
+    </p>
+    </body>
+  </text>
+</TEI>
