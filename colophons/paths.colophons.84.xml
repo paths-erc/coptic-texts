@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.84</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.84</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.84</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+ⲥⲩⲛ ⲑ(ⲉⲱ) | ⲁⲣⲓⲡⲁⲙⲉⲩⲉ ⲡϫ(ⲟⲉⲓ)ⲥ ⲉⲕϣⲁⲛ|ⲉⲓ ϩⲛ̄ⲧⲕ̄ⲙⲛⲧ̄ⲧⲉⲣⲟ | ⲡϫ(ⲟⲉⲓ)ⲥ ⲓ(ⲏⲥⲟⲩ)ⲥ ⲡⲉⲭ(ⲣⲓⲥⲧⲟ)ⲥ ⲡⲛ̄ⲧⲁϥϫⲓⲥⲁⲣ̄ⲝ | (5) ϩⲛ̄ⲙⲁⲣⲓⲁ ⲧⲡⲁⲣ`ⲑ´(ⲉ)ⲛⲟ̣ⲥ ⲉⲧⲟⲩⲁⲁⲃ | ⲁϥⲣ̄ⲣⲱⲙⲉ ⲛ̄ⲧⲛ̄ϩⲉ ϣⲁⲛⲧⲉⲛⲡⲛ|ⲟⲃⲉ ⲁⲩⲥⲧⲁⲩⲣⲟⲩ ⲙ̄ⲙⲟϥ ⲁϥⲧⲱⲟⲩⲛ | ⲉⲃⲟⲗ ϩⲛ̄ⲛⲉⲧⲙⲟⲟⲩⲧ ⲁϥⲃⲱⲕ | ⲉϩⲣⲁⲓ ⲉⲧⲡⲉ ⲛ̄ⲛ̄ⲙⲡⲏⲩⲉ ⲁϥϩⲙⲟ̣ⲥ | (10) ⲛ̄ⲥⲁⲟⲩⲛⲁⲙ ⲙ̄ⲡϥ̄ⲉⲓ̈ⲱⲧ ⲛ̄ⲧⲟϥ ⲡⲉ|ⲧⲛⲏⲩ ⲉⲕⲣⲓⲛⲉ ⲛⲛⲉⲧⲱⲛ̄ϩ̄ ⲙⲛ̄ⲛⲉⲧ|ⲙⲟⲟⲩⲧ ⲉϥⲣ̄ⲟⲩⲛⲁ ⲙⲛ̄ⲧⲉⲯⲩⲭⲏ | ⲙ̄ⲡⲛ̄ⲥⲟⲛ ⲛ̄ⲧⲁⲡⲉⲓⲕⲟⲩⲓ ⲛ̄ⲣⲡⲙⲉⲩⲉ | ϣⲱⲡⲉ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧϥ̄ ⲡⲁⲓ ⲉⲧⲉⲣⲉ|(15)ⲡⲛⲟⲩⲧⲉ ⲥⲟⲟⲩⲛ ⲙ̄ⲡϥ̄ⲣⲁⲛ ⲛ̄ⲧⲉ<persName type="saint">ⲡⲉⲓ|ⲥⲁϣϥ̄ ⲍ ⲛ̄ϣⲏⲣⲉ ϣⲏⲙ ⲙ̄ⲙⲁⲣⲧⲓⲣⲟⲥ | ⲙⲡⲉⲭ(ⲣⲓⲥⲧⲟ)ⲥ</persName> ⲙ̄ⲡⲫ<persName type="saint">ⲁⲅ̣ⲓ̣ⲟⲥ ⲁⲡⲁ ⲁⲡⲁ ⲣⲓϥ</persName> | ⲡⲛⲟϭ ⲛ̄<roleName type="religious">ⲁⲛⲁⲭⲱ`ⲣⲓ´ⲧⲏⲥ</roleName> ϫⲓϩⲙⲟⲧ | ⲉϫⲱϥ ⲛ̄ⲛⲁϩⲣⲛ̄ⲡⲛⲟⲩⲧⲉ ⲡⲁⲅⲁⲑⲟ̣ⲥ | (20) ϫⲉϣⲁⲣⲉⲟⲩⲕⲱ ⲉⲃⲟⲗ ϣⲱⲡⲉ | ϩⲙ̄ⲡϥ̄ϩⲟⲟⲩ ⲛ̄ⲉⲣⲡⲙⲉⲩⲉ · ⲡⲁⲁⲡⲉ | ⲕⲉ ϫⲉⲕⲁⲥ ⲉϥⲉⲥⲡ̄ⲥⲡ̄ⲡϫⲥ̄ | ⲉϫⲱϥ ⲛϥ̄ⲕⲱⲛϥ̄ⲛⲟⲃⲉ ⲛⲁϥ | ⲉⲃⲟⲗ ⲛϥ̄ⲣ̄ⲡⲙ̄ⲡϣⲁ ⲛ̄ⲥⲱⲧⲙ̄ | (25) ⲉⲧⲉⲥⲙⲏ ⲙ̄ⲙⲁⲕⲁⲣⲓ ⲉⲧⲙ̄ⲙⲁⲩ | ϫⲉⲁⲙⲏⲧⲛ̄ ⲛ̣ⲉⲧⲥⲙⲁⲙⲁⲁⲧ | ⲛ̄ⲧⲉⲡⲁⲓⲱⲧ [ⲛⲧ]ⲉⲧⲛ̄ⲕⲗⲏ|ⲣⲟⲛⲟⲙⲉⲓ ⲛ̄ⲧⲙ[ⲛⲧ]ⲧⲉⲣ̣ⲟ | ⲛ̄ⲙ̄ⲡⲏⲩⲉ ⲉⲥ[ⲉϣ]ⲱⲡⲉ | (30) ϩⲁⲙⲏⲛ (ⲕⲁⲓ) ⲁⲙ[ⲏⲛ] ⲁⲡⲟ (ⲇⲓⲟ)ⲕⲗⲏ(ⲧⲓⲁⲛⲟⲩ) | ⲯⲕ̣ ⲟⲩⲧⲟⲩ[ ± 3] ⲧ̣ⲡⲇ     </p>
+    </body>
+  </text>
+</TEI>
