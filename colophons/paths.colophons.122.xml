@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.122</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.122</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.122</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+⳧ ϧⲉⲛⲡⲣⲁⲛ ⲛ̇ⲡⲉⲛ|ϭ(ⲟⲓ)ⲥ ⲓⲏ(ⲥⲟⲩ)ⲥ ⲡ(ⲓ)ⲭ(ⲣⲓⲥⲧⲟ)ⲥ ⲁϥϣⲱⲡⲓ ⲛ̇ϫⲉ|ⲡⲁⲓ ⲁ̇ⲅⲁⲑⲟⲛ ⲛ̇ϣⲉⲛⲉⲣⲫⲙⲉⲩⲓ̇ | ⲛ̇ⲧⲉⲡⲁⲓϫⲱⲙ ⲉ̇ⲃⲟⲗ ϩⲓⲧⲟⲧⲟⲩ ⲛ̇|(5)ⲛⲉⲛⲙⲁⲓⲛⲟⲩϯ ⲛ̇ⲥⲛⲏⲟⲩ ⲙ̇ⲙⲁⲓ|ⲁⲅⲁⲡⲏ ⲡⲓ<persName type="donor">ⲇⲓⲁ̇ⲕⲟⲛ ⲡⲉⲧⲣⲟⲥ ⲉⲛⲉⲙ</persName> | ⲡⲓ<persName type="donor">ϯⲁⲕⲟⲛ ⲕⲉⲗⲗⲟⲩϫ</persName> ⲛⲉⲙⲛⲟⲩϣⲏⲣⲓ [ϫⲉⲛⲧⲱ]ⲟⲩ | ⲁⲩϣⲟⲫϥ ⲉ̇ⲃⲟⲗ ϧⲉⲛⲡⲟⲩϧⲓⲥ‹ⲓ› ⲙ̇ⲙⲏ[ⲓ ⲁⲩ]ⲧ̣ⲏ̣ⲓϥ | ⲉ̇ϧⲟⲩⲛ ⲉ̇ϯ<placeName type="church_basilica" ref="Paths:places:361">ⲁ̇ⲕⲓⲁ̇ ⲛⲉⲕⲗⲏⲥⲓⲁ̇ ⲉⲧⲉⲙ̣[ⲡⲓ]ⲁⲣⲭ̣ⲁⲅⲅⲉⲗⲟⲥ | (10) ⲙⲓⲭⲁⲏⲗ ⲛ̇ⲧⲉϯϫⲉⲫⲣⲟⲛⲉ</placeName> ϧⲉⲛ̣ⲡ̣(ⲑⲟ)ϣ̣ [---] | ⲉⲩϣⲉⲛⲉⲣⲫⲙⲉⲩⲓ ⲛⲱⲟⲩ ⲛⲉⲙⲛⲟⲩⲓⲟϯ | ϯϯϩⲟ ⲉⲃⲟⲛ ⲛⲓⲃⲉⲛ ⲉⲑⲛⲁⲱϣ ⲛ̇ϧⲏⲧϥ ⲛ̣ⲉⲙ̣ⲛ̣ⲏ̣ | ⲉⲑⲛⲁⲥⲱⲧⲉⲙ ⲉ̇ⲣⲟϥ ⲛ̇ⲧⲟⲩϫⲟⲥ ϫⲉⲛⲏ ⲉⲧⲟⲛϧ | ⲛ̇ⲧⲱⲟⲩ ⲛ̇ⲧⲉⲡϭ(ⲟⲓ)ⲥ ⲉⲣⲡⲉϥⲛⲁⲓ ⲛ̇ⲛⲓϣϯ ⲛⲉⲙⲱ[ⲟⲩ] | (15) ⲕⲉ ⲛⲏ ⲉⲧⲁⲧⲥⲓ (l. ⲉⲧⲁⲩⲉⲓ) ⲉ̇ⲃⲟⲗ ⲛ̇ⲧⲱⲟⲩ ⲧⲉⲡϭ(ⲟⲓ)ⲥ ϯ|ⲙ̇ⲧⲟⲛ ⲛⲟⲩⲯⲓⲭⲏ ⲧⲉϥⲣⲟⲑⲃⲟⲩ ϧⲉⲛⲕⲉⲛϥ | ⲛⲉⲛⲓⲟϯ ⲉⲑⲟⲩⲁ‹ⲃ› <persName type="biblical">ⲁⲩⲣⲁϩⲁⲙ</persName> | ⲛⲉⲙ<persName type="biblical">ⲓⲥⲁ[ⲁⲕ]</persName> ⲛⲉⲙ<persName type="biblical">ⲓⲁⲕⲱⲃ</persName> [ⲁ]ⲙ̣ⲏ̣ⲛ̣
+      </p>
+    </body>
+  </text>
+</TEI>

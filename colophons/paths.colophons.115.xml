@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.115</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.115/p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.115</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+Ϧⲉ̣ⲛⲫⲣⲁⲛ ⲛ̇ⲫⲓⲱⲧ ⲛⲉⲙ|ⲡϣⲏⲣⲓ ⲛⲉⲙⲡⲓⲡⲛ(ⲉⲩⲙ)ⲁ ⲉⲑⲟⲩⲁⲃ | ϯⲧⲣⲓⲁⲥ ⲛ̇ⲟ̇ⲙⲟⲟⲩⲥⲓⲟⲥ ⲉⲥϧⲉⲛ|ⲟⲩⲙⲉⲧⲛⲟⲩϯ ⲉ̇ⲛⲟⲩⲱⲧ ⲁ̇ⲙⲏⲛ | (5) ϯ̇ϯ̇ϩⲟ ⲁ̇ⲣⲓⲡⲁ̇ⲙⲉⲟⲩⲓ̇ ⲛⲁⲅⲁⲡⲏ | ⲛⲁϭ(ⲟⲓ)ⲥ ⲛ̇ⲓⲟϯ ⲙ̇ⲙⲟⲩⲛⲁⲭ(ⲟⲥ) ⲡⲓⲕⲗⲏⲣⲟⲥ | ⲛⲉⲙⲡⲓⲗⲁⲟⲥ ⲛⲉⲙⲟⲩⲛ̇ ⲛⲓⲃⲉⲛ̇ ⲉⲧⲛⲁ|ⲱϣ ϧⲉⲛⲡⲁ‹ⲓ›ϫⲱⲙ ⲫⲁⲓ ϩⲟⲡⲟⲥ ⲛ̇ⲧⲉ|ⲡⲭ(ⲣⲓⲥⲧⲟ)ⲥ ⲡⲁⲛⲟⲩϯ ⲑⲁϣⲟⲩⲕⲟⲩϫⲓ ⲛ̇|(10)ⲛⲁⲓ ⲧⲁϫⲟⲃⲓ ⲛ̇ⲧⲁⲗⲉⲡⲱⲣⲟⲥ ⲛ̇|ⲯⲩⲭⲩ ϧⲉⲛⲡⲉϥⲃⲏⲙⲁ ⲉ̇ⲧⲟⲓ ⲛ̇|ϩⲟϯ ⲧⲉϥⲭⲁⲟⲩⲕⲟⲩϫⲓ ⲛ̇ⲧⲉⲛⲁ|ⲛⲟⲃⲓ ⲛⲏⲓ ⲉ̇ⲃⲟⲗ ϫⲉⲥⲉⲟϣ ⲛ̇|ⲙⲁϣⲱ ⲡⲁⲣⲁ|(15)ⲡⲓϣⲱ ⲛ̇ⲧⲉ|ⲫⲓⲟⲙ ⲛ̇ⲍ̄ ⲛ̇|ⲕⲱⲡ ⲛ̇ⲥⲟⲡ | ⲁ̇ⲙⲏⲛ : ϥ̄ⲑ︦ | χρόνον | (20) τοῦ κόσμου ͵ϛ︦φ︦ι︦ζ︦ | σταυρωθίς α︦ι︦ζ︦ | μάρτυρος ψ︦μ︦α︦ | ϯⲙⲁϩⲣ̄ⲗ︦ⲉ︦ ⲛⲣⲟⲙⲡⲓ | ⲛ̇ⲧⲉϯⲙⲁϩⲓ̄ⲅ︦ ⲛ̇ⲡⲉⲣⲓ|(25)ⲱⲇ(ⲟⲥ)
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.126</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.126</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.126</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+† ϧⲉⲛⲫⲣⲁⲛ ⲙ̇ⲫⲓⲱⲧ ⲛⲉⲙⲡϣⲏⲣⲓ ⲛⲉⲙ|ⲡⲓⲡⲛ(ⲉⲩⲙ)ⲁ ⲉⲑⲟⲩⲁⲃ ⲁϥϣⲱⲡⲓ ⲛ̇ϫⲉⲡⲁⲓ|ⲁ̇ⲅⲁⲑⲟⲛ ⲛ̇ϣⲉⲛⲉⲣⲫⲙⲉⲩⲓ ⲛ̇ⲧⲉⲡⲁⲓ|ⲕⲟⲩϫⲓ ⲛ̇ϫⲱⲙ ⲛ̇ⲱϣ ⲉ̇ⲃⲟⲗ ϩⲓⲧⲟⲧϥ | (5) ⲙ̇ⲡⲉⲛⲙⲁⲓⲛⲟⲩϯ ⲡⲁⲓⲱⲧ <persName type="donor">ⲁⲃⲣⲁⲁⲙ | ⲛ̇ⲧⲉⲕⲟⲗⲑⲁ</persName> ⲛⲉⲙⲛⲉϥϣⲉⲣⲓ ⲙ̇ⲡⲛ(ⲉⲩⲙ)ⲁ|ⲧⲓⲕⲟⲛ ⲁϥⲧⲏⲓϥ ⲉ̇ϧⲟⲩⲛ ⲉ̇ϯ<placeName type="church_basilica" ref="Paths:places:76">ⲁⲅⲓⲁ ⲛⲉⲕⲕⲗⲏⲥⲓⲁ ⲛ̇ⲧⲉⲡⲉⲛⲓⲱⲧ ⲉⲑⲟⲩⲁⲃ | ⲁⲃⲃⲁ ⲙⲁⲕⲁⲣⲓ ⲛⲧⲉϣⲏϩⲏⲧ</placeName> ϧⲉⲛ|ⲡⲥⲏⲟⲩ ⲙ̇ⲡⲉⲛⲉⲓⲱⲧ ⲉⲑⲟⲩⲁⲃ <persName type="archi_bishop">ⲁⲃⲃⲁ | (10) ⲕⲱⲥⲙⲁ</persName> ⲡ<roleName type="ecclesiastical">ⲓⲁⲣⲭⲏⲉ̇ⲡⲓⲥⲕⲟⲡⲟⲥ</roleName> | ⲛ̇ⲧⲉ<placeName type="city_village">ⲣⲁⲕⲟϯ</placeName>   ⲉϥⲟⲓ ⲛ̇<roleName type="ecclesiastical">ⲣⲉϥⲱϣ</roleName> ⲉ̇ϫⲉⲛ|ϯ<placeName type="monastery">ⲕⲁⲑⲉⲇⲣⲁ ⲛ̇ⲧⲉⲡⲉⲛⲓⲱⲧ ⲁⲃⲃⲁ ⲙⲁ|ⲕⲁⲣⲓ</placeName> ⲛ̇ϫⲉⲡⲓ<persName type="monk">ⲇⲓ(ⲁⲕⲟⲛⲟⲥ) ⲓⲁⲕⲱⲃ</persName> ϧⲉⲛϯ|ⲙⲁϩⲭ︦ⲙ︦ⲁ︦ ⲛ̇ⲧⲉⲛⲓⲙⲁⲣⲧⲩⲣⲟⲥ | (15) ⲓⲥⲇⲓⲙⲉⲧⲁⲛⲓⲁ̇   ⲁⲣⲓⲡⲁⲙⲉⲩⲓ ⲁ̇ⲛⲟⲕ | ϧⲁⲡⲓϫⲱⲃ ⲛ̇ⲣⲉϥⲉⲣⲛⲟⲃⲓ ⲉ̇ⲧⲁϥⲥϧⲁⲓ | <persName type="copyist">ⲑⲉⲟⲇⲱⲣⲟⲥ ⲡϣⲏⲣⲓ ⲛ̇ⲡⲛ(ⲉⲩⲙ)ⲁⲧⲓⲕⲟⲛ ⲙ̇|ⲡⲁⲓⲱⲧ ⲁⲃⲣⲁⲁⲙ ⲛⲧⲉⲕⲟⲗⲑⲁ</persName> ⲧⲉⲡⲁ|ϭ(ⲟⲓ)ⲥ ⲓⲏ(ⲥⲟⲩ)ⲥ ⲭⲁⲛⲁⲛⲟⲃⲓ ⲛⲏⲓ ⲉ̇ⲃⲟⲗ ⲛⲉⲙⲛⲁ|(20)ϣⲱⲧϥ (infra m² صح ϣⲱϥⲧ) ⲧⲏⲣⲟⲩ   ⲁⲙⲏⲛ
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.118</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.118</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.118</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+ⲡⲥⲙⲟⲩ ⲙⲡⲓⲁⲅⲓⲟⲥ <persName type="saint">ⲁⲡⲁ ⲙⲁⲕⲁⲣⲓⲟⲥ ⲡⲓⲁⲛ|ϯⲱ̇ⲭⲉⲟⲥ</persName> ϣⲱⲡⲓ ⲛⲉⲙⲁⲛ ⲧⲏⲣⲟⲩ ⲁⲙⲏⲛ | ϯ̇ϯϩⲟ ⲁⲣⲓⲡⲁⲙⲉⲩⲓ̇ ϩⲱ ⲛⲁⲅⲁⲡⲏ ⲁⲛⲟⲕ ϧⲁ|ⲡⲓϫⲱⲃ ⲛ̇ⲣⲉϥⲉⲣⲛⲟⲃⲓ ⲉⲧⲁϥⲥϧⲏⲧϥ‧ | (5) <persName type="copyist">ⲓ̇ⲁⲕⲱⲃ ⲡⲓⲉⲗⲁⲭ(ⲓⲥⲧⲟⲥ) ⲩ(ⲓ)ⲟ(ⲥ) ⲡⲁⲡⲁ ⲓⲱⲁ(ⲛⲏⲥ) ⲭⲁⲙⲉ</persName> ⲉⲑⲣⲉⲡϭ(ⲟⲓ)ⲥ | ⲭⲁⲡⲁϣⲁⲓ ⲛ̇ⲛⲁⲛⲟⲃⲓ ⲉ̇ⲧⲟϣ ⲛⲏⲓ ⲉⲃⲟⲗ (ⲟⲩⲟϩ) ⲧⲉϥ|ϯ ⲙ̇ⲧⲟⲛ ⲛ̇ⲧⲁⲗⲉⲡⲱⲣⲟⲥ ⲙ̇ⲯⲩⲭⲏ‧ | ϯ̇ϯϩⲟ ⲁϫⲟⲥ ⲧⲏⲣⲟⲩ ϫⲉ ⲁⲙⲏⲛ‧ | ⲫⲏ ⲉⲑⲛⲁϫⲟⲥ ϫⲉ ⲁⲙⲏⲛ ⲉⲥⲉϣⲱⲡⲓ ⲉⲣⲉ|(10)ⲡⲁ(ϭ)ⲟ(ⲓ)ⲥ ⲓⲏ(ⲥⲟⲩ)ⲥ ⲉⲣⲡⲉϥⲛⲁⲓ ⲛ̇ⲛⲓϣϯ ⲛⲉⲙⲁϥ ϩⲱϥ | ϧⲉⲛ ⲡⲁⲓⲉ̇ⲱⲛ ⲛⲉⲙ ⲫⲏ ⲉⲑⲛⲏⲟⲩ ⲁⲙⲏⲛ ‧ | χρόνο(ν) τῶν ἁγίων Μ(α)ρ(τύρων) χ︦λ︦δ︦ | ⲫ(ⲛⲟⲩ)ϯ ⲡⲓⲁⲅⲁⲑⲟⲥ ⲟⲩⲟϩ ⲙ̇ⲙⲁⲓⲣⲱⲙⲓ ⲫⲏ ⲉⲧⲁϥ|ϣⲱⲡ ⲉⲣⲟϥ ⲛ̇ⲧⲡⲣⲟϩⲉⲣⲉⲥⲓⲥ ⲛ̇ϯ<persName type="biblical">ⲭⲏⲣⲁ ⲛϩⲏⲕⲓ | (15) ⲛ̇ⲧⲉϯⲧⲉⲃⲓ ⲥⲛⲟⲩϯ</persName> ⲉⲕⲉϣⲱⲡ ⲉⲣⲟⲕ ⲛ̇ⲧⲡⲣⲟ|ϩⲉⲣⲉⲥⲓⲥ ⲛ̇ⲛⲉⲕⲉⲃⲓⲁⲓⲕ ⲉⲧⲁⲩϥⲓ ⲫⲣⲱⲟⲩϣ | ⲙ̇ⲡⲁⲓⲁⲅⲁⲑⲟⲛ ⲛ̇ϣⲉⲛⲉⲣⲫⲙⲉⲩⲓ ⲛ̇ⲧⲉⲡⲁⲓϫⲱⲙ | ⲯⲩⲭⲏ ⲛⲓⲃⲉⲛ ⲉⲣⲉϧⲓⲥⲓ ⲓⲉ ϣⲉⲛⲉⲣⲫⲙⲉⲩⲓ ⲛ̇|ⲧⲱⲟⲩ ⲛ̇ϧⲏⲧϥ ⲡⲁ(ϭ)ⲟ(ⲓ)ⲥ ⲓⲏ(ⲥⲟⲩ)ⲥ ⲡⲭ(ⲣⲓⲥⲧⲟ)ⲥ ⲉⲕⲉⲉⲣⲡⲓ|(20)ⲛⲁⲓ ⲛⲉⲙⲱⲟⲩ ⲉⲧⲓ ⲉⲩϣⲟⲡ ϧⲉⲛⲡⲁⲓⲕⲟⲥ|ⲙⲟⲥ ‧ | (ⲟⲩⲟϩ) ⲁⲩϣⲁⲛⲥⲓⲛⲓ ⲉⲃⲟⲗ ϧⲉⲛⲡⲁⲓⲃⲓⲟⲥ ⲛⲉⲫⲗⲏⲟⲩ | ⲉⲕⲉϯ ⲕⲗⲏⲣⲟⲛⲟⲙⲓⲁ ⲛⲱⲟⲩ ⲛⲉⲙⲛⲏⲑⲟⲩⲁⲃ | ⲉⲧⲥϧⲏⲟⲩⲧ ϩⲓⲡⲁⲓϫⲱⲙ ⲁⲙⲏⲛ (ⲟⲩⲟϩ) ⲁⲙⲏⲛ‧ | (25) ⲉⲥⲉϣⲱⲡⲓ
+      </p>
+    </body>
+  </text>
+</TEI>

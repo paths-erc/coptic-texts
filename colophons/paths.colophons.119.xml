@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.119</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.119</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.119</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        παζο(ι)ς Ιη(σου)ς π(ε)χ(ριστο)ς πιναητ πιρφζενϩητ πιαγαθ(ος) πιζενθμαχτ | πιρεφωου νϩητ μμαιρωμι ναι εμπιρεφερνοβι εταφσχαι | πιταλεπωρος εϩοτε ρωμι νιβεν ετζοπ ϩιζεν πικαϩι <persName type="monk">Ιωαννης | Μακαρι πζηρι νΣταυρος μανθ( )</persName> αμην εσεζωπι αμην | بسم الله الواحد امين| هذا الكتاب كتبته بيدى سوف تبلا بيدى ويبقا الكتاب وكتب العبد الخاطى المذنب | يحنس مقارة بن اصطوروس بن بنوب مقارة مثبوت بخطه ⲑⲉⲱⲇ بيده
+        ⲁⲣⲓⲫⲙⲉⲃⲓ ⲛ̇ⲡⲓⲣⲉϥⲉⲣⲛⲟⲃⲓ̇ ⲡⲓⲕⲁϩⲓ ⲙⲉⲛⲡⲓⲕⲉⲣⲙⲓ | ⲡⲓⲁⲧⲉⲙϣⲁ ⲉⲡⲓⲣⲁⲛ ⲉⲧⲁⲩⲧⲏϥ ⲉⲣⲟϥ ⲡⲓ<persName type="monk">ⲇⲓ(ⲁⲕⲟⲛⲟⲥ) | ⲑⲉⲱⲇ( ) ⲡϣⲏⲣ‵ⲓ′ ⲙⲉⲕⲟⲩⲣⲓ</persName> ⲡⲓⲣⲉⲙ<placeName type="city_village">ⲥⲁϩⲣⲁϣⲧ</placeName> | ϩⲓⲛⲁ ⲧⲉⲡ(ϭ)ⲟ(ⲓ)ⲥ ⲓⲏ(ⲥⲟⲩ)ⲥ ⲡ(ⲉ)ⲭ(ⲣⲓⲥⲧⲟ)ⲥ ⲭⲁⲡⲁϣⲁⲓ̇ ⲛⲧⲉⲛⲁⲛⲟⲃⲓ | ⲛⲏⲓ ⲉⲃⲟⲗ ⲁⲙⲏⲛ (ⲟⲩⲟϩ) ⲁⲙⲏⲛ ⲭⲣ(ⲟⲛⲟⲥ) ⲙ(ⲁ)ⲣ(ⲧⲩⲣⲱⲛ) ⲯⲓⲁ | ⲁⲣⲓⲫⲙⲉⲩⲓ ⲛ̇<persName type="monk">ⲡⲉⲧⲣⲟⲥⲥ ⲩ(ⲓⲟⲥ) ⲛ̇ⲡⲓⲗⲟⲧⲟⲥ</persName> ⲡⲓⲣⲉⲙ<placeName type="city_village">ϣⲗⲏⲓⲙⲓ</placeName> | ϧⲉⲛⲧⲉϥⲡⲁⲧⲣⲓⲥ ⲡϭ(ⲟⲓ)ⲥ ϯⲡⲓⲕⲁϯ ⲛⲁϥ ⲁⲙⲏⲛ ϩⲁⲙⲏⲛ
+      </p>
+    </body>
+  </text>
+</TEI>
