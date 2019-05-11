@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.135</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.135</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.135</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+⳧ ϧⲉⲛⲫⲣⲁⲛ ⲙ̇ⲫⲓⲱⲧ ⲛⲉⲙⲡϣⲏⲣⲓ ⲛⲉⲙⲡⲓⲡⲛ(ⲉⲩⲙ)ⲁ ⲉ̇ⲑⲟⲩⲁⲃ ϯⲡⲁⲛⲁⲅ(ⲓⲁ) ⲛ|ⲧⲣⲓⲁⲥ ⲉⲥϧⲉⲛⲟⲩⲙⲉⲑⲛⲟⲩϯ ⲛ̇ⲟⲩⲱⲧ ⲫⲁⲓ ⲅⲁⲣ ⲡⲉ ⲡⲉⲛⲛⲟⲩϯ ⲁ̇ⲛⲟⲛ | ϧⲁⲛⲓⲭⲣⲓⲥⲧⲓⲁ̇ⲛⲟⲥ ⲧⲉⲛⲟⲩⲱϣⲧ ⲙⲙⲟϥ ⲧⲉⲛϯⲱ̇ⲟⲩ ⲛⲁϥ | ⲁϥϣⲱⲡⲓ ⲛ̇ϫⲉⲡϣⲉⲛⲉⲣⲫⲙⲉⲩⲓ̇ ⲙ̇ⲡⲁⲓϫⲱⲙ ⲛ̇ⲱϣ ⲉ̇ⲃⲟⲗ ϩⲓⲧⲉⲛⲡⲉⲛⲧⲣⲓⲥ|(5)ⲙⲁⲕⲁⲣⲓⲟⲥ ⲛ̇ⲓⲱⲧ <persName type="donor">ⲭⲁⲏⲗ</persName> ⲛⲉⲙ<persName type="donor">ⲙⲉⲛ︦ⲣ︦ⲁⲓ̇ⲟ̇</persName> ⲛⲉⲙ<persName type="donor">ⲡⲓϣⲟⲓ</persName> ⲡⲉϥⲥⲟⲛ ⲛⲉϥϣⲏⲣⲓ ⲛ|ⲥⲁⲣⲕⲓⲕⲟ(ⲛ) ϩⲓⲡⲛ(ⲉⲩⲙⲁⲧ)ⲓⲕ(ⲟⲛ) ⲉⲩⲥⲟⲡ ⲛⲉⲛϣⲏⲣⲓ ⲙ̇ⲡⲛ(ⲉⲩⲙⲁⲧ)ⲓⲕ(ⲟⲛ) ⲙ̇ⲡⲓⲑⲉⲟ̇ⲫⲟⲣⲟⲥ ⲙ̇<roleName type="ecclesiastical">ⲙⲟⲛⲁⲭⲟ(ⲥ)</roleName> | ⲡⲁⲓⲱⲧ <persName type="monk">ⲙⲁⲕⲁⲣⲓ ⲡⲓⲥⲟⲩⲥⲟⲩ</persName> ⲛⲓⲙⲟⲛⲁⲭⲟ(ⲥ) ⲛ̇ⲧⲉⲡ<placeName type="monastery" ref="Paths:places:76">ⲧⲟⲡⲟⲥ ⲙ̇ⲡⲉⲛⲓⲱⲧ ⲁⲃⲃⲁ | ⲙⲁⲕⲁⲣⲓ ⲛ̇ⲧⲉϣⲓϩⲏⲧ</placeName> ⲉ̇ⲁⲩⲑⲁⲙⲓⲟϥ ⲉ̇ⲃⲟⲗ ϧⲉⲛⲛⲓϧⲓⲥⲓ ⲙ̇ⲙⲏⲓ ⲁⲩ|ⲧⲏⲓϥ ⲉ̇ϧⲟⲩⲛ ⲉ̇ϯ<placeName type="church_basilica" ref="Paths:places:76">ⲕⲁⲑⲟⲗⲓⲕⲏ ⲛ̇ⲉⲕⲕⲗ(ⲏⲥⲓⲁ) ⲛ̇ⲧⲉⲡⲉⲛⲓⲱⲧ ⲛ̇ⲇⲓⲕⲉⲟⲥ ⲡⲓⲛⲓϣϯ |(10) ⲁⲃⲃⲁ ⲙⲁⲕⲁⲣⲓ ⲛ̇ⲧⲉ ϣⲓϩⲏⲧ</placeName> ⲉ̇ⲩⲉⲣⲫⲙⲉⲩⲓ̇ ⲛⲱⲟⲩ ⲛⲉⲙⲛⲟⲩⲓⲟϯ ⲉ̇ⲧⲁⲩϫⲫⲱ|ⲟⲩ ⲉ̇ⲡⲓⲕⲟⲥⲙⲟⲥ ⲧⲉⲛϯϩⲟ ⲉⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ ⲉⲑⲛⲁⲱϣ ϧⲉⲛⲡⲁⲓ|ϫⲱⲙ ⲓ̇ⲉ̇ ⲛⲏ ⲉⲑⲛⲁⲥⲱⲧⲉⲙ ⲉ̇ⲣⲟϥ ⲛ̇ⲥⲉϫⲟⲥ ϫⲉⲉ̇ⲣⲉⲡϭ(ⲟⲓ)ⲥ ⲁⲣⲓ|ⲡⲉϥⲛⲁⲓ ⲛ̇ⲛⲓϣϯ ⲛⲉⲙⲱⲟⲩ ϧⲉⲛⲡⲁⲓⲉ̇ⲛⲉϩ (ⲟⲩⲟϩ) ⲁⲩϣⲁⲛⲥⲓⲛⲓ ⲉ̇ⲃⲟⲗ | ϧⲉⲛⲡⲁⲓⲕⲟⲥⲙⲟⲥ ⲛ̇ⲉⲫⲗⲏⲟⲩ ⲛ̇ⲥⲉϫⲟⲥ ϫⲉⲉ̇ⲣⲉⲡϭ(ⲟⲓ)ⲥ ϯⲙ̇ⲧⲟⲛ |(15) ⲛⲱⲟⲩ ϧⲉⲛⲡⲓⲡⲁⲣⲁⲇⲓⲥⲟⲥ ⲛ̇ⲧⲉⲡⲟⲩⲛⲟϥ ⲛ̇ⲧⲉⲡϭ(ⲟⲓ)ⲥ ϯⲕⲗⲏⲣⲟ|ⲛⲟⲙⲓⲁ̣ ⲛⲱⲟⲩ ϧⲉⲛⲑⲙⲉⲧⲟⲩⲣⲟ ⲛ̇ⲛⲓⲫⲏⲟⲩⲓ̇ ⲛ̇ⲥⲉⲥϧⲁⲓ ⲙ̇ⲡⲟⲩⲣⲁⲛ ϩⲓ|ⲡϫⲱⲙ ⲙ̇ⲡⲱⲛϧ ⲛⲉⲙⲛⲏ | ⲉ̇ⲑⲟⲩⲁⲃ ⲧⲏⲣⲟⲩ ⲁ̇ⲙⲏⲛ ⲫⲏ ⲉⲑⲛⲁϫⲟⲥ ϫⲉ|ⲁ̇ⲙⲏⲛ ⲉϥⲉϭⲓϩⲱϥ ⲕⲁⲧⲁⲡⲁⲓⲥⲙⲟⲩ ⲁⲙⲏⲛ (ⲟⲩⲟϩ) ⲁ̇ⲙⲏⲛ |(20) ⳧ ⲡϭ(ⲟⲓ)ⲥ ⲙⲁⲉⲙⲧⲟⲛ ⲛ̇ⲧⲯⲩⲭⲏ ⲙ̇ⲡⲓ̇ⲉⲗ(ⲁ)ⲭ(ⲓⲥⲧⲟⲥ) <persName type="monk">ⲭⲁⲏⲗ ⲙⲁⲕⲁⲣⲓ ⲡϣⲏⲣⲓ ⲙ̇ⲡⲓⲕⲟⲥⲙⲏⲧ</persName> ⲁⲙⲏⲛ | ἐγὼ ἔγρ(αψα) μ̇Ἐπηπ ῑ αζπθ︦ κύκλου μ︦γ︦
+      </p>
+    </body>
+  </text>
+</TEI>
