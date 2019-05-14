@@ -20,7 +20,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text>
     <body>
       <p>
-⳨ εὔξασθε ὑπὲρ ἐμοῦ ἐγὼ ὁ τάλας | ἁμαρτωλοὺς⸳<persName type="copyist">Αὐρίλλιος⸳Βίκτωρ | ἐλάχιστου κ(αὶ) ἀνάξιου <roleName type="ecclesiastical">διάκο(νος)</roleName> παῖς | τοῦ μακαρίο(υ) Μερκουρίο(υ)</persName> <roleName type="ecclesiastical">διακό(νου)</roleName> <placeName type="monastery">τοῦ | (5)	ἁγίου Μερ(κυρίου) μεγαστρατηλάτ(ου)</placeName> ἀπὸ τ(ῆς) | <placeName type="city_village">πόλ(εως) Λατ(οῦς)</placeName> ἔγραψας βύβλος πάντων | ἀναγνωθη τὴν βιβλίου ἐπεύ|ξεται με ὅπως διεξάγοι κ(ύριο)ς τὴν | ἐλεοινὸ μου βίον εὐαρεστῶν ἀμή(ν)
+⳨ εὔξασθε ὑπὲρ ἐμοῦ ἐγὼ ὁ τάλας | ἁμαρτωλοὺς⸳<persName type="copyist">Αὐρίλλιος⸳Βίκτωρ | ἐλάχιστου κ(αὶ) ἀνάξιου <roleName type="ecclesiastical">διάκο(νος)</roleName> παῖς | τοῦ μακαρίο(υ) Μερκουρίο(υ)</persName> <roleName type="ecclesiastical">διακό(νου)</roleName> <placeName type="monastery" ref="paths:places:58">τοῦ | (5)	ἁγίου Μερ(κυρίου) μεγαστρατηλάτ(ου) ἀπὸ τ(ῆς) | πόλ(εως) Λατ(οῦς)</placeName> ἔγραψας βύβλος πάντων | ἀναγνωθη τὴν βιβλίου ἐπεύ|ξεται με ὅπως διεξάγοι κ(ύριο)ς τὴν | ἐλεοινὸ μου βίον εὐαρεστῶν ἀμή(ν)
 
 fol. 31r = van Lantschoot CXVII
 ἐγράφη μεν[ὶ] Παχων ἡμέ[ρᾳ] | ιζ ⸱ἰνδικδίο̣νος [   ] ἀπὸ τ(ῶν) | ἁγίων Μ(α)ρ̣(τύρων) [		] ἔτ[ους | Σαρακινός [

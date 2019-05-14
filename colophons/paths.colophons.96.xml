@@ -20,7 +20,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text>
     <body>
       <p>
-† ⲡⲁⲓ̈ⲡⲉ ⲡϫⲱⲱⲙⲉ ⲛ̄ⲧⲕⲁⲑⲟⲗ̣ⲓⲕⲏ | ⲉⲕⲕⲗⲏⲥⲓⲁ ⲛ̄<placeName type="city_village">ⲧⲓⲛ</placeName> ϩⲛ̄ⲟⲩⲉⲓⲣⲏⲛⲏ | ⲛ̄ⲧⲉⲡⲛⲟⲩⲧⲉ ϩⲁⲙⲏⲛ	ⲁⲛⲟⲕ <persName type="copyist">ⲅⲉⲱⲣ|ⲅⲓⲟⲥ</persName> ⲡⲓⲉⲗⲁⲭⲓⲥⲧⲟⲥ ⲛ̄<persName type="ecclesiastical">ⲁⲛⲁⲅⲛⲱⲥⲧⲏⲥ</persName> | (5) ϣⲗⲏⲗ ⲉϫⲱⲓ ⲛ̄ⲁⲅⲁⲡⲏ ϩⲁⲙⲏⲛ⸱| μηνὸς Αθυρ ι̣θ τρίτης ⲛ̄δικδ(ίωνος)
+† ⲡⲁⲓ̈ⲡⲉ ⲡϫⲱⲱⲙⲉ ⲛ̄ⲧⲕⲁⲑⲟⲗ̣ⲓⲕⲏ | ⲉⲕⲕⲗⲏⲥⲓⲁ ⲛ̄<placeName type="city_village" ref="paths:places:103">ⲧⲓⲛ</placeName> ϩⲛ̄ⲟⲩⲉⲓⲣⲏⲛⲏ | ⲛ̄ⲧⲉⲡⲛⲟⲩⲧⲉ ϩⲁⲙⲏⲛ	ⲁⲛⲟⲕ <persName type="copyist">ⲅⲉⲱⲣ|ⲅⲓⲟⲥ</persName> ⲡⲓⲉⲗⲁⲭⲓⲥⲧⲟⲥ ⲛ̄<persName type="ecclesiastical">ⲁⲛⲁⲅⲛⲱⲥⲧⲏⲥ</persName> | (5) ϣⲗⲏⲗ ⲉϫⲱⲓ ⲛ̄ⲁⲅⲁⲡⲏ ϩⲁⲙⲏⲛ⸱| μηνὸς Αθυρ ι̣θ τρίτης ⲛ̄δικδ(ίωνος)
     </p>
     </body>
   </text>

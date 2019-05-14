@@ -7,20 +7,21 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>paths.colophons.114</title>
+        <title>paths.colophons.125</title>
       </titleStmt>
       <publicationStmt>
-        <p>paths.colophons.114</p>
+        <p>paths.colophons.125</p>
       </publicationStmt>
       <sourceDesc>
-        <p>paths.colophons.114</p>
+        <p>paths.colophons.125</p>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text>
     <body>
       <p>
-ⲱⲛⲉϩ ⲥⲓ ⲙⲟⲟⲩ ϩⲓⲡⲣⲁϣⲉ ⲙⲉⲛϯⲣⲏ|ⲛⲏ ⲙⲡⲉⲭ(ⲣⲓⲥⲧⲟ)ⲥ| ⲡⲁⲣⲓⲧ ⲛϣⲏⲣⲉ ⲡ<roleName type="ecclesiastical">ⲇⲓⲁ(ⲕⲟⲛⲟⲥ)</roleName> | <persName type="donor">ⲧⲓ̣ⲙⲱⲑⲉⲟⲥ</persName> ⲙⲉⲛⲡⲉⲕⲓⲱⲧ ⲙⲉⲛ|ⲧⲉⲕⲙⲁⲁⲩ ⲙⲉⲛⲛⲉⲕⲥⲛⲏⲩ | (5) ⲁⲣⲓⲡⲁⲙⲉⲉⲩⲉ ⲁⲛⲁⲕ ⲡⲓⲉⲗⲁⲭ(ⲓⲥⲧⲟⲥ) <persName type="copyist">ⲍⲁⲭⲁ|ⲣⲓⲁⲥ</persName> ⲛⲧⲉ<placeName type="city_village">ⲧⲥⲩⲙⲟⲩⲗⲱⲧ</placeName> ϩⲁ|ⲙⲏⲛ
+μνήσθυτη κ(ύρι)ε δοῦ δούλους σου <persName type="copyist">ἐλαχ(ίστου) διακό(νου) | Γαβριήλ υ(ἱο)ῦ Μηνᾶ π[±3]αυ</persName> ἀπὸ <placeName type="city_village" ref="paths:places:000">χωρ(ί)ο(υ) Νιμανθωμς</placeName> | συνθρόνο(υ)
+<placeName type="city_village" ref="paths:places:000">Θμουι</placeName> (καὶ) <placeName type="city_village" ref="paths:places:000">Τκεϩλι</placeName> συνχώριζον | τὸν παραπτώματα ἱμῶν ἀμήν χρόνου Μ(α)ρτ(ύρων) χϙε
       </p>
     </body>
   </text>

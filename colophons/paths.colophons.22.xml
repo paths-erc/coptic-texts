@@ -20,7 +20,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text>
     <body>
       <p>
-<placeName type="monastery">ⲁⲅⲓⲟⲩ ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲩ ⲁⲃⲃⲁ̣ | ⲁⲡⲁ ⲉⲡⲓⲙⲁ</placeName> ⲙ<placeName type="city_village">ⲡϣⲱⲛⲧⲉ</placeName> | ⲛ<placeName type="city_village">ⲛⲁⲣⲙⲟⲩⲧⲉ</placeName> ⲙ<placeName type="district_nomos">ⲡⲓⲟⲙ</placeName>. | [  ̣ ̣ ̣ ̣ ̣ ̣]ⲟ̣ ⲉ̣ϫⲛ[  ̣ ̣ ̣]
+<placeName type="monastery" ref="paths:places:352">ⲁⲅⲓⲟⲩ ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲩ ⲁⲃⲃⲁ̣ | ⲁⲡⲁ ⲉⲡⲓⲙⲁ ⲙⲡϣⲱⲛⲧⲉ</placeName> | ⲛ<placeName type="city_village" ref="paths:places:104">ⲛⲁⲣⲙⲟⲩⲧⲉ</placeName> ⲙ<placeName type="district_nomos" ref="paths:places:323">ⲡⲓⲟⲙ</placeName>. | [  ̣ ̣ ̣ ̣ ̣ ̣]ⲟ̣ ⲉ̣ϫⲛ[  ̣ ̣ ̣]
 
 <persName type="monk">ⲁⲡⲓ̣ⲩ</persName> <roleName type="ecclesiastical">ⲡ̣ⲣⲥ</roleName> | ⲡ̣ⲉϥⲥⲟⲛ̣
 

@@ -20,7 +20,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text>
     <body>
       <p>
-<persName type="donor">Ἰωσήφ ἐλάχ(ιστος) διάκονου · παῖς τοῦ μακαρίου Σισίννις</persName> | <roleName type="ecclesiastical">ἀρχιδιάκονος</roleName> τῆς ἁγίας ἐκκλεσίας <placeName type="church_basilica">τοῦ ἁγίου Ἰωάννου | προδρόμου (καὶ) βαπτιστοῦ</placeName> <placeName type="city_village">πόλεως Λάτων</placeName> · εὔξασθε ὑπὲ|ρ ἐμοῦ · ἐγώ · ὁ τάλας (καὶ) ἁμαρτωλού · ἀμήν.
+<persName type="donor">Ἰωσήφ ἐλάχ(ιστος) διάκονου · παῖς τοῦ μακαρίου Σισίννις</persName> | <roleName type="ecclesiastical">ἀρχιδιάκονος</roleName> τῆς ἁγίας ἐκκλεσίας <placeName type="church_basilica" ref="paths:places:58">τοῦ ἁγίου Ἰωάννου | προδρόμου (καὶ) βαπτιστοῦ πόλεως Λάτων</placeName> · εὔξασθε ὑπὲ|ρ ἐμοῦ · ἐγώ · ὁ τάλας (καὶ) ἁμαρτωλού · ἀμήν.
     </p>
     </body>
   </text>

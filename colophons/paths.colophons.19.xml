@@ -20,7 +20,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text>
     <body>
       <p>
-ⲥ︦ⲏ︦ⲛ︦ ⲑ(ⲉ)ⲱ ⲛϣⲁⲣⲡ ⲡ⳪︦  ⲓ︦ⲥ̄ ⲭ︦ⲥ︦ | ⲥⲙⲟⲩ ⲉⲡⲣⲱⲙⲉ ⲛⲧⲁϥ|ⲃⲓⲡⲣⲁⲟⲩϣ ⲙⲡⲓⲕⲉ|ⲫⲁⲗⲓⲟⲛ ⲛϫⲱⲱⲙⲓ | (5) ⲁϥⲧⲁⲁϥ ⲉϩⲟⲩⲛ | ⲉ<placeName type="monastery">ⲙⲓⲭⲁⲏⲗ</placeName> ⲉⲡ<placeName type="city_village">ⲫⲁⲛⲧⲁⲩ</placeName> | ϩⲁⲡⲟⲩϫⲉⲓ ⲛⲧⲉϥⲯⲩⲭⲏ | ⲛⲧⲉⲡⲡ⳪︦   ⲓ︦ⲥ︦ ⲭ︦ⲥ︦ ϯ ⲛⲁ̣ϥ | ⲛϫⲉ̣ϥⲓⲱ ⲛⲉϥϩⲓⲥⲓ | (10) ϩⲉⲛⲑⲓⲉ(ⲣⲟⲩⲥⲁ)ⲗⲉⲉⲙ ⲛⲧⲡⲏ | ϩⲁⲙⲏⲛ | ⲉⲡⲓⲧⲏ ⲛⲧⲁⲡⲓⲁⲑⲟⲛ | ϣⲱⲡⲓ̣ ϩⲉⲛⲛⲉϩⲁⲟⲩ | ⲛⲡⲓⲱⲧ ⲡ<roleName type="ecclesiastical">ⲇⲓ(ⲁⲕⲟⲛⲟⲥ)</roleName> <persName type="monk">ⲓⲱ(ϩⲁⲛⲛⲏⲥ)</persName> | (15) ⲙⲛⲡⲁⲓⲱⲧ ⲡⲁⲡⲁ | <persName type="monk">ⲡⲁⲩⲗⲓ</persName> ⲙⲛⲡⲁⲓⲱⲧ | ⲡⲁⲡⲁ <persName type="monk">ⲑⲱⲧⲉⲣ ⲡⲁϣⲟ̣ⲡ</persName> | ⲁⲡⲱ ⲇⲓⲗⲱⲕⲕⲗⲏϯⲁ (vel ⲇⲓⲅⲱⲕ-?) |ⲛⲱⲥ ⲭ︦ⲑ︦ 
+ⲥ︦ⲏ︦ⲛ︦ ⲑ(ⲉ)ⲱ ⲛϣⲁⲣⲡ ⲡ⳪︦  ⲓ︦ⲥ̄ ⲭ︦ⲥ︦ | ⲥⲙⲟⲩ ⲉⲡⲣⲱⲙⲉ ⲛⲧⲁϥ|ⲃⲓⲡⲣⲁⲟⲩϣ ⲙⲡⲓⲕⲉ|ⲫⲁⲗⲓⲟⲛ ⲛϫⲱⲱⲙⲓ | (5) ⲁϥⲧⲁⲁϥ ⲉϩⲟⲩⲛ | ⲉ<placeName type="monastery" ref="paths:places:99">ⲙⲓⲭⲁⲏⲗ ⲉⲡⲫⲁⲛⲧⲁⲩ</placeName> | ϩⲁⲡⲟⲩϫⲉⲓ ⲛⲧⲉϥⲯⲩⲭⲏ | ⲛⲧⲉⲡⲡ⳪︦   ⲓ︦ⲥ︦ ⲭ︦ⲥ︦ ϯ ⲛⲁ̣ϥ | ⲛϫⲉ̣ϥⲓⲱ ⲛⲉϥϩⲓⲥⲓ | (10) ϩⲉⲛⲑⲓⲉ(ⲣⲟⲩⲥⲁ)ⲗⲉⲉⲙ ⲛⲧⲡⲏ | ϩⲁⲙⲏⲛ | ⲉⲡⲓⲧⲏ ⲛⲧⲁⲡⲓⲁⲑⲟⲛ | ϣⲱⲡⲓ̣ ϩⲉⲛⲛⲉϩⲁⲟⲩ | ⲛⲡⲓⲱⲧ ⲡ<roleName type="ecclesiastical">ⲇⲓ(ⲁⲕⲟⲛⲟⲥ)</roleName> <persName type="monk">ⲓⲱ(ϩⲁⲛⲛⲏⲥ)</persName> | (15) ⲙⲛⲡⲁⲓⲱⲧ ⲡⲁⲡⲁ | <persName type="monk">ⲡⲁⲩⲗⲓ</persName> ⲙⲛⲡⲁⲓⲱⲧ | ⲡⲁⲡⲁ <persName type="monk">ⲑⲱⲧⲉⲣ ⲡⲁϣⲟ̣ⲡ</persName> | ⲁⲡⲱ ⲇⲓⲗⲱⲕⲕⲗⲏϯⲁ (vel ⲇⲓⲅⲱⲕ-?) |ⲛⲱⲥ ⲭ︦ⲑ︦
       </p>
     </body>
   </text>

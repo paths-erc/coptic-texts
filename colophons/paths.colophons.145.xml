@@ -20,7 +20,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text>
     <body>
       <p>
-        ⲡϭ(ⲟⲓ)ⲥ ⲫ(ⲛⲟⲩ)ϯ ϣⲉⲛϩⲏⲧ ϧⲁⲧⲁϫⲟⲃⲓ ⲛ́ⲧⲁⲗⲉⲡⲱⲣⲟ(ⲥ) | ⲙ́ⲯⲩⲭⲏ   ⲁⲛⲟⲕ ϣⲁⲡⲓⲉ́ⲗⲁⲭⲓ(ⲥ)ⲧ{ⲣ}(ⲟ)ⲥ ⲙ́ⲡⲣⲉⲥⲃⲩ|ⲧⲉⲣⲟ(ⲥ) | <persName type="copyist">ⲡⲓϣⲉⲛⲛⲟⲩϥⲓ ⲩ(ⲓⲟ)ⲥ ⲡⲁⲡⲁ   ̣ⲟⲩⲕⲁ</persName> ⲡⲓⲣⲉⲙ|<placeName type="city_village">ⲡⲓϣⲁϥⲉ</placeName> ϧⲉⲛⲡⲑⲟϣ ⲛ́<placeName type="district_nomos">ⲧⲁⲙⲓⲁϯ</placeName> ⲁⲙⲏⲛ
+        ⲡϭ(ⲟⲓ)ⲥ ⲫ(ⲛⲟⲩ)ϯ ϣⲉⲛϩⲏⲧ ϧⲁⲧⲁϫⲟⲃⲓ ⲛ́ⲧⲁⲗⲉⲡⲱⲣⲟ(ⲥ) | ⲙ́ⲯⲩⲭⲏ   ⲁⲛⲟⲕ ϣⲁⲡⲓⲉ́ⲗⲁⲭⲓ(ⲥ)ⲧ{ⲣ}(ⲟ)ⲥ ⲙ́ⲡⲣⲉⲥⲃⲩ|ⲧⲉⲣⲟ(ⲥ) | <persName type="copyist">ⲡⲓϣⲉⲛⲛⲟⲩϥⲓ ⲩ(ⲓⲟ)ⲥ ⲡⲁⲡⲁ   ̣ⲟⲩⲕⲁ</persName> ⲡⲓⲣⲉⲙ|<placeName type="city_village" ref="paths:places:000">ⲡⲓϣⲁϥⲉ</placeName> ϧⲉⲛⲡⲑⲟϣ ⲛ́<placeName type="district_nomos" ref="paths:places:133">ⲧⲁⲙⲓⲁϯ</placeName> ⲁⲙⲏⲛ
         ⲡ	ⲡϭ(ⲟⲓ)ⲥ ⲡⲉ ⲡⲁⲃⲟⲏⲑⲟⲥ ⲛⲉⲙⲡⲁⲙⲁⲛⲫⲱⲧ ⲉⲟⲩⲥⲟⲡ		ⲡ
         ⲓ	ⲓⲏ(ⲥⲟⲩ)ⲥ ⲡⲉ ⲧⲁϫⲟⲙ ⲛⲉⲙⲧⲁϩⲉⲗⲡⲓⲥ   ⲓⲥϫⲉⲛⲧⲁⲙⲉⲧⲕⲟⲩϫⲓ	ⲓ
         ϣ	ϣⲱⲡⲓ ⲛⲏⲓ ⲛⲟⲩⲥⲟⲧⲏⲣⲓⲁ ⲟⲩⲟϩ ⲛⲁϩⲙⲉⲧ ϧⲉⲛⲡⲉⲕⲟⲩⲱϣ 	ϣ
