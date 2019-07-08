@@ -10,3 +10,6 @@ This is a selected corpus of hagiographic and homiletic texts, consistent and ho
 The selection has been made considering their geographical proximity, the chronological and cultural context, i.e. the monastic homogeneous environment of the so-called **Middle Egypt**. All the selected texts were already available in electronic version in the [CMCL database](http://cmcl.it).
 
 The [XSD schema](https://en.wikipedia.org/wiki/XML_Schema_(W3C)) used to validate all texts is also available in the repository.
+
+## License
+All the documents are licensed CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/). See the individual files and subdirectories for more licensing information.
