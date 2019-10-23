@@ -38,11 +38,11 @@
   
   <xs:element name="publicationStmt">
     <xs:complexType>
-      <xs:sequence  minOccurs="0" maxOccurs="unbounded">
+      <xs:all>
         <xs:element ref="ns1:p"/>
-        <xs:element ref="ns1:authority"/>
-        <xs:element ref="ns1:availability"/>
-      </xs:sequence>
+        <xs:element ref="ns1:authority" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="ns1:availability" minOccurs="0" maxOccurs="1"/>
+      </xs:all>
     </xs:complexType>
   </xs:element>
   <xs:element name="sourceDesc">
