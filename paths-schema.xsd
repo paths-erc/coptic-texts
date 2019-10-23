@@ -38,7 +38,7 @@
   
   <xs:element name="publicationStmt">
     <xs:complexType>
-      <xs:sequence>
+      <xs:sequence  minOccurs="0" maxOccurs="unbounded">
         <xs:element ref="ns1:p"/>
         <xs:element ref="ns1:authority"/>
         <xs:element ref="ns1:availability"/>
@@ -74,11 +74,9 @@
     </xs:complexType>
   </xs:element>
 
-
-  <xs:element name="license">
+  <xs:element name="licence">
     <xs:complexType mixed="true" />
   </xs:element>
-
 
   <xs:element name="availability">
     <xs:complexType mixed="true">
@@ -87,6 +85,7 @@
       </xs:choice>
     </xs:complexType>
   </xs:element>
+
   
 
   <xs:element name="p">
