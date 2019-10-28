@@ -20,7 +20,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text>
     <body>
       <p>
-ⲡⲁⲓⲡⲉ ⲡ[ϫⲱⲱ]ⲙⲉ ⲛ̄ⲧⲁⲡ[ⲉ]ⲛ̣|ⲙⲁⲓ̈ⲛⲟⲩⲧⲉ ⲛ̣ⲉⲓ̈ⲱⲧ ⲁⲡⲁ <persName type="donor">ⲯⲟⲧ̣[ⲉ]</persName> | ⲡⲉ<roleName type="ecclesiastical">ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ</roleName> ⲙ̄ⲡ<placeName type="oratory" ref="paths:places:000">ⲏⲓ ⲛ̄ⲛ̄|ϣ̄ⲗ̄ⲕⲏⲧ</placeName> ϥⲓ̈ⲡⲉϥⲣⲟⲟⲩϣ ⲁϥ|(5)ⲥⲙⲛ̄ⲧϥ̄ ϩⲁⲡⲟⲩϫⲁⲓ ⲛ̄ⲧⲉϥ|ⲯⲩⲭⲏ ⲉⲧⲣⲉⲩϯⲕⲁⲣⲡⲟⲥ ⲛ̄ϩⲏ|ⲧϥ̄ ⲡⲛⲟⲩⲧⲉ ⲉⲕⲉϩⲁⲣⲉϩ [ⲉ]ⲣⲟϥ ⲉⲛⲅ̄|ⲛⲁϩⲙⲉϥ ⲉⲛϭⲟⲣϭ̄ⲥ̄ ⲙ̄ⲡⲥⲁⲧⲁⲛⲁⲥ | [ϩⲁⲙⲏⲛ] ⲉ̣ϥ̣ⲉ̣ϣⲱⲡⲉ · ϥ̄ⲑ̄
+ⲡⲁⲓⲡⲉ ⲡ[ϫⲱⲱ]ⲙⲉ ⲛ̄ⲧⲁⲡ[ⲉ]ⲛ̣|ⲙⲁⲓ̈ⲛⲟⲩⲧⲉ ⲛ̣ⲉⲓ̈ⲱⲧ ⲁⲡⲁ <persName type="donor" ref="paths.persons.101">ⲯⲟⲧ̣[ⲉ]</persName> | ⲡⲉ<roleName type="ecclesiastical">ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ</roleName> ⲙ̄ⲡ<placeName type="oratory" ref="paths.places.000">ⲏⲓ ⲛ̄ⲛ̄|ϣ̄ⲗ̄ⲕⲏⲧ</placeName> ϥⲓ̈ⲡⲉϥⲣⲟⲟⲩϣ ⲁϥ|(5)ⲥⲙⲛ̄ⲧϥ̄ ϩⲁⲡⲟⲩϫⲁⲓ ⲛ̄ⲧⲉϥ|ⲯⲩⲭⲏ ⲉⲧⲣⲉⲩϯⲕⲁⲣⲡⲟⲥ ⲛ̄ϩⲏ|ⲧϥ̄ ⲡⲛⲟⲩⲧⲉ ⲉⲕⲉϩⲁⲣⲉϩ [ⲉ]ⲣⲟϥ ⲉⲛⲅ̄|ⲛⲁϩⲙⲉϥ ⲉⲛϭⲟⲣϭ̄ⲥ̄ ⲙ̄ⲡⲥⲁⲧⲁⲛⲁⲥ | [ϩⲁⲙⲏⲛ] ⲉ̣ϥ̣ⲉ̣ϣⲱⲡⲉ · ϥ̄ⲑ̄
     </p>
     </body>
   </text>
