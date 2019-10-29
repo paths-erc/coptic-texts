@@ -20,8 +20,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text>
     <body>
       <p>
-μνήσθυτη κ(ύρι)ε δοῦ δούλους σου <persName type="copyist">ἐλαχ(ίστου) διακό(νου) | Γαβριήλ υ(ἱο)ῦ Μηνᾶ π[±3]αυ</persName> ἀπὸ <placeName type="city_village" ref="paths:places:000">χωρ(ί)ο(υ) Νιμανθωμς</placeName> | συνθρόνο(υ)
-<placeName type="city_village" ref="paths:places:000">Θμουι</placeName> (καὶ) <placeName type="city_village" ref="paths:places:000">Τκεϩλι</placeName> συνχώριζον | τὸν παραπτώματα ἱμῶν ἀμήν χρόνου Μ(α)ρτ(ύρων) χϙε
+μνήσθυτη κ(ύρι)ε δοῦ δούλους σου <persName type="copyist">ἐλαχ(ίστου) διακό(νου) | Γαβριήλ υ(ἱο)ῦ Μηνᾶ π[±3]αυ</persName> ἀπὸ <placeName type="city_village" ref="paths.places.000">χωρ(ί)ο(υ) Νιμανθωμς</placeName> | συνθρόνο(υ)
+<placeName type="city_village" ref="paths.places.000">Θμουι</placeName> (καὶ) <placeName type="city_village" ref="paths.places.000">Τκεϩλι</placeName> συνχώριζον | τὸν παραπτώματα ἱμῶν ἀμήν χρόνου Μ(α)ρτ(ύρων) χϙε
       </p>
     </body>
   </text>

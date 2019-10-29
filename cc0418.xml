@@ -83,7 +83,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 ⲉⲧⲛⲁⲛⲟⲩϥ ⲉⲩⲫⲣⲁⲛⲉ ⲙⲡϩⲏⲧ</quote>·ⲙⲁⲗⲓⲥⲧⲁ ϫⲉ <quote type="biblical" ref="Prov. 29,2">ϣⲁⲣⲉ ⲛⲗⲁⲟⲥ ⲉⲩⲫⲣⲁⲛⲉ ⲉⲩϣⲁϫⲉ
 ⲉⲛⲇⲓⲕⲁⲓⲟⲥ</quote>,ⲕⲁⲧⲁ ⲛⲉⲛⲧⲁ ⲡⲥⲟⲫⲟⲥ <persName type="biblical">ⲥⲟⲗⲟⲙⲱⲛ</persName> ϫⲟⲟⲩ·
 ⲧ <date type="liturgies_ceremonies">ⲡⲟⲗⲏϯⲁ</date> ⲙⲛ ⲡⲃⲓⲟⲥ ⲙⲡⲉⲛⲉⲓⲱⲧ ⲉⲧⲟⲩⲁⲁⲃ ⲁⲡⲁ <persName type="monk">ⲗⲟⲅⲅⲓⲛⲟⲥ</persName>,ⲉⲛⲉⲩⲉⲃⲟⲗ ⲡⲉ
-ϩⲛ <placeName type="monastery" ref="pleiades:727070">ⲧⲗⲁⲩⲣⲁ ⲙⲡϩⲉⲛⲁⲧⲟⲛ</placeName> ⲛ <placeName type="city_village" ref="paths:places:39">ⲣⲁⲕⲟⲧⲉ</placeName>·</p>
+ϩⲛ <placeName type="monastery" ref="pleiades:727070">ⲧⲗⲁⲩⲣⲁ ⲙⲡϩⲉⲛⲁⲧⲟⲛ</placeName> ⲛ <placeName type="city_village" ref="paths.places.39">ⲣⲁⲕⲟⲧⲉ</placeName>·</p>
 
 <p n="5">ⲛⲉⲟⲩⲉⲧⲉⲓⲙⲓⲛⲉ ⲇⲉ ⲡⲉ·ⲉⲛⲉⲟⲩⲉⲃⲟⲗ ⲡⲉ ϩⲛ ⲟⲩⲡⲟⲗⲓⲥ ⲛⲧⲉ ⲧ<placeName type="country" ref="non_egyptian">ⲗⲩⲕⲓⲁ</placeName>
 ⲡⲉ ⲕⲁⲧⲁ ⲡⲉϥⲅⲉⲛⲟⲥ ⲉⲧⲏⲡ ⲉⲡⲕⲁϩ,ⲉⲩⲡⲟⲗⲓⲧⲏⲥ ⲡⲉ ⲛⲧⲉ <placeName type="biblical">ⲑⲓⲉⲗ︤ⲏ︦ⲙ︥</placeName> ⲛⲧⲡⲉ ⲉⲣⲉ
@@ -212,7 +212,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <p n="13">ⲧⲟⲧⲉ ⲡⲙⲁⲕⲁⲣⲓⲟⲥ <persName type="monk">ⲗⲟⲩⲅⲓⲟⲥ</persName> ⲁϥϫⲓ ⲙⲡⲉϥⲙⲁⲑⲏⲧⲏⲥ ⲛⲥⲁⲟⲩⲥⲁ ⲡⲉ
 ϫⲁϥ ⲛⲁϥ ϫⲉ·ⲛⲧⲛⲛⲁϣ ϭⲱ ⲁⲛ ⲛⲧⲉⲓϩⲉ ⲉⲛϥⲉⲓ ϩⲁ ⲡⲉⲟⲟⲩ ⲉⲧϣⲟⲩⲉⲓⲧ ⲛⲛ
 ⲡⲱⲙⲉ ⲟⲩⲇⲉ|ⲛⲟⲩⲛⲟϥⲣⲉ ⲁⲛ ⲧⲉ ⲛⲛⲉⲛⲯⲩⲭⲏ·ⲗⲟⲓⲡⲟⲛ ⲡⲁϣⲏⲣⲉ ⲥⲱⲧⲙ ⲛ
-ⲥⲱⲓ ⲛⲅⲧⲱⲟⲩⲛ ϩⲛ ⲟⲩϩⲱⲡ ⲛⲅⲃⲱⲕ ⲉ <placeName type="city_village" ref="paths:places:39">ⲣⲁⲕⲟⲧⲉ</placeName> ˽ ϯⲥⲱⲧⲙ ⲉⲧⲃⲉ ⲟⲩⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ
+ⲥⲱⲓ ⲛⲅⲧⲱⲟⲩⲛ ϩⲛ ⲟⲩϩⲱⲡ ⲛⲅⲃⲱⲕ ⲉ <placeName type="city_village" ref="paths.places.39">ⲣⲁⲕⲟⲧⲉ</placeName> ˽ ϯⲥⲱⲧⲙ ⲉⲧⲃⲉ ⲟⲩⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ
 ⲉϥⲥⲁ ⲡⲉⲙⲛⲧ ⲛ <placeName type="city_village" ref="egyptian">ⲧⲡⲟⲗⲓⲥ</placeName> ⲉⲧⲙⲙⲁⲩ ⲉϣⲁⲩⲙⲟⲩⲧⲉ ⲉⲣⲟϥ ϫⲉ ⲡ <placeName type="monastery" ref="pleiades:727070">ϩⲉⲛⲁⲧⲟⲛ</placeName> ⲉⲣⲉ ⲟⲩ
 ⲛⲟϭ ⲛⲉⲍⲩⲭⲓⲁ ⲛϩⲏⲧϥ ⲕⲁⲧⲁ ⲡⲛⲟⲩⲧⲉ ˽ⲛⲅϣⲓⲛⲉ <persName type="monk">ⲛⲥⲁⲟⲩⲣⲙⲕⲟⲣⲓⲛⲑⲟⲥ</persName> ⲉⲡⲉϥ
 ⲣⲁⲛ ⲡⲉ <persName type="monk">ⲅⲁⲓⲟⲥ</persName> ⲉϥⲟ ⲛⲕⲟⲛⲟⲃⲓⲁⲣⲭⲏⲥ ⲉⲡⲉϥ <placeName type="monastery" ref="pleiades:727070">ⲕⲟⲛⲟⲃⲓⲟⲛ</placeName> ⲙⲙⲓⲛ ⲙⲙⲟϥ ⲡⲁⲓ ⲛ
@@ -282,7 +282,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
 <p n="17">ⲟⲩⲡⲣⲁⲅⲙⲁⲧⲉⲩⲧⲏⲥ ⲉⲡⲁ ⲧ <placeName type="country" ref="non_egyptian">ⲗⲩⲕⲓⲁ</placeName> ⲡⲉ,ⲧⲉⲭⲱⲣⲁ ⲛⲛⲁⲡⲁ <persName type="monk">ⲗⲟⲅⲅⲓⲛⲟⲥ</persName>,
 ⲉϥⲥⲟⲟⲩⲛ ⲙⲙⲟϥ ⲕⲁⲗⲱⲥ ⲁⲓⲧⲉⲓ ⲉϥϩⲙ <placeName type="monastery" ref="non_egyptian">ⲡⲉϥⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ</placeName>,ⲁⲥϣⲱⲡⲉ ⲇⲉ ⲉ
-ⲧⲣⲉϥⲉⲓ ⲉ <placeName type="city_village" ref="paths:places:39">ⲣⲁⲕⲟⲧⲉ</placeName> ⲉⲧⲃⲉ ⲧⲉⲭⲣⲓⲁ ⲛⲧⲉϥⲡⲣⲁⲅⲙⲁⲧⲓⲁ·ⲛⲧⲉⲣⲉϥⲃⲱⲕ ⲉⲡ <placeName type="martyr_shrine" ref="pleiades:727105">ⲧⲟⲡⲟⲥ
+ⲧⲣⲉϥⲉⲓ ⲉ <placeName type="city_village" ref="paths.places.39">ⲣⲁⲕⲟⲧⲉ</placeName> ⲉⲧⲃⲉ ⲧⲉⲭⲣⲓⲁ ⲛⲧⲉϥⲡⲣⲁⲅⲙⲁⲧⲓⲁ·ⲛⲧⲉⲣⲉϥⲃⲱⲕ ⲉⲡ <placeName type="martyr_shrine" ref="pleiades:727105">ⲧⲟⲡⲟⲥ
 ⲙⲡϩⲁⲅⲓⲟⲥ ⲙⲏⲛⲁ</placeName> ⲛϥ|ϣⲗⲏⲗ ⲁϥⲉⲡⲉⲑⲩⲙⲉⲓ ⲟⲛ ⲉⲧⲣⲉϥⲃⲱⲕ ⲉⲡ<placeName type="monastery">ⲙⲟⲛⲁⲥⲧⲉⲣⲓⲟⲛ</placeName>
 ⲙⲡⲙⲁⲕⲁⲣⲓⲟⲥ <persName type="monk">ⲕⲁⲓⲟⲥ</persName> ⲡⲉⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲕⲁⲧⲁ ⲧⲉϥⲥⲩⲛⲏⲑⲓⲁ,ϩⲱⲥ ⲉⲟⲩⲛⲧⲁϥ
 ⲟⲩⲛⲟϭ ⲙⲡⲓⲥⲧⲓⲥ ⲉϩⲟⲩⲛ ⲉⲡⲧⲟⲡⲟⲥ·ⲛⲧⲉⲣⲉϥⲉⲓ ϣⲁⲣⲟϥ ⲛϥϫⲓ ⲥⲙⲟⲩ ⲛⲧⲟⲟⲧϥ

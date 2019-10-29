@@ -33,7 +33,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
       <p n="2">ⲛⲉⲟⲩⲛ ⲟⲩⲥⲟⲛ ⲇⲉ ⲉⲡⲉϥⲣⲁⲛ ⲡⲉ ⲁⲡⲁ <persName type="monk">ⲫⲓϥ</persName> ⲉⲩⲣⲙ ⲡⲥⲓⲛⲉⲙⲟⲩⲛ ⲡⲉ ϩⲙ
       ⲡⲧⲟϣ ⲛϣⲙⲟⲩⲛ·ⲁϥⲉⲓ ϣⲁ ⲡⲁⲉⲓⲱⲧ ⲉⲧⲟⲩⲁⲁⲃ ⲁⲡⲁ <persName type="monk">ⲁⲡⲟⲗⲗⲱ</persName> ⲁϥⲣ <roleName type="religious">ⲙⲟⲛⲟⲭⲟⲥ</roleName>
       ϩⲁϩⲧⲏϥ·ⲁⲩϭⲱ ⲇⲉ ⲙⲛ ⲛⲉⲩⲉⲣⲏⲩ ⲛⲁϯⲉ ⲛⲣⲟⲙⲡⲉ·ⲙⲛⲛⲥⲱⲥ ⲁⲁⲡⲉⲧⲣⲁ ⲉⲛ
-      ⲧⲟⲩ ⲙⲡⲉⲥⲛⲁⲩ ⲁϥⲕⲁⲁⲩ ϩⲁϩⲧⲛ ⲛⲉⲩⲉⲣⲏⲩ ϩⲙ <placeName type="monastery" ref="paths:places:74"
+      ⲧⲟⲩ ⲙⲡⲉⲥⲛⲁⲩ ⲁϥⲕⲁⲁⲩ ϩⲁϩⲧⲛ ⲛⲉⲩⲉⲣⲏⲩ ϩⲙ <placeName type="monastery" ref="paths.places.74"
       >ⲡⲧⲟⲟⲩ ⲛϯⲧⲕⲟⲟϩ</placeName> ⲁϥⲃⲱⲕ ϣⲁ
       ⲡⲉϩⲟⲟⲩ ⲛⲧⲁϥⲙⲧⲟⲛ ⲙⲙⲟϥ·ⲛⲧⲟⲟⲩ ⲇⲉ ⲙⲡⲉⲥⲛⲁⲩ ⲛⲉⲩϣⲟⲟⲡ ⲙⲛ ⲛⲉⲩⲉⲣⲏⲩ
       ⲉⲩⲉⲓⲣⲉ ⲛϩⲉⲛⲛⲟϭ <date type="liturgies_ceremonies">ⲙⲡⲟⲗⲩϯⲁ</date> ⲉⲙⲛⲣⲱⲙⲉ ⲛⲁϣ ϫⲓ ⲏⲡⲉ ⲙⲙⲟⲟⲩ ⲟⲩⲇⲉ ⲛⲧⲛⲛⲁϣ
@@ -141,8 +141,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
       <p n="10">ⲛⲧⲉⲣⲛⲧⲁⲙⲓⲟⲥ ⲇⲉ ⲁⲛⲙⲟⲟϣⲉ ⲉⲃⲟⲗ ϩⲙ ⲡⲙⲁ ⲉⲧⲙⲙⲁⲩ ⲉⲧⲣⲉⲛⲃⲱⲕ ⲉ
       ⲩⲙⲁ ϩⲙ ⲡⲙⲁⲣⲓⲥ ⲉⲩⲙⲟⲩⲧⲉ ⲉⲣⲟϥ ϫⲉ ⲁⲡⲁ <persName type="monk">ⲡⲁⲙⲓⲛ</persName>·ⲉⲧⲉⲓ ⲇⲉ ⲉⲛⲙⲟⲟϣⲉ ⲁⲛⲉⲓ
-      ⲉ <placeName type="monastery" ref="paths:places:74">ⲡⲧⲟⲟⲩ ⲛⲧⲉⲧⲕⲟⲟϩ</placeName>, ⲡⲉⲓⲧⲟⲟⲩ ⲛⲧⲁ ⲡⲛⲟⲩⲧⲉ ϩⲱⲛ <date type="liturgies_ceremonies">ⲙⲡϥⲥⲙⲟⲩ</date> ⲉⲩⲱⲛϩ ϣⲁ
-      ⲉⲛⲉϩ·ⲁⲛϭⲟⲓⲗⲉ ⲉϩⲉⲛⲥⲛⲏⲩ ⲙⲙⲁⲓⲛⲟⲩⲧⲉ ⲉⲩϩⲙ <placeName type="monastery" ref="paths:places:74">ⲡⲧⲟⲟⲩ</placeName> ⲉⲧⲙⲙⲁⲩ ⲁⲩⲉⲓⲣⲉ
+      ⲉ <placeName type="monastery" ref="paths.places.74">ⲡⲧⲟⲟⲩ ⲛⲧⲉⲧⲕⲟⲟϩ</placeName>, ⲡⲉⲓⲧⲟⲟⲩ ⲛⲧⲁ ⲡⲛⲟⲩⲧⲉ ϩⲱⲛ <date type="liturgies_ceremonies">ⲙⲡϥⲥⲙⲟⲩ</date> ⲉⲩⲱⲛϩ ϣⲁ
+      ⲉⲛⲉϩ·ⲁⲛϭⲟⲓⲗⲉ ⲉϩⲉⲛⲥⲛⲏⲩ ⲙⲙⲁⲓⲛⲟⲩⲧⲉ ⲉⲩϩⲙ <placeName type="monastery" ref="paths.places.74">ⲡⲧⲟⲟⲩ</placeName> ⲉⲧⲙⲙⲁⲩ ⲁⲩⲉⲓⲣⲉ
       ⲛϩⲉⲛⲛⲟϭ ⲙⲡⲉⲧⲛⲁⲛⲟⲩϥ ⲛⲙⲙⲁⲛ·ⲡⲉⲛⲙⲁⲕⲁⲣⲓⲟⲥ ⲇⲉ ⲛⲥⲟⲛ ⲁⲡⲁ <persName type="monk">ⲫⲓϥ</persName> ⲁϥⲙⲧⲟⲛ
       ⲙⲙⲟϥ ϩⲙ ⲡⲙⲁ ⲉⲧⲙⲙⲁⲩ ϩⲛ ⲥⲟⲩϫⲟⲩⲧⲏ ⲙⲡⲁⲟⲡⲉ ⲙⲡⲛⲁⲩ ⲛϫⲡϣⲟⲙⲧⲉ ⲙⲡⲉϩⲟ
       ⲟⲩ·ⲁⲩⲱ ⲁⲛⲙⲕⲁϩⲉ|ⲙⲁⲧⲉ ⲉⲁⲛⲟⲩⲱⲗⲥ ⲛϩⲏⲧ ⲛⲥⲱϥ ϩⲛ ⲟⲩⲛⲟϭ ⲛⲗⲩⲡⲏ·ⲁⲛ
@@ -153,7 +153,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
       ⲁⲩⲁϣⲁⲓ ⲉⲙⲁⲧⲉ·ⲙⲛⲛⲥⲱⲥ ⲁⲡⲥ︤ⲏ︦ⲣ︥ ⲟⲩⲱⲛϩ ⲉⲃⲟⲗ ⲙⲡⲉⲛⲉⲓⲱⲧ ⲁϥϣⲁϫⲉ ⲛⲙⲙⲁϥ
       ⲉϥϫⲱ ⲙⲙⲟⲥ ϫⲉ·ϯⲣⲏⲛⲏ ⲛⲁⲕ ⲱ ⲡⲁϣⲃⲏⲣ ⲙⲉⲗⲟⲥ ⲉⲧⲧⲁⲓⲏⲩ ⲡⲙⲉⲣⲓⲧ ⲙⲡⲁ
       ⲉⲓⲱⲧ·ⲉⲓⲥ ϩⲏⲏⲧⲉ ⲁⲡⲉⲟⲩⲟⲉⲓϣ ϣⲱⲡⲉ ⲉⲧⲣⲉⲕⲟⲩⲱⲛϩ ⲉⲃⲟⲗ ⲙⲡⲁⲉⲟⲟⲩ ⲛⲧⲉ
-      ⲡⲁⲣⲁⲛ  ϫⲓⲉⲟⲟⲩ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧⲕ ϩⲓϫⲙ ⲡⲕⲁϩ·ⲧⲱⲟⲩⲛ ϭⲉ ⲛⲅⲃⲱⲕ <placeName type="monastery" ref="paths:places:74">ⲉⲡⲧⲟⲟⲩ ⲛⲧⲉⲧⲕⲟⲟϩ</placeName> ⲛⲅϣⲱⲡⲉ ϩⲙ ⲡⲙⲁ ⲉⲧⲙⲙⲁⲩ·ⲛⲧⲟϥ ⲅⲁⲣ ⲡⲉⲛⲧⲁ ⲡⲁⲉⲓⲱⲧ ⲧⲁⲁϥ
+      ⲡⲁⲣⲁⲛ  ϫⲓⲉⲟⲟⲩ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧⲕ ϩⲓϫⲙ ⲡⲕⲁϩ·ⲧⲱⲟⲩⲛ ϭⲉ ⲛⲅⲃⲱⲕ <placeName type="monastery" ref="paths.places.74">ⲉⲡⲧⲟⲟⲩ ⲛⲧⲉⲧⲕⲟⲟϩ</placeName> ⲛⲅϣⲱⲡⲉ ϩⲙ ⲡⲙⲁ ⲉⲧⲙⲙⲁⲩ·ⲛⲧⲟϥ ⲅⲁⲣ ⲡⲉⲛⲧⲁ ⲡⲁⲉⲓⲱⲧ ⲧⲁⲁϥ
       ⲛⲁⲕ ⲛⲕⲗⲏⲣⲟⲛⲟⲙⲓⲁ·ⲉⲧⲃⲉ ⲡⲁⲓ ⲁⲓⲕⲱ ⲛϩⲏⲧϥ ⲛⲛⲕⲉⲉⲥ ⲙⲡⲉⲕϣⲃⲏⲣ ⲙⲉⲗⲟⲥ ⲁⲡⲁ
       <persName type="monk">ⲫⲓϥ</persName> ϫⲉⲕⲁⲥ ⲉⲕⲉϣⲱⲡⲉ ϩⲱⲱⲕ ϩⲙ ⲡⲙⲁ ⲉⲧⲙⲙⲁⲩ·|ⲁϥⲟⲩⲱϣⲃ ⲡⲉϫⲁϥ ⲙ
       ⲡⲥ︤ⲏ︦ⲣ︥ ϫⲉ·ⲁⲛⲁⲩ ⲉⲩⲣⲱⲙⲉ ⲉⲟⲩⲛϭⲟⲙ ⲙⲙⲟϥ ⲉϥⲓ ⲡⲣⲟⲟⲩϣ ⲛϯⲟⲓⲕⲟⲛⲟⲙⲓⲁ ⲛϯ
@@ -186,7 +186,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
       <rs type="furniture">ⲡⲉⲑⲩⲥⲓⲁⲥⲧⲏⲣⲓⲟⲛ</rs> ⲁⲩⲱ <rs type="furniture">ⲧⲉⲥⲧⲩⲗⲏ</rs> ⲡⲉ ⲡⲥⲱⲙⲁ ⲙ <persName type="monk">ⲡⲁϩⲙϩⲁⲗ ⲁⲛⲟⲩⲡ</persName>·ⲉⲓⲥ ϩⲏⲏ
       ⲧⲉ ⲁⲓⲧⲁⲙⲟⲕ ⲉⲛⲉⲧⲛⲁϣⲱⲡⲉ ⲧⲏⲣⲟⲩ ⲙⲙⲟⲕ ϩⲙ ⲡϣⲟϫⲛⲉ ⲧⲏⲣϥ ⲙⲡⲁⲉⲓⲱⲧ·ϣⲱ
       ⲡⲉ ⲉⲕⲧⲁϫⲣⲏⲩ ⲛⲧⲟⲕ ⲉϫⲛ ⲛⲉⲛⲧⲁⲓϫⲟⲟⲩ ⲛⲁⲕ ⲛⲅⲧⲙⲣ ϩⲏⲧ ⲥⲛⲁⲩ·ϯⲛⲁⲧⲣⲉ
-      ϩⲉⲛⲛⲟϭ <date type="liturgies_ceremonies">ⲛⲥⲙⲟⲩ</date> ϣⲱⲡⲉ ϩⲙ <placeName type="monastery" ref="paths:places:74">ⲡⲉⲕⲧⲟⲡⲟⲥ</placeName> ⲕⲁⲧⲁ ⲥⲙⲟⲧ ⲛⲓⲙ ⲁⲩⲱ ϯⲛⲁⲧⲣⲉⲩⲙⲟⲩⲧⲉ
+      ϩⲉⲛⲛⲟϭ <date type="liturgies_ceremonies">ⲛⲥⲙⲟⲩ</date> ϣⲱⲡⲉ ϩⲙ <placeName type="monastery" ref="paths.places.74">ⲡⲉⲕⲧⲟⲡⲟⲥ</placeName> ⲕⲁⲧⲁ ⲥⲙⲟⲧ ⲛⲓⲙ ⲁⲩⲱ ϯⲛⲁⲧⲣⲉⲩⲙⲟⲩⲧⲉ
       ⲉⲛⲉⲕϣⲏⲣⲉ ϫⲉ ⲛϥⲁⲓⲗⲁⲙⲡⲁⲥ ⲙⲡⲉⲭ︤ⲥ︥·ⲟⲩⲟⲛ ⲛⲓⲙ ⲉⲧⲛⲁϩⲁⲣⲉϩ ⲉⲛⲉⲕⲛⲧⲟⲗⲏ
       ϯⲛⲁⲭⲁⲣⲓⲍⲉ ⲙⲙⲟⲟⲩ ⲛⲁⲕ ⲛϣⲏⲣⲉ ϩⲛ ⲧⲁⲙⲛⲧⲉⲣⲟ·ⲟⲩⲟⲛ ⲛⲓⲙ ⲉⲧⲛⲁϭⲱ ⲉⲩⲙⲏⲛ
       ⲉⲃⲟⲗ ϩⲛ ⲧϭⲓⲛⲣϩⲱⲃ|ⲙⲛ ⲧⲉⲕϭⲓⲛϣⲙϣⲉ ⲥⲉⲛⲁϣⲱⲡⲉ ⲛⲁⲕ ⲛϣⲏⲣⲉ ϩⲙ ⲡⲏⲓ
@@ -199,11 +199,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
       ⲙⲡϫ︤ⲥ︥ ⲁⲩⲱ ⲥⲉⲧⲁⲓⲏⲩ ⲉⲩⲥⲟⲧⲡ ⲉⲙⲁⲧⲉ ⲁⲩⲱ ⲥⲉⲃⲏⲕ ⲉϩⲟⲩⲛ ⲉⲡⲏⲓ ⲙⲡϫ︤ⲥ︥ ϩⲓ
       ⲟⲩⲥⲟⲡ·ⲑⲉ ⲅⲁⲣ ⲛⲧⲁϥⲧⲟϣⲥ ⲉⲣⲟⲛ ⲧⲛⲛⲁⲉⲓⲣⲉ ⲕⲁⲧⲁ ⲡⲉϥⲟⲩⲱϣ·</p>
 
-      <p n="14">ⲙⲛⲛⲥⲁ ⲛⲁⲓ ⲇⲉ ⲧⲏⲣⲟⲩ ⲁⲛⲧⲱⲟⲩⲛ ⲁⲛⲙⲟⲟϣⲉ ⲉⲃⲟⲗ ⲉⲧⲣⲉⲛⲉⲓ <placeName type="monastery" ref="paths:places:74">ⲉⲡⲧⲟⲟⲩ ⲛⲧⲉⲧⲕⲟⲟϩ</placeName>,ⲡⲧⲟⲟⲩ ⲛⲧⲁ ⲡⲛⲟⲩⲧⲉ ϩⲱⲛ ⲙⲙⲟϥ ⲛⲁⲛ,ⲡⲉⲛⲧⲁϥⲥⲃⲧⲱⲧϥ ⲙ <persName type="monk">ⲡⲁ
+      <p n="14">ⲙⲛⲛⲥⲁ ⲛⲁⲓ ⲇⲉ ⲧⲏⲣⲟⲩ ⲁⲛⲧⲱⲟⲩⲛ ⲁⲛⲙⲟⲟϣⲉ ⲉⲃⲟⲗ ⲉⲧⲣⲉⲛⲉⲓ <placeName type="monastery" ref="paths.places.74">ⲉⲡⲧⲟⲟⲩ ⲛⲧⲉⲧⲕⲟⲟϩ</placeName>,ⲡⲧⲟⲟⲩ ⲛⲧⲁ ⲡⲛⲟⲩⲧⲉ ϩⲱⲛ ⲙⲙⲟϥ ⲛⲁⲛ,ⲡⲉⲛⲧⲁϥⲥⲃⲧⲱⲧϥ ⲙ <persName type="monk">ⲡⲁ
       ⲉⲓⲱⲧ ⲁⲡⲟⲗⲗⲱ</persName>,ⲁⲩⲱ ⲁⲛⲉⲓ ⲉϩⲣⲁⲓ <placeName type="mount"></placeName>ⲉⲩⲧⲟⲟⲩ ⲉϥⲙⲡϩⲱⲧ ⲉⲃⲟⲗ
       <placeName type="city_village">ⲛⲟⲩϯⲙⲉ ϫⲉ ⲧⲁⲡⲁⲣⲟⲟⲩⲉ</placeName>·ⲁⲛϭⲟⲓⲗⲉ ⲉϩⲉⲛⲥⲛⲏⲩ <date type="liturgies_ceremonies">ⲛⲣⲉϥϣⲙϣⲉⲛⲟⲩⲧⲉ</date> ⲁⲩⲉⲓⲣⲉ ⲛⲙⲙⲁⲛ ⲛϩⲉⲛ
       ⲛⲟϭ|ⲙⲡⲉⲧⲛⲁⲛⲟⲩϥ ⲁⲛⲉⲛⲕⲟⲧⲕ ϩⲙ ⲡⲙⲁ ⲉⲧⲙⲙⲁⲩ ϣⲁ ϩⲧⲟⲟⲩⲉ·ⲛⲧⲉⲣⲉ ϩⲧⲟ
-      ⲟⲩⲉ ⲇⲉ ϣⲱⲡⲉ ⲁⲛⲉⲓ ⲉϩⲏⲧ ⲉ <placeName type="monastery" ref="paths:places:74"
+      ⲟⲩⲉ ⲇⲉ ϣⲱⲡⲉ ⲁⲛⲉⲓ ⲉϩⲏⲧ ⲉ <placeName type="monastery" ref="paths.places.74"
       >ⲧⲉⲧⲕⲟⲟϩ</placeName>·ⲛⲉⲥⲛⲏⲩ ⲇⲉ ⲉⲧⲛϩⲏⲧϥⲛ ⲧⲉⲣⲟⲩⲥⲱⲧⲙ
       ϫⲉ ⲁⲛⲉⲓ ⲁⲩⲉⲓ ⲉⲃⲟⲗ ϩⲁ ⲧⲉⲛϩⲉ ϩⲛ ⲟⲩⲛⲟϭ ⲛⲣⲁϣⲉ ⲁⲩϣⲟⲡⲛ ⲉⲡⲟⲟⲩ·ⲁⲛⲟⲛ
       ⲇⲉ ϩⲱⲱⲛ ⲁⲛϫⲱ ⲉⲣⲟⲟⲩ ⲙⲡⲙⲩⲥⲧⲏⲣⲓⲟⲛ ⲛⲧⲁⲛⲛⲁⲩ ⲉⲣⲟϥ·ⲛⲧⲟⲟⲩ ⲇⲉ ⲁⲩϣⲱⲡⲉ
@@ -213,7 +213,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
       ⲛⲧⲁϥⲙⲟⲟⲛⲉ ⲛⲛⲉϥⲉⲥⲟⲟⲩ ϩⲛ ⲙⲙⲁⲙⲙⲟⲟⲛⲉ ⲙⲡⲱⲛϩ·ⲙⲛⲛⲥⲱⲥ ⲁϥⲉⲓ ⲛϭⲓ ⲟⲩ
       ⲭⲟⲣⲟⲥ ⲛⲁⲅⲅⲉⲗⲟⲥ ⲁⲩⲣ ⲧⲉⲩϣⲏ ⲧⲏⲣⲥ ⲉⲩϩⲩⲙⲛⲉⲩⲉ ⲁⲩⲱ ⲉⲩⲭⲟⲣⲉⲩⲉ ϩⲓϫⲙ
       ⲡⲥⲱⲙⲁ ⲙⲡⲙⲁⲕⲁⲣⲓⲟⲥ ⲁⲡⲁ <persName type="monk">ⲫⲓϥ</persName> ⲉⲩϫⲱ ⲙⲡϩⲩⲙⲛⲟⲥ ⲉⲣⲉ ⲛⲁⲅⲅⲉⲗⲟⲥ ⲟⲩⲱϩⲙ ⲛ
-      ⲥⲱⲟⲩ ϫⲉ·ⲉⲣⲉ <placeName type="monastery" ref="paths:places:74">ⲡⲉⲓⲧⲟⲟⲩ</placeName> ⲛⲏⲩ ⲛⲣⲁϣⲉ|ⲁⲩⲱ ⲛϥϫⲓ ⲉⲟⲟⲩ·ⲡⲁⲓ ⲡⲉ ⲡⲧⲟⲟⲩ
+      ⲥⲱⲟⲩ ϫⲉ·ⲉⲣⲉ <placeName type="monastery" ref="paths.places.74">ⲡⲉⲓⲧⲟⲟⲩ</placeName> ⲛⲏⲩ ⲛⲣⲁϣⲉ|ⲁⲩⲱ ⲛϥϫⲓ ⲉⲟⲟⲩ·ⲡⲁⲓ ⲡⲉ ⲡⲧⲟⲟⲩ
       ⲙⲡϫ︤ⲥ︥ ⲡⲧⲟⲟⲩ ⲉⲧϫⲟⲥⲉ ⲡⲧⲟⲟⲩ ⲉⲧⲧⲏⲕ ⲡⲧⲟⲟⲩ ⲉⲧⲕⲓⲱⲟⲩ·ⲡⲧⲟⲟⲩ ⲡⲉ ⲡⲁⲓ
       ⲛⲧⲁ ⲡⲛⲟⲩⲧⲉ ⲟⲩⲉϣ ⲟⲩⲱϩ ⲛϩⲏⲧϥ ϣⲁⲃⲟⲗ·ⲡⲁⲓ ⲡⲉ ⲡⲏⲓ ⲙⲡⲛⲟⲩⲧⲉ ⲡⲙⲁⲛϣⲱ
       ⲡⲉ ⲛⲛⲇⲓⲕⲁⲓⲟⲥ·ⲛⲧⲉⲣⲛⲥⲱⲧⲙ ⲇⲉ ⲉⲛⲁⲓ ⲁⲛⲣ ϩⲟⲧⲉ ϩⲛ ⲟⲩⲛⲟϭ ⲛϩⲟⲧⲉ ⲁⲩⲱ
@@ -234,16 +234,16 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
       ⲛⲟⲩⲧⲉ·ϩⲉⲛⲛⲟϭ ⲇⲉ ⲙⲡⲉⲧⲛⲁⲛⲱⲟⲩ ⲉⲣⲉ ⲡⲛⲟⲩⲧⲉ ⲉⲓⲣⲉ ⲙⲙⲟⲟⲩ ⲉⲃⲟⲗ ϩⲓⲧⲟ
       ⲟⲧϥ ⲙⲡⲁⲉⲓⲱⲧ·</p>
 
-      <p n="16">ⲛⲧⲉⲣⲛⲱⲥⲕ ⲇⲉ ⲁⲛⲧⲁⲙⲓⲟ ⲛⲟⲩⲕⲟⲩⲓ <placeName type="church_basilica" ref="paths:places:74">ⲛⲉⲕⲕⲗⲏⲥⲓⲁ</placeName> ϩⲓϫⲙ ⲡⲥⲱⲙⲁ ⲙ
+      <p n="16">ⲛⲧⲉⲣⲛⲱⲥⲕ ⲇⲉ ⲁⲛⲧⲁⲙⲓⲟ ⲛⲟⲩⲕⲟⲩⲓ <placeName type="church_basilica" ref="paths.places.74">ⲛⲉⲕⲕⲗⲏⲥⲓⲁ</placeName> ϩⲓϫⲙ ⲡⲥⲱⲙⲁ ⲙ
       ⲡⲉⲛⲙⲁⲕⲁⲣⲓⲟⲥ ⲛⲥⲟⲛ ⲁⲡⲁ  <persName type="monk">ⲫⲓϥ</persName>·ⲁⲛⲉⲥⲛⲏⲩ ϭⲱ ⲉⲩⲥⲩⲛⲁⲅⲉ ⲛϩⲏⲧⲥ ⲙⲙⲏⲏⲛⲉ
       ⲙⲡⲁⲧⲟⲩⲟⲩⲱⲙⲙⲡⲉⲩⲟⲉⲓⲕ·ⲙⲛⲛⲥⲱⲥ ⲁⲡⲥ︤ⲏ︦ⲣ︥ ⲟⲩⲱⲛϩ ⲉⲡⲁⲉⲓⲱⲧ ⲁϥϣⲁϫⲉ ⲛⲙ
       ⲙⲁϥ ⲉϥϫⲱ ⲙⲙⲟⲥ ϫⲉ·ϯⲣⲏⲛⲏ ⲛⲁⲕ|ⲡⲁϣⲃⲏⲣ ⲙⲉⲗⲟⲥ ⲉⲧⲧⲁⲓⲏⲩ·ϯϣⲟⲟⲡ
       ⲛⲙⲙⲁⲕ·ⲉⲓⲥ ϩⲏⲏⲧⲉ ⲅⲁⲣ ϯⲛⲁⲥⲱⲟⲩϩ ⲉⲣⲟⲕ ⲛϩⲉⲛⲛⲟϭ ⲙⲙⲏⲏϣⲉ ⲁⲩⲱ ⲥⲉⲛⲁ
-      ⲁϣⲁⲓ ⲉⲙⲁⲧⲉ ϩⲛ ⲧⲉⲩⲏⲏⲡⲉ·ⲧⲱⲟⲩⲛ ϭⲉ ⲛⲅⲧⲁⲙⲓⲟ ⲛⲟⲩⲛⲟϭ <placeName type="church_basilica" ref="paths:places:74"
+      ⲁϣⲁⲓ ⲉⲙⲁⲧⲉ ϩⲛ ⲧⲉⲩⲏⲏⲡⲉ·ⲧⲱⲟⲩⲛ ϭⲉ ⲛⲅⲧⲁⲙⲓⲟ ⲛⲟⲩⲛⲟϭ <placeName type="church_basilica" ref="paths.places.74"
       >ⲛⲉⲕⲕⲗⲏⲥⲓⲁ</placeName> ⲕⲁⲧⲁ ⲑⲉ ⲉϯⲛⲁⲧⲥⲁⲃⲟⲕ ⲉⲣⲟⲥ ϫⲉⲕⲁⲥ ⲉⲣⲉ ⲛⲗⲁⲟⲥ ϭⲛ ⲙⲁⲛⲟⲩⲱϩ ⲛϩⲏⲧⲥ·ⲁϥ
       ⲙⲟⲟϣⲉ ⲇⲉ ⲛⲙⲙⲁϥ ⲁϥⲧⲥⲁⲃⲟϥ ⲉⲡⲧⲱϣ ⲧⲏⲣϥ ⲛⲧⲉⲕⲕⲗⲏⲥⲓⲁ ⲁϥⲧⲁⲙⲟϥ ⲉⲡϥϣⲓⲏ
       ⲙⲛ ⲡϥⲟⲩⲱⲥϣ·ⲡⲉϫⲉ ⲡⲥ︤ⲏ︦ⲣ︥ ⲛⲁϥ ϫⲉ·ⲉⲓⲥ ϩⲏⲏⲧⲉ ⲁⲓⲧⲱϣ ⲛⲁⲕ ⲙ <persName type="arch_angel">ⲙⲓⲭⲁⲏⲗ ⲡ
-      ⲁⲣⲭⲁⲅⲅⲉⲗⲟⲥ</persName>·ⲛⲧⲟϥ ⲅⲁⲣ ⲡⲉⲧⲛⲁⲇⲓⲁⲕⲟⲛⲉⲓ <placeName type="church_basilica" ref="paths:places:74"
+      ⲁⲣⲭⲁⲅⲅⲉⲗⲟⲥ</persName>·ⲛⲧⲟϥ ⲅⲁⲣ ⲡⲉⲧⲛⲁⲇⲓⲁⲕⲟⲛⲉⲓ <placeName type="church_basilica" ref="paths.places.74"
       >ⲉⲡⲉⲕⲧⲟⲡⲟⲥ</placeName>·ⲡⲱⲕ ⲙⲙⲁⲧⲉ ⲡⲉ
       ϣⲁϫⲉ ⲡⲁ <persName type="arch_angel">ⲙⲓⲭⲁⲏⲗ</persName> ϩⲱⲱϥ ⲡⲉ ⲥⲱⲟⲩϩ ⲉϩⲟⲩⲛ ⲡⲁ <persName type="monk">ⲡⲁⲡⲟϩⲉ</persName> ϩⲱⲱϥ ⲡⲉ ⲇⲓⲁⲕⲟ
       ⲛⲉⲓ·ⲛⲧⲉⲣⲉϥϫⲉ ⲛⲁⲓ ⲇⲉ ⲛϭⲓ ⲡⲥ︤ⲏ︦ⲣ︥ ⲁϥⲃⲱⲕ ⲉϩⲡⲁⲓ ⲉⲙⲡⲏⲩⲉ·</p>
@@ -276,7 +276,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
       ⲃⲟⲗ ϫⲉ·ⲟⲩⲁ ⲡⲉⲡⲛⲟⲩⲧⲉ ⲡⲉⲭ︤ⲥ︥ ⲓ̈ⲥ︦ ⲡⲉⲛϫⲟⲉⲓⲥ·ⲁⲩⲣ|ϣⲡⲏⲣⲉ ⲛϭⲓ ⲟⲩⲟⲛ
       ⲛⲓⲙ ⲉⲧⲁϩⲉⲣⲁⲧⲟⲩ ⲁⲩⲱ ⲡⲉϫⲁϥ ϫⲉ·ⲡⲓⲥⲧⲉⲩⲉ ⲛⲁⲓ ⲱ ⲡⲗⲁⲟⲥ ⲙⲙⲁⲓⲛⲟⲩⲧⲉ
       ϫⲉ ⲟⲩⲟⲛ ⲛⲓⲙ ⲉⲧⲁϩⲉⲣⲁⲧⲟⲩ ⲙⲡⲉⲓⲙⲁ ⲙⲡⲟⲟⲩ ⲁⲡⲛⲟⲩⲧⲉ ⲕⲁ ⲛⲉⲩⲛⲟⲃⲉ ⲛⲁⲩ
-      ⲉⲃⲟⲗ ⲛⲑⲉ ⲙⲡⲉϩⲟⲟⲩ ⲛⲧⲁⲩϫⲡⲟⲟⲩ ⲛϩⲏⲧϥ·ⲁⲩⲱ ⲡⲉⲧⲛⲁⲡⲁϩⲧϥ <placeName type="church_basilica" ref="paths:places:74"
+      ⲉⲃⲟⲗ ⲛⲑⲉ ⲙⲡⲉϩⲟⲟⲩ ⲛⲧⲁⲩϫⲡⲟⲟⲩ ⲛϩⲏⲧϥ·ⲁⲩⲱ ⲡⲉⲧⲛⲁⲡⲁϩⲧϥ <placeName type="church_basilica" ref="paths.places.74"
       >ⲙⲡⲉⲓⲙⲁ</placeName> ⲙⲡⲟⲟⲩ ⲥⲉⲛⲁⲕⲁ ⲛⲉⲩⲛⲟⲃⲉ ⲛⲁⲩ ⲉⲃⲟⲗ ϩ ⲙⲡⲣⲁⲛ ⲙⲡⲉⲛⲥⲟⲛ ⲁⲡⲁ <persName type="monk">ⲫⲓϥ</persName>·ⲡⲉⲓⲙⲩⲥ
       ⲧⲏⲣⲓⲟⲛ ⲟⲩⲛⲟϭ ⲡⲉ ⲱ ⲛⲁⲥⲛⲏⲩ ⲁⲩⲱ ⲛⲁⲉⲓⲟⲟⲧⲉ ⲙⲙⲁⲓⲛⲟⲩⲧⲉ·ⲛⲧⲉⲣϥϫⲉ ⲛⲁⲓ
       ⲇⲉ ⲁϥⲛⲕⲟⲧⲕ ⲁⲩⲱ ⲛⲧⲉⲩⲛⲟⲩ ⲛⲉϩⲃⲟⲟⲥ ϭⲗⲟⲙⲗⲙ ⲉϩⲟⲩⲛ ⲉⲣⲟϥ ⲛⲕⲉⲥⲟⲡ·ⲁⲩⲣ

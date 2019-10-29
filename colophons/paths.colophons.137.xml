@@ -20,7 +20,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text>
     <body>
       <p>
-ⲁⲩⲱ ⲛⲧⲁⲡⲓⲁⲅⲁⲑⲟⲛ ϣⲱⲡⲉ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧϥ̄ ⲙⲡⲉⲛⲥⲟⲛ ⲙⲙⲁⲓ|ⲛⲟⲩⲧⲉ <persName type="donor">ϣⲓ̈ⲛⲧⲉ ⲡϣⲏⲣⲉ ⲙⲡⲁⲧ</persName> ⲉⲁϥϣⲱⲡϥ̇ ϩⲛ̄ⲛⲉϥⲛ̇ⲕⲁ | ⲙⲙⲓⲛ ⲉⲙⲙⲟϥ · ⲉⲁϥⲧⲁⲁ̣ϥ ⲉϩⲟⲩ(ⲛ) ⲉⲡⲙⲟⲛⲁⲥⲧ(ⲏⲣⲓⲟⲛ) ⲙ<placeName type="monastery" ref="paths:places:112">ⲡⲉⲡ̄ⲣⲟ(ⲫⲏⲧⲏⲥ) ⲁⲡⲁ ϣⲉⲛⲟⲩⲧ(ⲉ)</placeName>
+ⲁⲩⲱ ⲛⲧⲁⲡⲓⲁⲅⲁⲑⲟⲛ ϣⲱⲡⲉ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧϥ̄ ⲙⲡⲉⲛⲥⲟⲛ ⲙⲙⲁⲓ|ⲛⲟⲩⲧⲉ <persName type="donor">ϣⲓ̈ⲛⲧⲉ ⲡϣⲏⲣⲉ ⲙⲡⲁⲧ</persName> ⲉⲁϥϣⲱⲡϥ̇ ϩⲛ̄ⲛⲉϥⲛ̇ⲕⲁ | ⲙⲙⲓⲛ ⲉⲙⲙⲟϥ · ⲉⲁϥⲧⲁⲁ̣ϥ ⲉϩⲟⲩ(ⲛ) ⲉⲡⲙⲟⲛⲁⲥⲧ(ⲏⲣⲓⲟⲛ) ⲙ<placeName type="monastery" ref="paths.places.112">ⲡⲉⲡ̄ⲣⲟ(ⲫⲏⲧⲏⲥ) ⲁⲡⲁ ϣⲉⲛⲟⲩⲧ(ⲉ)</placeName>
       </p>
     </body>
   </text>

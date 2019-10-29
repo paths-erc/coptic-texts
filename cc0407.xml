@@ -26,7 +26,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   </teiHeader>
   <text>
     <body>
-      <p>ⲡⲃⲓⲟⲥ ⲛ ⲁⲡⲁ<persName type="monk">ⲁⲫⲟⲩ</persName> <roleName type="religious">ⲡⲁⲛⲁⲭⲱⲣⲓⲧⲏⲥ</roleName> ⲁⲩⲱ <roleName type="ecclesiastical">ⲡⲉⲡⲓⲥⲕⲟⲡⲟⲥ</roleName> ⲙ<placeName type="city_village" ref="paths:places:32">ⲡⲉⲙϫⲉ</placeName> <date type="commemoration">ⲛⲥⲟⲩϫⲟⲩⲧⲟⲩⲉ ⲛⲑⲟⲟⲩⲧ</date></p>
+      <p>ⲡⲃⲓⲟⲥ ⲛ ⲁⲡⲁ<persName type="monk">ⲁⲫⲟⲩ</persName> <roleName type="religious">ⲡⲁⲛⲁⲭⲱⲣⲓⲧⲏⲥ</roleName> ⲁⲩⲱ <roleName type="ecclesiastical">ⲡⲉⲡⲓⲥⲕⲟⲡⲟⲥ</roleName> ⲙ<placeName type="city_village" ref="paths.places.32">ⲡⲉⲙϫⲉ</placeName> <date type="commemoration">ⲛⲥⲟⲩϫⲟⲩⲧⲟⲩⲉ ⲛⲑⲟⲟⲩⲧ</date></p>
       <p>ⲙⲛⲛⲥⲁ ⲛⲁⲓ ⲟⲩⲁⲛⲁⲅⲕⲁⲓⲟⲛ ⲡⲉ ⲉⲧⲣⲉⲛⲣⲡⲙⲉⲉⲩⲉ ⲙ <roleName type="ecclesiastical">ⲡⲉⲡⲓⲥⲕⲟⲡⲟⲥ ⲉⲧⲟⲩⲁⲁⲃ</roleName> ⲡⲁⲓ ⲉⲣⲉ ⲡⲉϥⲣⲁⲛ ⲙⲉⲛ ϩⲛ ⲛⲣⲱⲙⲉ ⲡⲉ <persName type="monk">ⲁⲫⲟⲩ</persName> ⲉⲩⲙⲟⲩⲧⲉ ⲟⲛ ⲉⲣⲟϥ ϩⲛ ⲛⲣⲱⲙⲉ ϫⲉ ⲡⲉⲧϭⲙϭⲟⲙ</p>
       <p>ϣⲟⲣⲡ ⲙⲉⲛ ⲛⲉⲁϥϣⲱⲡⲉ ϩⲁ ⲑⲩⲡⲟⲧⲁⲅⲏ ⲛϩⲉⲛⲣⲱⲙⲉ <roleName type="religious">ⲛⲥⲱⲧⲡ ⲁⲩⲱ ⲙⲡⲓⲥⲧⲟⲥ</roleName></p>
       <p>ⲛⲁⲓ ϩⲱⲟⲩ ⲟⲛ ⲛⲧⲁⲩⲧⲁϩⲉ ϩⲟⲓⲛⲉ ϩⲛ <roleName type="religious">ⲙⲙⲁⲑⲏⲧⲏⲥ ⲛⲛⲁⲡⲟⲥⲧⲟⲗⲟⲥ</roleName></p>
@@ -38,7 +38,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
       <p>ⲁⲩⲱ ⲛⲉϥⲧⲟⲛⲧⲛ ⲙⲙⲟϥ ⲉⲣⲟⲟⲩ ⲛϭⲓ ⲡⲉⲧⲫⲟⲣⲉⲓ ⲙⲡⲥⲱⲙⲁ ⲛⲧⲙⲛⲧϭⲱⲃ ⲛⲛⲣⲱⲙⲉ</p>
       <p>ϫⲓⲛⲧⲁⲩⲥⲟⲧϥ ⲅⲁⲣ ⲛϭⲓ ⲛⲁ [ⲗⲁϭ]ⲛⲧⲙⲛⲧϣⲏⲣⲉ ϣⲏⲙ ⲛⲧⲁϥⲁⲣⲭⲉⲓ ⲉⲡⲉⲓⲃⲓⲟⲥ ⲛⲧⲉⲓⲙⲓⲛⲉ</p>
       <p>ⲛⲉϣⲁϥⲁⲡⲁⲛⲧⲁ ⲇⲉ ⲙⲡⲥⲟⲛ ⲛⲧⲁⲛϣⲣⲡϣⲁϫⲉ ⲉⲣⲟϥ ⲛⲟⲩⲁ ⲧⲉⲣⲟⲙⲡⲉ ⲛϥⲧⲁⲙⲟϥ ⲉⲡⲉϩⲟⲟⲩ <date type="liturgies_ceremonies">ⲙⲡⲧⲁϣⲉⲟⲉⲓϣ ⲉⲧⲟⲩⲁⲁⲃ</date></p>
-      <p>ⲁⲩⲱ ⲛⲉϣⲁϥⲉⲓ ⲉⲃⲟⲗ ⲉⲣⲉ ⲟⲩ <rs type="object">ϣⲧⲏⲛ ⲙⲡⲁⲅⲁⲛⲟⲥ</rs> ⲧⲟ ϩⲓⲱⲱϥ ⲛϥⲥⲱⲧⲙ <date type="liturgies_ceremonies">ⲉⲡⲧⲁϣⲉⲟⲉⲓϣ ⲙⲡⲡⲁⲥⲭⲁ</date> ϩⲛ <placeName type="church_basilica" ref="paths:places:32">ⲧⲉⲕⲕⲗⲏⲥⲓⲁ ⲙⲡⲉⲙϫⲉ</placeName></p>
+      <p>ⲁⲩⲱ ⲛⲉϣⲁϥⲉⲓ ⲉⲃⲟⲗ ⲉⲣⲉ ⲟⲩ <rs type="object">ϣⲧⲏⲛ ⲙⲡⲁⲅⲁⲛⲟⲥ</rs> ⲧⲟ ϩⲓⲱⲱϥ ⲛϥⲥⲱⲧⲙ <date type="liturgies_ceremonies">ⲉⲡⲧⲁϣⲉⲟⲉⲓϣ ⲙⲡⲡⲁⲥⲭⲁ</date> ϩⲛ <placeName type="church_basilica" ref="paths.places.32">ⲧⲉⲕⲕⲗⲏⲥⲓⲁ ⲙⲡⲉⲙϫⲉ</placeName></p>
       <p>ⲁⲩⲱ ⲛⲉⲙⲉⲣⲉ ⲗⲁⲁⲩ ⲥⲟⲩⲱⲛϥ ⲡⲉ ϣⲁⲛⲧϥⲉⲓ ⲉϩⲣⲁⲓ ⲉⲡⲉϥⲙⲁ</p>
       <p>ⲛⲉϥϣⲟⲟⲡ ⲇⲉ ⲡⲉ ⲛⲧⲉⲓϩⲉ ϣⲁⲛⲧϥⲁⲣⲭⲉⲓ ⲉⲧⲙⲛⲧϩⲗⲗⲟ</p>
       <p>ⲁⲩⲱ ⲛⲉϥϭⲙϭⲟⲙ ⲡⲉ ⲡⲁⲣⲁ ⲛⲧⲃⲛⲟⲟⲩⲉ ⲉⲧϥⲙⲟⲟϣⲉ ⲛⲙⲙⲁⲩ</p>
@@ -61,9 +61,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
       <p>ⲁⲥϣⲱⲡⲉ ⲇⲉ ⲉⲧⲓ ⲉϥϣⲟⲟⲡ ⲙⲛ ⲛⲉⲑⲏⲣⲓⲟⲛ ⲉⲧⲣⲉϥⲉⲓ ⲉⲃⲟⲗ ⲉⲡⲧⲁϣⲉⲟⲉⲓϣ <date type="liturgies_ceremonies">ⲙⲡⲡⲁⲥⲭⲁ ⲉⲧⲟⲩⲁⲁⲃ</date></p>
       <p>ⲁϥⲥⲱⲧⲙ ⲇⲉ ⲉⲩⲗⲉⲝⲓⲥ ⲛⲥ ⲥⲩⲙⲫⲱⲛⲉⲓ ⲁⲛ ⲙⲛ ⲡⲥⲟⲟⲩⲛ ⲙⲡⲉⲡⲛⲉⲩⲙⲁ ⲉⲧⲟⲩⲁⲁⲃ ϩⲱⲥⲧⲉ ⲛϥϣⲧⲟⲣⲧⲣ ⲉⲙⲁⲧⲉ ⲉϫⲙ ⲡϣⲁϫⲉ</p>
       <p>ⲕⲁⲓ ⲅⲁⲣ ⲟⲩⲟⲛ ⲛⲓⲙ ⲛⲧⲁⲩⲥⲟⲧⲙⲉϥ ⲁⲩⲗⲩⲡⲏ ⲁⲩⲱ ⲁⲩϣⲧⲟⲣⲧⲣ ϩⲱⲟⲩ</p>
-      <p>ⲡⲗⲏⲛ ⲡⲁⲅⲅⲉⲗⲟⲥ ⲙⲡϫⲟⲉⲓⲥ ⲁϥⲟⲩⲉϩⲥⲁϩⲛⲉ ⲙⲡⲙⲁⲕⲁⲣⲓⲟⲥ ⲁⲫⲟⲩ ⲉⲧⲙⲧⲣⲉϥⲁⲙⲉⲗⲉⲓ ⲉⲡϣⲁϫⲉ ⲉϥϫⲱ ⲙⲙⲟⲥ ⲛⲁϥ ϫⲉ ⲁⲩⲧⲟϣⲕ ⲉⲃⲟⲗ ϩⲓⲧⲙ ⲡϫⲟⲉⲓⲥ ⲉⲧⲣⲉⲕⲃⲱⲕ ϣⲁ <placeName type="city_village" ref="paths:places:39">ⲣⲁⲕⲟⲧⲉ</placeName> ⲛⲅⲧⲁϩⲉ ⲡⲉⲓϣⲁϫⲉ ⲉⲣⲁⲧϥ</p>
+      <p>ⲡⲗⲏⲛ ⲡⲁⲅⲅⲉⲗⲟⲥ ⲙⲡϫⲟⲉⲓⲥ ⲁϥⲟⲩⲉϩⲥⲁϩⲛⲉ ⲙⲡⲙⲁⲕⲁⲣⲓⲟⲥ ⲁⲫⲟⲩ ⲉⲧⲙⲧⲣⲉϥⲁⲙⲉⲗⲉⲓ ⲉⲡϣⲁϫⲉ ⲉϥϫⲱ ⲙⲙⲟⲥ ⲛⲁϥ ϫⲉ ⲁⲩⲧⲟϣⲕ ⲉⲃⲟⲗ ϩⲓⲧⲙ ⲡϫⲟⲉⲓⲥ ⲉⲧⲣⲉⲕⲃⲱⲕ ϣⲁ <placeName type="city_village" ref="paths.places.39">ⲣⲁⲕⲟⲧⲉ</placeName> ⲛⲅⲧⲁϩⲉ ⲡⲉⲓϣⲁϫⲉ ⲉⲣⲁⲧϥ</p>
       <p>ⲡϣⲁϫⲉ ⲇⲉ ⲉⲧⲙⲙⲁⲩ ⲛⲉ ⲟⲩⲧⲓⲙⲓⲛⲉ ⲡⲉ ϩⲱⲥ ϫⲉ ⲉϥϫⲓⲥⲉ ⲙⲡⲉⲟⲟⲩ ⲙⲡⲛⲟⲩⲧⲉ ϩⲙ ⲡϣⲁϫⲉ ⲁϥⲣⲡⲙⲉⲉⲩⲉ ⲛⲧⲙⲛⲧϭⲱⲃ ⲛⲛⲣⲱⲙⲉ ⲁⲩⲱ ⲡⲉϫⲁϥ ⲛϭⲓ ⲡⲉⲧϩⲩⲡⲟⲅⲟⲣⲉⲩⲉ ϫⲉ ⲛⲧⲁⲓ ⲁⲛ ⲧⲉ ⲑⲓⲕⲱⲛ ⲙⲡⲛⲟⲩⲧⲉ ⲧⲁⲓ ⲁⲛⲟⲛ ⲉⲧⲛⲫⲟⲣⲉⲓ ⲙⲙⲟⲥ ⲁⲛⲟⲛ ⲛⲣⲱⲙⲉ</p>
-      <p>ⲛⲧⲉⲣⲉϥⲥⲱⲧⲙ ⲇⲉ ⲉⲛⲁⲓ ⲛϭⲓ ⲡⲙⲁⲕⲁⲣⲓⲟⲥ <persName type="saint">ⲁⲫⲟⲩ</persName> ⲁϥⲙⲟⲩϩ ⲉⲃⲟⲗ ϩⲙ ⲡⲉⲡⲛⲉⲩⲙⲁ ⲉⲧⲟⲩⲁⲁⲃ ⲁⲩⲱ ⲁϥⲁⲡⲟⲇⲏⲙⲉⲓ ⲉⲧⲡⲟⲗⲓⲥ <placeName type="city_village" ref="paths:places:39">ⲣⲁⲕⲟⲧⲉ</placeName> ⲉϥⲫⲟⲣⲉⲓ <rs type="object">ⲛⲟⲩϣⲧⲏⲛ ⲙⲡⲗϭⲉ</rs></p>
+      <p>ⲛⲧⲉⲣⲉϥⲥⲱⲧⲙ ⲇⲉ ⲉⲛⲁⲓ ⲛϭⲓ ⲡⲙⲁⲕⲁⲣⲓⲟⲥ <persName type="saint">ⲁⲫⲟⲩ</persName> ⲁϥⲙⲟⲩϩ ⲉⲃⲟⲗ ϩⲙ ⲡⲉⲡⲛⲉⲩⲙⲁ ⲉⲧⲟⲩⲁⲁⲃ ⲁⲩⲱ ⲁϥⲁⲡⲟⲇⲏⲙⲉⲓ ⲉⲧⲡⲟⲗⲓⲥ <placeName type="city_village" ref="paths.places.39">ⲣⲁⲕⲟⲧⲉ</placeName> ⲉϥⲫⲟⲣⲉⲓ <rs type="object">ⲛⲟⲩϣⲧⲏⲛ ⲙⲡⲗϭⲉ</rs></p>
       <p>ⲁϥⲁϩⲉ ⲇⲉ ⲉⲣⲁⲧϥ ⲛϭⲓ ⲡⲙⲁⲕⲁⲣⲓⲟⲥ ⲁⲡⲁ <persName type="saint">ⲁⲫⲟⲩ</persName> ϩⲓⲣⲙ ⲡⲣⲟ ⲙ <placeName type="episkopeion">ⲡⲉⲡⲓⲥⲕⲟⲡⲓⲟⲛ</placeName> ⲛϣⲟⲙⲧ ⲛ ϩⲟⲟⲩ ⲁⲩⲱ ⲙⲡⲉ ⲗⲁⲁⲩ ϫⲓⲧϥ ⲛⲁϥ ⲉϩⲟⲩⲛ ⲉⲩⲛⲁⲩ ⲉⲡⲣⲱⲙⲉ ⲉϣϫⲉ ⲟⲩϩⲓⲇⲓⲱⲧⲏⲥ ⲡⲉ</p>
       <p>ⲙⲛⲛⲥⲁ ⲛⲁⲓ ⲁϥϯϩⲧⲏϥ ⲉⲣⲟϥ ⲛϭⲓ ⲟⲩⲁ ⲛ <roleName type="ecclesiastical">ⲛⲉⲕⲗⲏⲣⲓⲕⲟⲥ</roleName> ⲁϥⲛⲁⲩ ⲉⲧⲉϥϩⲩⲡⲟⲙⲟⲛⲏ ⲁϥⲁⲓⲥⲑⲁⲛⲉ ϫⲉ ⲟⲩⲣⲱⲙⲉ ⲛⲧⲉ ⲡⲛⲟⲩⲧⲉ ⲡⲉ ⲁⲩⲱ ⲁϥⲃⲱⲕ ⲉϩⲟⲩⲛ ⲁϥⲧⲁⲙⲉ <roleName type="ecclesiastical">ⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ</roleName> ϫⲉ ⲉⲓⲥ ⲟⲩⲣⲱⲙⲉ ⲛϩⲏⲕⲉ ϩⲓⲣⲙ ⲡⲣⲟ ⲉϥϫⲱ ⲙⲙⲟⲥ ϫⲉ ⲉⲓⲟⲩⲱϣ ⲉⲁⲡⲁⲛⲧⲁ ⲉⲣⲟⲕ</p>
       <p>ⲁⲛⲟⲛ ⲇⲉ ⲙⲡⲉⲛⲉϣⲧⲟⲗⲙⲁ ⲉⲛⲧϥ ⲛⲁⲕ ⲉϩⲟⲩⲛ ⲉⲡⲉⲓⲇⲏ ⲙⲛ ϩⲃⲥⲱ ϩⲓⲱⲱϥ ⲉϥⲧⲁⲉⲓⲏⲩ</p>
@@ -110,7 +110,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
       <p>ⲁⲩⲱ ⲛⲧⲉⲩⲛⲟⲩ ⲁϥⲥϩⲁⲓ ⲉⲃⲟⲗ ϩⲛ <placeName type="country">ⲧⲉⲭⲱⲣⲁ ⲧⲏⲣⲥ</placeName> ⲉϥⲁⲡⲟⲕⲩⲣⲏⲥⲥⲉ ⲛⲧⲗⲉⲝⲓⲥ ⲉⲧⲙⲙⲁⲩ ϫⲉ ⲉⲥϣⲟϥⲧ ⲁⲩⲱ ϩⲛ ⲟⲩⲙⲛⲧⲁⲛⲟⲏⲧⲟⲥ ⲛⲧⲁⲛⲙⲉⲉⲩⲉ ⲉⲣⲟⲥ</p>
       <p>ⲙⲛⲛⲥⲁ ⲛⲁⲓ ⲇⲉ ⲁϥⲧⲁⲣⲕⲉ ⲡⲙⲁⲕⲁⲣⲓⲟⲥ ⲉϥϫⲱ ⲙⲙⲟⲥ ϫⲉ ⲙⲁⲧⲁⲙⲟⲓ ϫⲉ ⲟⲩ ⲡⲉ ⲡⲉⲕⲃⲓⲟⲥ ⲁⲩⲱ ⲛⲧⲕ ⲟⲩⲣⲙⲧⲱⲛ ϩⲙ ⲡⲉⲕⲅⲉⲛⲟⲥ</p>
       <p>ϯⲛⲁⲩ ⲅⲁⲣ ⲉⲡⲉⲕⲥⲙⲟⲧ ⲛⲑⲉ ⲛⲛⲓϩⲩⲇⲓⲱⲧⲏⲥ ϯⲥⲱⲧⲙ ⲇⲉ ϩⲱⲱϥ ⲉⲛⲉⲕϣⲁϫⲉ ⲉⲩϫⲟⲥⲉ ⲉⲙⲁⲧⲉ ⲡⲁⲣⲁ ⲛⲁ ⲛⲥⲟⲫⲟⲥ</p>
-      <p>ⲁϥⲟⲩⲱϣⲃ ⲉϥϫⲱ ⲙⲙⲟⲥ ϫⲉ ⲁⲓⲟⲩⲱϣ ⲙⲉⲛ ⲉⲱⲛϩ ϩⲱⲥ <roleName type="religious">ⲙⲟⲛⲁⲭⲟⲥ</roleName> ⲡⲗⲏⲛ ϯⲟⲩⲏⲩ ⲉⲃⲟⲗ ⲙⲡⲧⲁⲉⲓⲟ ⲉⲧⲙⲙⲁⲩ ⲁⲩⲱ ⲟⲛ ⲁⲛⲅ ⲟⲩⲣⲙ <placeName type="city_village"ref="paths:places:32">ⲡⲉⲙϫⲉ</placeName></p>
+      <p>ⲁϥⲟⲩⲱϣⲃ ⲉϥϫⲱ ⲙⲙⲟⲥ ϫⲉ ⲁⲓⲟⲩⲱϣ ⲙⲉⲛ ⲉⲱⲛϩ ϩⲱⲥ <roleName type="religious">ⲙⲟⲛⲁⲭⲟⲥ</roleName> ⲡⲗⲏⲛ ϯⲟⲩⲏⲩ ⲉⲃⲟⲗ ⲙⲡⲧⲁⲉⲓⲟ ⲉⲧⲙⲙⲁⲩ ⲁⲩⲱ ⲟⲛ ⲁⲛⲅ ⲟⲩⲣⲙ <placeName type="city_village"ref="paths.places.32">ⲡⲉⲙϫⲉ</placeName></p>
       <p>ⲁⲗⲗⲁ ⲉⲡⲉⲓⲇⲏ ⲛⲧⲟⲕ ⲡⲉⲧⲛⲧⲁϫⲣⲏⲩ ⲉϫⲛ ⲧⲉⲕⲥⲟⲫⲓⲁ ⲉⲧⲃⲉ ⲡⲁⲓ ⲁⲡϫⲁϫⲉ ϩⲓⲧⲟⲟⲧϥ ⲉⲣ ⲡⲁⲓ ϩⲓⲧⲟⲟⲧⲕ</p>
       <p>ⲉϥⲥⲟⲟⲩⲛ ϫⲉ ⲟⲩⲛ ⲟⲩⲙⲏⲏϣⲉ ⲛⲁϫⲓ ϫⲣⲟⲡ ⲉⲧⲃⲉ ⲡⲁⲓ ⲛⲥⲉϯⲟⲥⲉ ⲛⲥⲉⲧⲙⲥⲱⲧⲙ ⲉⲡϣⲁϫⲉ ⲛⲧⲉⲥⲃⲱ ⲉⲧⲟⲩⲁⲁⲃ ⲉⲧⲛⲏⲩ ⲉⲃⲟⲗ ϩⲛ ⲣⲱⲕ</p>
       <p>ⲡⲗⲏⲛ ⲉⲧⲃⲉ ⲡⲙⲉ ⲉⲧϣⲟⲟⲡ ⲛϩⲏⲧⲕ ⲉϩⲟⲩⲛ ⲉⲡⲛⲟⲩⲧⲉ ⲉⲓⲥ ϩⲏⲏⲧⲉ ⲁⲕϫⲣⲟ ⲉⲥⲙⲟⲧ ⲛⲓⲙ ⲛⲕⲟⲧⲥ ⲛⲧⲉ ⲡⲇⲓⲁⲃⲟⲗⲟⲥ ϩⲙ ⲡⲧⲣⲉⲕⲥⲱⲧⲙ ⲉⲡϣⲁϫⲉ ⲛⲧⲁⲙⲛⲧⲉⲗⲁⲭⲓⲥⲧⲟⲥ</p>
@@ -123,7 +123,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
       <p>ⲛⲧⲟϥ ⲇⲉ ⲁϥⲡⲁⲣⲁⲕⲁⲗⲉⲓ ⲉϥϫⲱ ⲙⲙⲟⲥ ϫⲉ ⲟⲩⲁⲧϭⲟⲙ ⲛⲁⲓ ⲡⲉ ⲡⲁⲓ</p>
       <p>ⲁⲩⲱ ⲧⲁⲓ ⲧⲉ ⲑⲉ ⲛⲧⲁϥⲉⲓ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧϥ ϩⲛ ⲟⲩⲉⲓⲣⲏⲛⲏ ⲙⲛ ⲟⲩⲧⲓⲙⲏ</p>
       <p>ⲛⲉϥⲙⲟⲕϩ ⲇⲉ ⲛϩⲏⲧ ⲉϥⲛⲏⲩ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧϥ ⲛⲑⲉ ⲛⲟⲩϣⲏⲣⲉ ⲉⲣⲉ ⲡⲉϥⲉⲓⲱⲧ ⲙⲟⲟϣⲉ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧϥ</p>
-      <p>ⲙⲛⲛⲥⲁ ϣⲟⲙⲧⲉ ⲇⲉ ⲛⲣⲟⲙⲡⲉ ϫⲓⲛⲧⲁ ⲛⲁⲓ ϣⲱⲡⲉ ⲁϥⲛⲕⲟⲧⲕ ⲛϭⲓ <roleName type="ecclesiastical">ⲡⲉⲡⲓⲥⲕⲟⲡⲟⲥ</roleName> ⲙ <placeName type="city_village" ref=paths:places:32">ⲡⲉⲙϫⲉ</placeName> ⲁⲩⲱ ⲕⲁⲧⲁ ⲡϩⲉⲑⲟⲥ ⲁⲧⲡⲟⲗⲓⲥ ⲧⲏⲣⲥ ⲥⲱⲟⲩϩ ⲉⲛⲉⲥⲉⲣⲏⲩ ϩⲛ ⲟⲩⲥⲩⲙⲫⲱⲛⲓⲁ ⲛⲟⲩⲱⲧ ⲁⲩⲱ ⲁⲩϯ ⲯⲩⲫⲓⲥⲙⲁ ϩⲁ ⲟⲩⲁ <roleName type="ecclesiastical">ⲛⲛⲉⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ</roleName> ⲉⲩⲉⲩⲗⲁⲃⲏⲥ ϩⲱⲱϥ ⲡⲉ ⲁⲩϫⲟⲟⲩϥ ⲉ <placeName type="city_village" ref="paths:places:39">ⲣⲁⲕⲟⲧⲉ</placeName> ⲙⲛ ⲛⲉⲯⲩⲫⲓⲥⲙⲁ ϫⲉ ⲉⲩⲉⲁⲁϥ ⲛⲉⲡⲓⲥⲕⲟⲡⲟⲥ</p>
+      <p>ⲙⲛⲛⲥⲁ ϣⲟⲙⲧⲉ ⲇⲉ ⲛⲣⲟⲙⲡⲉ ϫⲓⲛⲧⲁ ⲛⲁⲓ ϣⲱⲡⲉ ⲁϥⲛⲕⲟⲧⲕ ⲛϭⲓ <roleName type="ecclesiastical">ⲡⲉⲡⲓⲥⲕⲟⲡⲟⲥ</roleName> ⲙ <placeName type="city_village" ref=paths.places.32">ⲡⲉⲙϫⲉ</placeName> ⲁⲩⲱ ⲕⲁⲧⲁ ⲡϩⲉⲑⲟⲥ ⲁⲧⲡⲟⲗⲓⲥ ⲧⲏⲣⲥ ⲥⲱⲟⲩϩ ⲉⲛⲉⲥⲉⲣⲏⲩ ϩⲛ ⲟⲩⲥⲩⲙⲫⲱⲛⲓⲁ ⲛⲟⲩⲱⲧ ⲁⲩⲱ ⲁⲩϯ ⲯⲩⲫⲓⲥⲙⲁ ϩⲁ ⲟⲩⲁ <roleName type="ecclesiastical">ⲛⲛⲉⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ</roleName> ⲉⲩⲉⲩⲗⲁⲃⲏⲥ ϩⲱⲱϥ ⲡⲉ ⲁⲩϫⲟⲟⲩϥ ⲉ <placeName type="city_village" ref="paths.places.39">ⲣⲁⲕⲟⲧⲉ</placeName> ⲙⲛ ⲛⲉⲯⲩⲫⲓⲥⲙⲁ ϫⲉ ⲉⲩⲉⲁⲁϥ ⲛⲉⲡⲓⲥⲕⲟⲡⲟⲥ</p>
       <p>ⲛⲧⲉⲣⲉϥϫⲓ ⲇⲉ ⲛⲛⲉⲥϩⲁⲓ ⲛϭⲓ ⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ ⲁⲡⲁ <persName type="archi_bishop">ⲑⲉⲟⲫⲓⲗⲟⲥ</persName> ⲁϥⲟⲩⲱϣⲃ ⲉϥϫⲱ ⲙⲙⲟⲥ</p>
       <p>ϫⲉ <persName type="monk">ⲁⲫⲟⲩ ⲟⲩⲙⲟⲛⲁⲭⲟⲥ</persName> ⲡⲉ ⲉⲡⲁ ⲧⲉⲧⲛⲡⲟⲗⲓⲥ ⲡⲉ ⲁⲛⲓϥ ⲛⲁⲓ ⲧⲁⲁⲁϥ ⲛⲏⲧⲛ <roleName type="ecclesiastical">ⲛⲉⲡⲓⲥⲕⲟⲡⲟⲥ</roleName></p>
       <p>ⲁⲩⲟⲩⲱϣⲃ ⲇⲉ ⲛϭⲓ ⲛⲉⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲉⲩϫⲱ ⲙⲙⲟⲥ ϫⲉ ⲁⲛⲟⲛ ⲣⲱ ⲛⲧⲛⲥⲟⲟⲩⲛ ⲁⲛ ⲙⲙⲟⲛⲁⲭⲟⲥ ϩⲛ ⲛⲉⲛⲧⲟϣ ϫⲉ <persName type="monk">ⲁⲫⲟⲩ</persName> ⲁⲩⲱ ⲧⲛⲙⲉⲉⲩⲉ ⲟⲛ ϫⲉ ⲙⲛ ⲟⲩⲟⲛ ⲛϩⲏⲧⲛ ⲥⲟⲟⲩⲛ ⲙⲙⲟϥ</p>
@@ -139,7 +139,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
       <p>ⲁϥϣⲁϫⲉ ⲇⲉ ⲛⲙⲙⲁⲩ ϫⲉ ⲟⲩ ⲡⲉ ⲡⲉⲧⲛϩⲱⲃ ⲛⲙⲙⲁⲓ ⲉⲧⲉⲧⲛⲁⲙⲁϩⲧⲉ ⲙⲙⲟⲓ ⲁⲛⲅ ⲟⲩⲣⲱⲙⲉ ϩⲱⲱⲧ ⲛⲧⲉⲧⲛϩⲉ ⲉϣϫⲉ ⲉⲧⲉⲧⲛϭⲉⲡ ⲧⲃⲛⲏ ⲉⲓⲥ ⲡϣⲟϣ ⲁⲧⲉⲧⲛϭⲉⲡϥ</p>
       <p>ⲡⲉϫⲁⲩ ⲛⲁϥ ϫⲉ ⲧⲛⲥⲟⲟⲩⲛ ϫⲉ ⲛⲧⲕ ⲟⲩⲣⲱⲙⲉ ⲁⲩⲱ ⲉⲛⲕⲱⲧⲉ ⲛⲥⲱⲕ ⲉⲧⲃⲉ ⲡⲁⲓ ⲁⲛϭⲟⲡⲕ</p>
       <p>ⲡⲉϫⲁϥ ⲛⲁⲩ ϫⲉ ⲁⲛⲟⲕ ⲟⲩⲛ ⲡⲉⲧⲉⲧⲛϣⲓⲛⲉ ⲛ ⲥⲱϥ ⲁⲗⲱⲧⲛ ϩⲁ ⲡⲁⲓ ⲙⲁⲣⲉϥⲃⲱⲕ</p>
-      <p>ⲛⲧⲉⲩⲛⲟⲩ ⲁⲩⲕⲱ ⲉⲃⲟⲗ ⲙⲡϣⲟϣ ⲁⲩⲧⲁⲗⲟϥ ⲛⲧⲉⲩⲛⲟⲩ ⲁⲩⲛⲧϥ <placeName type="city_village" ref="paths:places:39">ⲉⲣⲁⲕⲟⲧⲉ</placeName> ⲉⲣⲁⲧϥ ⲙⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ</p>
+      <p>ⲛⲧⲉⲩⲛⲟⲩ ⲁⲩⲕⲱ ⲉⲃⲟⲗ ⲙⲡϣⲟϣ ⲁⲩⲧⲁⲗⲟϥ ⲛⲧⲉⲩⲛⲟⲩ ⲁⲩⲛⲧϥ <placeName type="city_village" ref="paths.places.39">ⲉⲣⲁⲕⲟⲧⲉ</placeName> ⲉⲣⲁⲧϥ ⲙⲡⲁⲣⲭⲓⲉⲡⲓⲥⲕⲟⲡⲟⲥ</p>
       <p>ⲛⲧⲉⲣⲉϥⲛⲁⲩ ⲇⲉ ⲉⲣⲟϥ ⲁϥⲣⲁϣⲉ ⲉⲙⲁⲧⲉ ⲁⲩⲱ ⲛⲧⲉⲣⲟⲩⲧⲁⲙⲟϥ ⲉⲑⲉ ⲛⲧⲁⲩϭⲟⲡϥ ⲙⲙⲟⲥ ⲁϥⲣϣⲡⲏⲣⲉ ⲉⲙⲁⲧⲉ ⲁⲩⲱ ⲡⲉϫⲁϥ</p>
       <p>ϫⲉ ⲁⲕⲉⲓ <persName type="monk">ⲁⲫⲟⲩ</persName> ⲁⲙⲟⲩ ϩⲱⲱⲕ ⲛⲅϣⲡϩⲓⲥⲉ ⲙⲛ ⲛⲉⲕϣⲃⲣ ⲙⲉⲗⲟⲥ</p>
       <p>ϣⲁ ⲡⲟⲟⲩ ⲉⲕ ⲙⲓϣⲉ ⲉⲣⲟⲕ ⲙⲁⲩⲁⲁⲕ ⲉⲕⲧⲟⲩϫⲟ ⲙⲙⲟⲕ</p>
