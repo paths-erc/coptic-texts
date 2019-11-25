@@ -20,7 +20,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text>
     <body>
       <p>
-ⲱⲛⲉϩ ⲥⲓ ⲙⲟⲟⲩ ϩⲓⲡⲣⲁϣⲉ ⲙⲉⲛϯⲣⲏ|ⲛⲏ ⲙⲡⲉⲭ(ⲣⲓⲥⲧⲟ)ⲥ| ⲡⲁⲣⲓⲧ ⲛϣⲏⲣⲉ ⲡ<roleName type="ecclesiastical">ⲇⲓⲁ(ⲕⲟⲛⲟⲥ)</roleName> | <persName type="donor">ⲧⲓ̣ⲙⲱⲑⲉⲟⲥ</persName> ⲙⲉⲛⲡⲉⲕⲓⲱⲧ ⲙⲉⲛ|ⲧⲉⲕⲙⲁⲁⲩ ⲙⲉⲛⲛⲉⲕⲥⲛⲏⲩ | (5) ⲁⲣⲓⲡⲁⲙⲉⲉⲩⲉ ⲁⲛⲁⲕ ⲡⲓⲉⲗⲁⲭ(ⲓⲥⲧⲟⲥ) <persName type="copyist">ⲍⲁⲭⲁ|ⲣⲓⲁⲥ</persName> ⲛⲧⲉ<placeName type="city_village" ref="paths.places.349">ⲧⲥⲩⲙⲟⲩⲗⲱⲧ</placeName> ϩⲁ|ⲙⲏⲛ
+ⲱⲛⲉϩ ⲥⲓ ⲙⲟⲟⲩ ϩⲓⲡⲣⲁϣⲉ ⲙⲉⲛϯⲣⲏ|ⲛⲏ ⲙⲡⲉⲭ(ⲣⲓⲥⲧⲟ)ⲥ| <persName type="donor">ⲡⲁⲣⲓⲧ ⲛϣⲏⲣⲉ ⲡ<roleName type="ecclesiastical">ⲇⲓⲁ(ⲕⲟⲛⲟⲥ)</roleName> | ⲧⲓ̣ⲙⲱⲑⲉⲟⲥ</persName> ⲙⲉⲛⲡⲉⲕⲓⲱⲧ ⲙⲉⲛ|ⲧⲉⲕⲙⲁⲁⲩ ⲙⲉⲛⲛⲉⲕⲥⲛⲏⲩ | (5) ⲁⲣⲓⲡⲁⲙⲉⲉⲩⲉ ⲁⲛⲁⲕ ⲡⲓⲉⲗⲁⲭ(ⲓⲥⲧⲟⲥ) <persName type="copyist">ⲍⲁⲭⲁ|ⲣⲓⲁⲥ</persName> ⲛⲧⲉ<placeName type="city_village" ref="paths.places.349">ⲧⲥⲩⲙⲟⲩⲗⲱⲧ</placeName> ϩⲁ|ⲙⲏⲛ
       </p>
     </body>
   </text>
