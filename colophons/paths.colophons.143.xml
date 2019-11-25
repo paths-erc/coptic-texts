@@ -21,10 +21,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <body>
       <p>
         fol. 115r
-        ⲡϭ(ⲟⲓ)ⲥ ⲛⲁⲓ ⲙ̇ⲡⲉⲕⲃⲱⲕ <persName type="copyist">ⲙⲁⲧⲟⲓ</persName> ⲁⲙⲏⲛ
+        ⲡϭ(ⲟⲓ)ⲥ ⲛⲁⲓ ⲙ̇ⲡⲉⲕⲃⲱⲕ <persName type="copyist" ref="paths.persons.157">ⲙⲁⲧⲟⲓ</persName> ⲁⲙⲏⲛ
 
         Fol. 135v
-        ⲡϭ(ⲟⲓ)ⲥ ⲛⲁⲓ ⲙ̇ⲡⲉⲕⲃⲱⲕ <persName type="copyist">ⲙⲁⲧⲟⲓ</persName>
+        ⲡϭ(ⲟⲓ)ⲥ ⲛⲁⲓ ⲙ̇ⲡⲉⲕⲃⲱⲕ <persName type="copyist" ref="paths.persons.157">ⲙⲁⲧⲟⲓ</persName>
       </p>
     </body>
   </text>

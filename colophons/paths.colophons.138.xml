@@ -20,7 +20,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text>
     <body>
       <p>
-Ἰ(ησοῦ)ς Χ(ριστό)ς | Ἄπα | <persName type="copyist">Βαρ|θο|λο|με͂|ος</persName> | γα|λι|ογρά|φου
+Ἰ(ησοῦ)ς Χ(ριστό)ς | Ἄπα | <persName type="copyist" ref="paths.persons.23">Βαρ|θο|λο|με͂|ος</persName> | γα|λι|ογρά|φου
       </p>
     </body>
   </text>

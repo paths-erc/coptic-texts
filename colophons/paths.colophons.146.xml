@@ -20,7 +20,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text>
     <body>
       <p>
-ⲟⲩⲛⲁⲓ ⲙⲫⲏ ⲉⲧⲥϧⲁⲓ   ⲁⲙⲏⲛ | ⲟⲩϩⲓⲣⲏⲛⲏ ⲙ̂ⲫⲏ ⲉⲧⲱϣ   ϥⲑ | ⲟⲩⲕⲁϯ ⲛ̂ⲛⲏ ⲉⲧⲥⲱⲧⲉⲙ   ⲁⲙⲏⲛ | ⲫ(ⲛⲟⲩ)ϯ ⲭⲁⲛⲉⲛⲛⲟⲃⲓ ⲙⲡⲓⲉⲗ(ⲁ)ⲭ(ⲓⲥⲧⲟⲥ) <persName type="copyist">ϣⲉⲛⲟⲩϯ ⲃⲁⲃⲩⲗⲱⲛ</persName> | ⲛⲁϥ ⲉⲃⲟⲗ ⲁⲙⲏⲛ
+ⲟⲩⲛⲁⲓ ⲙⲫⲏ ⲉⲧⲥϧⲁⲓ   ⲁⲙⲏⲛ | ⲟⲩϩⲓⲣⲏⲛⲏ ⲙ̂ⲫⲏ ⲉⲧⲱϣ   ϥⲑ | ⲟⲩⲕⲁϯ ⲛ̂ⲛⲏ ⲉⲧⲥⲱⲧⲉⲙ   ⲁⲙⲏⲛ | ⲫ(ⲛⲟⲩ)ϯ ⲭⲁⲛⲉⲛⲛⲟⲃⲓ ⲙⲡⲓⲉⲗ(ⲁ)ⲭ(ⲓⲥⲧⲟⲥ) <persName type="copyist" ref="paths.persons.">ϣⲉⲛⲟⲩϯ ⲃⲁⲃⲩⲗⲱⲛ</persName> | ⲛⲁϥ ⲉⲃⲟⲗ ⲁⲙⲏⲛ
       </p>
     </body>
   </text>
