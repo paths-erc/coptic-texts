@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.159</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.159</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.159</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        ⳧ ϧⲉⲛⲫⲣⲁⲛ ⲙ̇ⲫⲓⲱⲧ ⲛⲉⲙⲡϣⲏⲣⲓ ⲛⲉⲙⲡⲓⲡ︦ⲛ︦ⲁ︦ ⲉⲑⲟⲩⲁⲃ | ϯⲧⲣⲓⲁⲥ ⲉⲑⲟⲩⲁⲃ ⲛⲟⲙⲟⲟⲩⲥⲓⲟ(ⲥ) · ⲫⲁⲓⲅⲁⲣⲡⲉ ⲡⲉⲛⲛⲟⲩϯ ⲉ̇ⲧⲉⲛϣⲉⲙϣⲓ  | ⲙ̇ⲙⲟϥ ⲟⲩⲟϩ ⲛⲉⲣϩⲉⲗⲡⲓⲥ ⲉ̇ⲣⲟϥ· ⲁϥϣⲱⲡⲓ ⲛ̇ϫⲉⲡⲁⲓϣⲉⲛⲉⲣⲫⲙⲉⲩⲓ̇ | ⲛ̇ⲧⲉⲡⲁⲓⲁ̇ⲅⲓⲟⲛ ⲛ̇ϫⲱⲙ ⲛⲱϣ ⲉ̇ⲃⲟⲗ ϩⲓⲧⲟⲧϥ ⲙ̇ⲡⲉⲛⲙⲁⲓⲛⲟⲩϯ ⲛ̇ⲥⲟⲛ | ⲙ̇ⲙⲟⲛⲁⲭⲟⲥ ⲛ̇ⲧⲉⲡⲉⲛⲓⲱⲧ ⲁⲃⲃⲁ ⲙⲁⲕⲁⲣⲓ ⲛ̇ⲧⲉϣⲓϩⲏⲧ ⲫ︦ϯ︦ ⲡⲉⲧ|ⲥⲱⲟⲩⲛ ⲙ̇ⲡⲉϥⲣⲁⲛ ⲉⲁϥϣⲟⲡϥ ⲉⲃⲟⲗ ϧⲉⲛⲡⲉϥϧⲓⲥⲓ | ⲛⲓⲇⲓⲟⲛ ⲁϥⲧⲏⲓϥ ⲉ̇ϧⲟⲩⲛ ⲉ̇ϯⲃⲩⲃⲗⲩⲟ̇ⲑⲏⲕⲏ | ⲛ̇ⲧⲉⲡⲁⲟ︦ⲥ︦ ⲛ̇ⲓⲱⲧ ⲁⲃⲃⲁ ⲙⲁⲕⲁⲣⲓ· ⲉⲑⲣⲉⲛⲉⲛⲓⲟϯ ⲛ̇ⲣⲉϥⲱϣ ⲉⲑⲛⲏⲟⲩ | ⲕⲁⲧⲁⲥⲏⲟⲩ ⲉ̇ⲣⲙⲉⲗⲉⲧⲁⲛ ⲉⲡ̇ⲓⲗⲁⲟⲥ ⲛ̇ϧⲏⲧϥ· ϩⲓϫⲉⲛϯ|ⲕⲁⲑⲉⲇⲣⲁ ⲉⲩϣⲉⲛⲉⲣⲫⲙⲉⲩⲓ̇ ⲛⲁϥ ⲛⲉⲙⲛⲉϥⲓ̇ⲟ̇ϯ | ϯϯϩⲟ ⲉ̇ⲣⲱⲧⲉⲛ ϧⲁⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ ⲉⲑⲛⲁⲱϣ ⲛ̇ϧⲏⲧϥ· (ⲟⲩⲟϩ) ⲛⲏ ⲉⲑⲛⲁ|ⲥⲱⲧⲉⲙ ⲉ̇ⲣⲟϥ | ⲁⲣⲓⲡⲉϥⲙⲉⲩⲓ̇ ϩⲱⲥⲟⲛ ⲉϥϣⲟⲡ ϧⲉⲛⲡⲁⲓⲕⲟⲥⲙⲟⲥ ⲛ̇ⲧⲉ|ⲡ⳪︦ ⲉ̇ⲣⲡⲉϥⲛⲁⲓ ⲛ̇ⲛⲓϣϯ ⲛⲉⲙⲁϥ ⲕⲉ ⲁϥϣⲁⲛⲥⲓⲛⲓ ⲉⲃⲟⲗ | ⲛ̇ⲧⲉⲡ⳪︦ ⲣⲟⲑⲃⲉϥ ϧⲉⲛⲕⲉⲛϥ ⲛ̇ⲛⲉⲛϣⲟⲣⲡ ⲛ̇ⲓⲟϯ ⲉⲑⲟⲩⲁⲃ | ⲁⲃⲣⲁⲁⲙ ⲛⲉⲙⲓ̇ⲥⲁⲁⲕ ⲛⲉⲙⲓ̇ⲁ̇ⲕⲱⲃ ϧⲉⲛⲡⲓⲡⲁⲣⲁⲇⲓⲥⲟⲥ | ⲛ̇ⲧⲉⲡⲟⲩⲛⲟϥ · ⲯⲩⲭⲏ ⲛⲓⲃⲉⲛ ⲉⲑⲛⲁϫⲟⲥ ϫⲉⲁ̇ⲙⲏⲛ | ⲉ̇ϥⲉϭⲓ ⲕⲁⲧⲁⲡⲓⲥⲙⲟⲩ ⲁ̇ⲙⲏⲛ· – (ⲟⲩⲟϩ) ⲁⲩⲥϧⲏⲧ ⲡⲁⲓϫⲱⲙ ϧⲉⲛϯⲙⲁϩⲭ︦ⲟ︦ⲏ︦ ⲛ̇ⲣⲟⲙⲡⲓ ⲛ̇ⲧⲉⲛⲓⲁ|ⲅⲓⲟⲥ ⲙ̇ⲙⲁⲣⲧⲩⲣⲟⲥ ⲉϥⲟⲓⲇⲉ ⲛⲟⲩⲣⲟ ⲉ̇ϩⲣⲏⲓ ⲉϫⲱⲛ ⲛ̇|ϫⲉⲡⲉⲛ⳪︦ ⲓ︦ⲏ︦ⲥ︦ ⲡⲭ︦ⲥ︦· ⲛⲁϩⲣⲁϥ ⲙ̇ⲡⲉⲛⲓ̇ⲱⲧ ⲁⲃⲃⲁ <persName type="archi_bishop" ref="paths.persons.164">ⲙⲏⲛⲁ</persName> ⲡ<roleName type="ecclesiastical">ⲁⲣⲭ(ⲏ)|ⲉⲡⲓⲥⲕⲟⲡⲟⲥ</roleName> ⲛ̇ⲧⲉ<placeName type="city_village" ref="paths.places.38">ⲣⲁⲕⲟϯ</placeName>. ⲉ̇ϥⲟⲓⲇⲉ ⲛ̇ϩⲏⲅ(ⲉⲙⲱⲛ) ⲉⲧⲗⲁⲩⲣⲁ | ⲙ̇ⲡⲉⲛⲓ̇ⲱⲧ ⲁⲃⲃⲁ ⲙⲁⲕⲁⲣⲓ ⲛ̇ⲧⲉϣⲓϩⲏⲧ ⲛ̇ϫⲉⲡⲉⲛⲓ̇ⲱⲧ ⲛⲁⲣⲭ(ⲏ)ⲡⲣⲉⲥ(ⲃⲩⲧⲉⲣⲟⲥ) | ⲡ̇ⲡ̇ <persName type="ecclesiastical" ref="paths.persons.165">ⲭⲁⲏⲗ</persName>· ⲁⲙⲁⲇⲉ ⲟⲛ ⲉ̇ϥⲟⲓ ⲛⲟⲓⲕⲟⲛⲟⲙⲟ(ⲥ) ⲉ̇ⲧⲉⲕⲕⲗⲏⲥⲓⲁ | ⲙ̇ⲡⲓⲛⲓϣⲧⲓ ⲁⲃⲃⲁ ⲙⲁⲕⲁⲣⲓ ⲛ̇ϫⲉⲡⲉⲛⲓ̇ⲱⲧ ⲛⲉⲡⲓⲥⲕⲟⲡⲟ(ⲥ) ⲁⲃⲃⲁ | ⲙⲏⲛⲁ ⲩ(ⲓ)ⲟ(ⲥ) ⲛⲓ⳥ ⲟⲩⲟϩ ⲟⲛ ⲉ̇ⲩⲟⲓ ⲛ̇ⲣⲉϥⲱ̇ϣ ⲉ̇ϯⲕⲁ|ⲑⲉⲇⲣⲁ ⲛ̇ⲧⲉⲡⲉⲛⲓ̇ⲱⲧ ⲁⲃⲃⲁ ⲙⲁⲕⲁⲣⲓ ⲛ̇ϫⲉⲛⲉⲛⲓ̇ⲟϯ ⲡⲓⲇ︦ⲓ︦ <persName type="ecclesiastical" ref="paths.persons.166">ⲙⲏⲛⲁ</persName>| ⲩ(ⲓ)ⲟ(ⲥ) ⲡⲓϫⲁⲗ (ⲟⲩⲟϩ) ⲡⲓⲇ︦ⲓ︦ <persName type="ecclesiastical" ref="paths.persons.167">ⲙⲏⲛⲁ</persName> ⲩ(ⲓ)ⲟ(ⲥ) ϯⲛⲓϣϯ ⲛ̇ⲣⲓ ⲡ⳪︦ ⲫ︦ϯ︦ ϯⲡⲓ|ⲕⲁϯ ⲛⲱⲟⲩ ϫⲉⲉ̇ⲧⲁⲡⲁⲓϣⲉⲛⲉⲣⲫⲙⲉⲩⲓ̇ ϣⲱⲡⲓ ϧⲉⲛⲛⲟⲩⲉϩⲟⲟⲩ  | (ⲟⲩⲟϩ) ⲁ̇ⲣⲓⲡⲁⲙⲉⲩⲓ̇ ϩⲱ ϧⲁⲡⲓⲉⲃⲓⲏⲛ ⲉ̇ⲧⲁϥⲥϧⲁⲓ ⲡⲓⲥⲃⲟⲩⲓ <persName type="copyist" ref="paths.persons.168">ⲙⲁⲕⲁⲣⲓ</persName> ⲛ̇ⲧⲉⲡ⳪︦ | ϯⲙ̇ⲧⲟⲛ ⲛ̇ⲧⲁⲧⲁⲗⲉⲡⲱⲣⲟⲥ ⲛ̇ⲯⲩⲭⲏ ϧⲉⲛⲡⲉϥⲃⲏⲙⲁ ⲉ̇ⲧⲟⲓ ⲛ̇ϩⲟϯ ⲁⲙⲏⲛ | ⲫⲏ ⲉⲑⲛⲁϫⲟⲥ ϫⲉⲁ̇ⲙⲏⲛ ⲉ̇ϥⲉϭⲓ ⲕⲁⲧⲁⲡⲓⲥⲙⲟⲩ ⲁⲙⲏⲛ.
+      </p>
+    </body>
+  </text>
+</TEI>
