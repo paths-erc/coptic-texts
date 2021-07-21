@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.161</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.161</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.161</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+[ϧⲉⲛⲫⲣⲁⲛ ⲙⲫⲓⲱⲧ ⲛⲉⲙⲡϣⲏⲣⲓ ⲛⲉⲙⲡⲓⲡ︦ⲛ︦ⲁ︦ ⲉⲑⲟⲩ]|[ⲁ]ⲃ ϯ̣ⲧ̣ⲣ̣ⲓ̣ⲁ̣ⲥ̣ ⲛⲟⲙⲟⲟⲩⲥⲓ̣ⲟ̣ⲥ̣ ⲫ̣ⲁ̣ⲓ̣ ⲅ̣ⲁ̣ⲣ̣ⲡ̣ⲉ̣ |[ⲫ]ϯ ⲁⲛⲟⲛ ϧⲁⲛⲓⲭⲣⲏⲥⲧⲓⲁⲛⲟⲥ ⲫϯ ⲫ[ⲏ ⲉⲧ|ⲁ]ϥϣⲱⲡ ⲉⲣⲟϥ ⲙⲡⲓϣⲟⲩϣⲱⲟⲩϣⲓ ⲛ̇ⲧ[ⲉ<persName type="biblical">ⲁⲃⲉⲗ</persName> | (5) ⲛⲉ]ⲙϯⲑⲩⲥⲓⲁ ⲛⲧⲉⲡⲉⲛⲓⲱ‵ⲧ′ <persName type="biblical">ⲁⲃⲣⲁⲁⲙ</persName> ⲛⲉⲙϯ[ⲧⲉⲃⲓ] | ⲥ̣ⲛⲟⲩϯ ⲛⲧⲉϯⲭⲏⲣⲁ ⲛⲑⲟⲕ ⲟⲛ ϯⲛⲟⲩ ⲡⲉ̣[ⲛ]|ⲛⲏⲃ ⲧⲉⲛϯϩⲟ ⲉⲣⲟⲕ ϣⲱⲡ ⲉⲣⲟⲕ ⲙⲡⲁⲓϣⲟ[ⲩϣⲱ]|ⲟⲩϣⲓ ⲛ̇ⲧⲉⲡⲁⲓⲕⲟⲩϫⲓ ⲛϫⲱⲙ ⲛⲱϣ ⲛ̇ⲧ̣[ⲟⲧϥ] | ⲙ̇ⲡⲉⲛⲙⲁⲓⲛⲟⲩϯ ⲛ̇ⲥⲟⲛ ⲡⲁⲓⲱⲧ ⲡ́ⲡ́ <persName type="donor" ref="paths.persons.146">ⲇⲱⲙⲉ[ⲧⲓⲟⲥ]</persName> | (10) <roleName type="ecclesiastical">ⲯⲁⲗⲙⲱⲧⲟⲥ</roleName> ⲛⲧⲉⲧⲉⲕⲕⲗⲏⲥⲓⲁ ⲙ̇ⲡⲉⲛⲓⲱ‵ⲧ′ <placeName type="monastery" ref="paths.places.208">ⲁ[ⲡⲁ] | ⲙⲁⲕⲁⲣⲓ</placeName>  ⲛ̇ⲧⲉ<placeName type="city_village" ref="paths.places.76">ϣⲓϩⲏⲧ</placeName> ⲛⲉⲙⲡⲁⲥⲟⲛ ⲭⲁⲏⲗ ‵(ⲟⲩⲟϩ) ⲅⲁⲃ[ⲣⲓⲏⲗ]′ ⲡⲉ[ϥⲥⲟⲛ] | ⲛ̇ⲥⲁⲣⲕⲏⲕⲟⲛ · ⲟⲩⲟϩ ⲙ̇ⲡ︦ⲛ︦ⲁ︦ⲧⲓⲕ‵ⲟ′(ⲛ) ⲉⲩⲥⲟⲡ [ⲟⲩⲟϩ]| ϣⲏⲣⲓ ⲙ̇ⲡ︦ⲛ︦ⲓ︦ⲕ‵ⲟ′ ⲙⲡⲁⲓⲱⲧ ⲡ́ⲡ́ <persName type="monk" ref="paths.persons.167">ⲙⲏⲛⲁ ⲛⲧⲉϯ[ⲛⲓϣϯ] | ⲛ̇ⲣⲓ</persName> ⲁⲩϣⲟⲡϥ ⲉ̇ⲃⲟⲗ ϧⲉⲛⲡⲟⲩϧⲓⲥⲓ ⲙⲙⲏⲓ (l. ⲙⲙⲓⲛ ‹ⲙⲙⲟϥ› ?) ⲁ[ⲩ]|(15)ⲧⲏⲓϥ ⲉ̇ϧⲟⲩⲛ ⲉϯⲃⲩⲃⲓⲗⲓⲟⲑⲏⲕⲏ ⲛ̇ⲧⲉϯⲉⲕ[ⲕⲗⲏ]|ⲥⲓⲁ̇ ⲛⲧⲉⲡⲉⲛⲓⲱⲧ <placeName type="monastery" ref="paths.places.208">ⲁⲃⲃⲁ ⲙⲁⲕⲁⲣⲓ</placeName> ⲛ̇ⲧⲉ<placeName type="city_village" ref="paths.places.76">ϣⲓϩⲏⲧ̣</placeName> | ⲉⲩϣⲉⲛⲉⲣⲫⲙⲉⲩⲓ̇ ⲛⲱⲟⲩ ⲛⲉⲙⲛⲟⲩⲓ̇ⲟϯ ⲉⲧⲁ[ⲩ]|ϫⲫⲱⲟⲩ ⲉ̣ⲡⲓⲕⲟⲥⲙⲟⲥ ⲙⲏⲛⲁ ⲓ︦ⲏ︦ⲥ︦ ⲡⲟⲩⲓⲱ[ⲧ] | ⲛⲉⲙϯⲕⲟⲩⲣⲅⲓ ⲧⲟⲩⲙⲁⲩ ⲛⲉⲙⲛⲟⲩⲥⲛⲏⲟⲩ̣ |(20) ⲧⲏⲣⲟⲩ ⲕⲁⲧⲁⲛ̇ⲟⲩⲣⲁⲛ ⲛ̇ⲟⲩⲁⲓ ⲛⲓⲣⲉⲙⲡⲏⲓ ⲙ̣|ⲙ̇ⲟⲩⲥⲏ ⲕⲁⲧⲁⲧⲟⲩⲡⲁ‵ⲧ′ⲣⲓⲥ ⲧⲉⲛϯϩⲟ ⲉⲟⲩọ[ⲛ] | ⲛⲓⲃⲉⲛ ⲉⲑⲛⲁⲱϣ ⲛ̇ϧⲏⲧϥ ⲓ̇ⲉ ⲛⲏ ⲉⲑⲛⲁⲥⲱ[ⲧⲉⲙ] | ⲉⲣⲟϥ ⲛ̇ⲧⲟⲩϫⲟⲥ ϫⲉⲛⲏ ⲉⲧⲟⲛϧ ⲛ̇ⲧⲱⲟⲩ ⲉⲣ̣[ⲉ]|ⲡ︦⳪︦ ⲥⲙⲟⲩ ⲉⲣⲱⲟⲩ ⲧⲉϥⲉⲣⲡⲓⲛⲁⲓ ⲛⲉⲙⲱⲟⲩ ϧ[ⲉⲛ]|(25)ϯⲕⲟⲩϫⲓ ⲛ̇ⲭⲣⲓⲁ̇ ⲛ̇ⲧⲉⲡⲁⲓⲕⲟⲥⲙⲟⲥ (ⲟⲩⲟϩ) ⲁⲩϣ[ⲁⲛ]|ⲥⲓⲛⲓ ⲉⲃⲟⲗ ϧⲉⲛⲡⲁⲓⲃⲓⲟⲥ ⲧⲉⲡ⳪︦ ϯⲙⲧⲟⲛ ⲛ[ⲱⲟⲩ] | ϧⲉⲛⲕⲉⲛϥ ⲛ̇ⲛⲉⲛϣⲟⲣⲡ ⲛ̇ⲓⲟϯ ⲉⲑⲟⲩⲁⲃ <persName type="biblical">ⲁⲃⲣⲁ̣[ⲁⲙ]</persName> | ⲛⲉⲙ<persName type="biblical">ⲓⲥⲁⲁⲕ</persName> ⲛⲉⲙ<persName type="biblical">ⲓⲁⲕⲱⲃ</persName> ϧⲉⲛⲡⲓⲡⲁⲣⲁⲇⲓⲥ[ⲟⲥ ⲛ]|ⲧⲉⲡⲟⲩⲛⲟϥ ⲫⲏ ⲉⲑⲛⲁϫⲟⲥ ϫⲉⲁ̇ⲙⲏⲛ ⲉϥⲉ̣[ϭⲓ]|(30)ⲡⲓⲥⲙⲟⲩ ⲁ̇ⲙⲏⲛ ⲉ̇ⲥⲉϣⲱⲡⲓ ⲉⲩⲗⲟⲅⲏⲧⲟⲥ ⲛ̣̄[ⲛⲉ]|ϩⲗⲓ ⲥⲟ‵ⲗ′ϫⲉϥ ⲟⲩⲇⲉⲛⲛ[ⲉϥ]ⲧⲏⲓϥ ⲉⲃⲟⲗ ornamentum | (ⲟⲩⲟϩ) ⲁⲩϣⲟⲡ ⲡⲁⲓϫⲱⲙ ⲁ̣[ⲩⲧ]ⲏⲓϥ ⲉϧⲟⲩⲛ ⲉϯⲃⲩ̣ⲃ̣[ⲗⲓⲟ]|ⲑⲏⲕⲏ ⲛⲁϩⲣⲁϥ [ⲡⲉ]ⲛ̣ⲓⲱⲧ ⲡⲓⲇⲓ︦ ⲥⲁⲣⲁ̣[ⲡⲓⲱⲛ] | ⲡⲓⲣⲉϥⲱϣ ⲛⲉⲙ[ⲡⲉⲛⲓ]ⲱ‵ⲧ′ ⲡⲓⲇ︦ⲓ︦ ⲙⲉⲛⲁ ⲉ[ | ]ϣⲱⲡⲓ ⲛⲉⲙⲁⲛ
+    </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.150</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.150</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.150</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+± 5 ]ⲡⲉⲭ︦ⲥ︦ ⲉϥⲉϩⲁⲣϩ̇ ⲉⲡⲱⲛϩ̇ ⲙ̇ⲡⲉⲛⲙⲉⲣⲓⲧ ⲛⲓ̈ⲱⲧ | [± 5 ] rasura · ⲡ︦ϭ︦ⲥ︦ ⲓ̄ⲥ︦ ⲉϥⲉⲧⲁϫⲣ[ ̣] | [± 5 ]ⲛ ⲉⲣⲟϥ ϩⲛⲛⲟⲏⲣⲟⲥ ⲉⲧϫⲉⲣϫⲱⲣ · ϫⲉⲛⲧ[ ± 2] | [± 5 ]ⲡⲣⲟⲟⲩϣ ⲛ̇ⲛⲉⲓⲥⲃⲟⲟⲩⲉ ⲉⲧⲙⲉϩ ⲉⲛⲱⲛϩ̇ ̣[ ± 3] | [± 4 ] ̣ ⲟⲩⲟⲛ ⲛⲓ̈ⲙ ⲉⲧⲛⲁⲱϣ ⲛ̇ϩⲏⲧⲟⲩ · ⲁϥⲕⲁⲁⲩ ϩⲛ|[± 4 ]ⲙ̣ⲁⲛϣⲱⲡⲉ· ⲉⲧⲣⲉϥⲙⲉⲗⲉⲧⲁ ⲛϩⲏⲧⲟⲩ· ⲉⲩϩⲏⲩ | [± 3 ⲙⲛ]ⲟⲩⲥⲟⲗⲥⲗ̇ ⲛ̇ⲧⲉϥⲯⲩⲭⲏ· ϫⲉⲕⲁⲥ ⲉⲣⲉⲡⲉⲛⲧⲁϥⲙⲉ | [± 6 ]ⲡⲉⲭ︦ⲥ︦ ⲛⲁⲁϥ ⲛⲉⲙⲡϣⲁ ⲛ̇ϫⲓⲕⲗⲏⲣⲟⲛⲟⲙⲓ̈ⲁ | [± 7 ]ⲛ̣ⲉⲧⲟⲩⲁⲁⲃ ⲧⲏⲣⲟⲩ ϩⲛ̇ⲧ̇ⲙⲛ̇ⲧⲣ̄ⲣⲟ ⲛ̇ⲛⲙⲡⲏⲩⲉ | [± 6 ⲥ]ϩⲓ̈ⲙⲉ ⲙⲛ̇ⲛⲉϥϣⲏⲣⲉ ⲛ̇ϥϯ ⲛⲁϥ ⲛⲛⲁⲧⲡⲉ· | [± 8 ]ⲛⲛⲁⲡⲕⲁϩ· ϩⲁⲙⲏⲛ ⲉϥⲉϣⲱⲡⲉ:—
+      </p>
+    </body>
+  </text>
+</TEI>

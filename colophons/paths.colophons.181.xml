@@ -7,21 +7,22 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>paths.colophons.146</title>
+        <title>paths.colophons.181</title>
       </titleStmt>
       <publicationStmt>
-        <p>paths.colophons.146</p>
+        <p>paths.colophons.181</p>
       </publicationStmt>
       <sourceDesc>
-        <p>paths.colophons.146</p>
+        <p>paths.colophons.181</p>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text>
     <body>
       <p>
-ⲟⲩⲛⲁⲓ ⲙⲫⲏ ⲉⲧⲥϧⲁⲓ   ⲁⲙⲏⲛ | ⲟⲩϩⲓⲣⲏⲛⲏ ⲙ̂ⲫⲏ ⲉⲧⲱϣ   ϥⲑ | ⲟⲩⲕⲁϯ ⲛ̂ⲛⲏ ⲉⲧⲥⲱⲧⲉⲙ   ⲁⲙⲏⲛ | ⲫ(ⲛⲟⲩ)ϯ ⲭⲁⲛⲉⲛⲛⲟⲃⲓ ⲙⲡⲓⲉⲗ(ⲁ)ⲭ(ⲓⲥⲧⲟⲥ) <persName type="copyist" ref="paths.persons.29">ϣⲉⲛⲟⲩϯ ⲃⲁⲃⲩⲗⲱⲛ</persName> | ⲛⲁϥ ⲉⲃⲟⲗ ⲁⲙⲏⲛ
-      </p>
+      وكان الفراغ من هذا الكتاب الشريف المقدس يوم الثلثا تاسع مسري سنة الف وسبعة الشهدا الاطهار الموافق لسني العربية الثالث من شهر شعبان سنة تسعين وستماية للهجرة ولربنا المجد والتسبحة السجود الى الابد امين
+ 
+    </p>
     </body>
   </text>
 </TEI>

@@ -7,21 +7,21 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>paths.colophons.146</title>
+        <title>paths.colophons.177</title>
       </titleStmt>
       <publicationStmt>
-        <p>paths.colophons.146</p>
+        <p>paths.colophons.177</p>
       </publicationStmt>
       <sourceDesc>
-        <p>paths.colophons.146</p>
+        <p>paths.colophons.177</p>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text>
     <body>
       <p>
-ⲟⲩⲛⲁⲓ ⲙⲫⲏ ⲉⲧⲥϧⲁⲓ   ⲁⲙⲏⲛ | ⲟⲩϩⲓⲣⲏⲛⲏ ⲙ̂ⲫⲏ ⲉⲧⲱϣ   ϥⲑ | ⲟⲩⲕⲁϯ ⲛ̂ⲛⲏ ⲉⲧⲥⲱⲧⲉⲙ   ⲁⲙⲏⲛ | ⲫ(ⲛⲟⲩ)ϯ ⲭⲁⲛⲉⲛⲛⲟⲃⲓ ⲙⲡⲓⲉⲗ(ⲁ)ⲭ(ⲓⲥⲧⲟⲥ) <persName type="copyist" ref="paths.persons.29">ϣⲉⲛⲟⲩϯ ⲃⲁⲃⲩⲗⲱⲛ</persName> | ⲛⲁϥ ⲉⲃⲟⲗ ⲁⲙⲏⲛ
-      </p>
+ⲡⲟ︦ⲥ︦ ϯⲙⲧⲟⲛ ⲛⲧⲉⲯⲩⲭⲏ ⲙⲡⲓⲉⲗⲁⲭ(ⲓⲥⲧⲟⲥ) <persName type="copyist" ref="paths.persons.201">ⲭⲁⲏⲗ ⲩ(ⲓⲟ)ⲥ ⲙⲁⲧⲟⲓ ⲧⲭⲉϩⲗⲓ</persName> ⲁⲙⲏⲛ (ⲟⲩⲟϩ) ⲁⲙⲏⲛ
+    </p>
     </body>
   </text>
 </TEI>

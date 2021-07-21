@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.149</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.149</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.149</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+      f. 71v
+      ⲡϫⲟⲉⲓⲥ ⲓ(ⲏⲥⲟⲩ)ⲥ ⲡⲉⲭ(ⲣⲓⲥⲧⲟ)ⲥ ⲉϥⲉⲥⲙⲟⲩ ⲉⲡⲙⲁⲓ|ⲛⲟⲩⲧⲉ ⲛⲥⲟⲛ ⲛⲧⲁϥϥⲓⲡⲣⲟⲟⲩϣ ⲙ|ⲡⲉⲓⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ ⲛ̇ⲕⲁⲧⲁⲓ̈ⲱϩⲁⲛ|ⲛⲏⲥ ⲁϥⲥϩⲁⲓⲥϥ ⲉⲧⲣⲉϥⲱϣ ⲛ̇ϩⲏⲧϥ̄ | (5) ⲉⲩⲱⲫⲉⲗⲓⲁ ⲛ̇ⲧⲉϥⲯⲩⲭⲏ· ⲉϥⲉⲁⲁϥ | ⲛⲙ̄ⲡϣⲁ ⲧⲟⲩⲥϩⲁⲓ̈ ⲙⲡⲉϥⲣⲁⲛ ⲉⲡ|ϫⲱⲱⲙⲉ ⲙ̄ⲡⲱⲛϩ̄ ϩⲛⲧⲙⲛ̄ⲧⲣⲟ | ⲡⲟⲗⲓⲥ ⲑⲓⲉ(ⲣⲟⲩⲥⲁ)ⲗⲏⲙ ⲛ̇ⲧⲡⲉ ϩⲁⲙⲏⲛ | ϯⲣⲟⲙⲡⲉ ⲧⲁⲓ ⲥⲁⲣⲁⲅⲉⲛⲟⲩ ⲩ︦ϥ︦ⲅ
+
+      f. 72r
+      ⲧ[ ± 15 ] | ⲉⲣⲉ̣[ ± 12 ] | ⲙ[ ± 15 ] | ⲁⲣⲓⲡ[ⲁⲙⲉⲉⲩⲉ ± 6 ] ̣[ | ⲉⲛⲥ̣[ⲃⲟⲩⲓ ⲉ]ⲧ̣ⲥⲁⲡ̣ⲉⲥⲏⲧ̣ [ ⲛⲥⲃⲟⲩⲓ ]| ⲛⲓ[ⲙ] ⲡⲉⲧⲉϥ:ⲉⲙⲡϣⲁ·ⲁⲛ ⲙ̣[ⲡ]|ⲱⲛϩ· ⲙⲡⲕⲟⲥⲙⲟⲥ· ⲙⲁⲗⲓⲥ[ⲧⲁ] | ⲡⲓⲣⲁⲛ· ⲛⲧⲟⲟⲩⲧⲁⲗⲟ̣ⲃ̣ ϩⲓϫ[ⲱⲓ] | ϫⲉⲡ<roleName type="ecclesiastical">(ⲁⲕⲟⲛⲟⲥ)</roleName> <persName type="civil" ref="paths.persons.190">ϣⲉⲛⲟⲩⲧⲉ</persName> · ⲡⲩ(ⲓⲟⲥ) ⲁⲡ̣[ⲁ ] | ⲉⲧⲉⲓⲱⲁⲛⲛⲉ· ⲡⲉ: ⲡⲁⲡϩⲏⲧ: ⲡ ̣[ ] | ⲱ ⲛⲉϥⲓⲁϯ ⲛⲁⲡⲥⲁϩⲏⲧ: ⲟⲩ[ ] | ⲧⲉ ⲥⲓⲟⲩ: ⲙⲉⲥⲱⲣⲏ ⲛⲫ ⲉ(ⲧⲟⲩⲥ)· ϣⲗⲏ̣[ⲗ ⲉϫ]|ⲱⲓ: ⲧⲉⲡϭ(ⲟⲉⲓ)ⲥ ⲕⲱ ⲛⲁⲓ ⲉⲃⲟⲗ ⲙⲉ ̣[ ] | ⲁⲙⲏⲛ
+      </p>
+    </body>
+  </text>

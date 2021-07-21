@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.158</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.158</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.158</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+⳧ ϧⲉⲛⲫⲣⲁⲛ ⲙ̇ⲫⲓⲱⲧ ⲛⲉⲙⲥ︦ⲩ︦ ⲛⲉⲙⲡⲓ|ⲡ︦ⲛ︦ⲁ︦ ⲉ︦ⲑ︦ ϯⲧⲣⲓⲁⲥ ⲉ︦ⲑ︦ ⲛ̇ⲟⲙⲟⲟⲩⲥⲓⲟ(ⲥ) | ⲫⲁⲓ ⲡⲉ ⲡⲉⲛⲛⲟⲩϯ ⲁ̇ⲛⲟⲛ ϧⲁⲛⲓ|ⲭⲣⲏⲥⲧⲓⲁ̇ⲛⲟⲥ ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̇|ⲙⲟϥ ⲧⲉⲛϯⲱⲟⲩ ⲛⲁϥ | ⲁϥϣⲱⲡⲓ ⲛ̇ϫⲉⲡⲁⲓϣⲉⲛⲉⲣⲫⲙⲉⲩ|ⲓ̇ ⲙ̇ⲡⲁⲓⲕⲟⲩϫⲓ ⲛ̇ϫⲱⲙ ⲛ̇ⲧⲁⲣⲭⲏ | ⲙ̇ⲯⲁⲗⲧⲏⲣⲓⲟⲛ ⲉ̇ⲃⲟⲗ ϩⲓⲧⲟⲧⲟⲩ | ⲛ̇ⲛⲓ<roleName type="religious">ⲙⲟⲛⲁⲭ(ⲟⲥ)</roleName> ⲙ̇ⲙⲁⲓⲛⲟⲩϯ ⲙ̇ⲡⲉⲛⲉⲣⲧ | ⲟⲩⲟϥ <roleName type="ecclesiastical">ⲙ̇ⲯⲁⲗⲙⲱⲧ(ⲟⲥ)</roleName> ϧⲉⲛⲧⲗⲁⲩⲣⲁ | ⲛⲉⲙϯⲉⲕ(ⲕ)ⲗ(ⲏⲥⲓⲁ) ⲛ̇ⲧⲉ<placeName type="monastery" ref="paths.places.208">ⲡⲓⲛⲓϣϯ ⲁⲃⲃⲁ ⲙⲁ|ⲕⲁⲣⲓ</placeName> ⲡⲁⲓⲱⲧ ⲡⲓ<roleName type="ecclesiastical">ⲥⲓⲁⲕⲥ</roleName> <persName type="donor" ref="paths.persons.159">ⲓⲱⲥⲏⲫ</persName> ⲡⲓ|ⲉ̇ⲣⲟⲯⲁⲗⲧⲏⲥ ⲛⲉⲙⲛⲉϥⲥⲛⲏⲟⲩ ⲙ̇|<roleName type="ecclesiastical">ⲯⲁⲗⲙⲱⲧ(ⲟⲥ)</roleName> ⲡⲁⲓⲱⲧ <persName type="saint" ref="paths.persons.160">ⲛⲟⲥⲁⲓⲣ</persName> (ⲟⲩⲟϩ) ⲡⲁⲓⲱⲧ |<persName type="donor" ref="paths.persons.161">ⲥⲧⲉⲫⲁⲛⲟ(ⲥ)</persName> (ⲟⲩⲟϩ) ⲡⲁⲓⲱⲧ <persName type="donor" ref="paths.persons.162">ⲃⲟϩⲉⲓⲡ</persName> | ⲁⲩⲑⲁⲙⲓⲟϥ ⲟⲩⲟϩ ⲁⲩϥⲓⲡⲉϥⲣⲱⲟⲩϣ | ⲉⲁⲩⲧⲏⲓϥ ⲛ̇ϯⲕⲁⲑⲉⲇⲣⲁ ⲉ︦ⲑ︦ ⲉⲩⲉⲣ|ⲫⲙⲉⲩⲓ̇ ⲛⲱⲟⲩ ⲛⲉⲙⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ | ⲉ̇ⲧⲉⲟⲩⲟⲛ ϧⲓⲥⲓ ⲛ̇ϧⲏⲧϥ ⲟⲩⲟϩ m2 | ϯϯϩⲟ ⲉ̇ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ ⲉⲑⲛⲁⲱϣ ⲛ̇ϧⲏⲧϥ | ⲛ̇ⲧⲉϥⲉⲣⲡⲟⲩⲙⲉⲩⲓ̇ ϧⲉⲛϩⲁⲛⲛⲁⲓ | ⲉⲁⲩⲥϧⲏⲧϥ ϧⲉⲛ ͵ⲣ︦ⲗ︦ⲇ︦ ⲛⲛⲓ⳥ ⲙⲉⲛⲉⲛ|ⲥⲁⲡⲓⲙ̇ⲧⲟⲛ ⲛ̇ⲧⲉⲡⲉⲛⲓⲱⲧ ⲛ̇ⲁⲣⲭⲉⲡⲓⲥⲕⲟ|ⲡⲟ(ⲥ) | ⲁⲃⲃⲁ <persName type="archi_bishop" ref="paths.persons.163">ⲓ︦ⲱ︦</persName> ⲛ̇ⲣⲟⲙⲡⲓⲃ︦ϯ ⲛⲉⲙⲟⲩϫⲟⲥ ⲉⲣⲉ|ⲛⲓⲣⲱⲙⲉⲟⲥ ϯⲟⲩⲃⲉⲛⲓⲡⲉⲣⲥⲓⲥ ϧⲉⲛ|ⲡⲧⲟⲗⲉⲙⲁⲓⲥ ⲉ̇ⲕⲱϯ ⲉⲓⲗ︦ⲏ︦ⲙ︦ ⲫϯ ⲇⲉ ⲉϥ|ⲓ̇ⲣⲓ ⲙ̇ⲡⲉϥⲟⲩⲱϣ ⲉ̇ⲛⲟϩⲉⲙ ⲙ̇ⲡⲓⲕⲟⲥⲙⲟ(ⲥ).
+      </p>
+    </body>
+  </text>
+</TEI>

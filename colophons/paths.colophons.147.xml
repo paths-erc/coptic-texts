@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.147</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.147</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.147</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+      ⲧⲉⲡⲓⲥⲧⲟⲗⲏ ⲙⲡⲉⲛ|ϫⲟⲉⲓⲥ ⲓ(ⲏⲥⲟⲩ)ⲥ ⲡⲉⲭ(ⲣⲓⲥⲧⲟ)ⲥ ⲧⲉ̣ⲛ̣|ⲧⲁϥϫⲟⲟⲩⲥ ⲛ̄ⲁⲩⲕⲁ|ⲣⲟⲥ ⲡⲣ̄ⲣⲟ ⲛ̄ⲉⲇⲉⲥⲥⲁ̣ | (5) ϩⲁⲙⲏⲛ | ⲡϫⲱⲱⲙⲉ ⲙ̄ⲡⲁⲥⲟⲛ | ⲫⲟⲓⲃⲁⲙⲙⲱⲛ ⲁⲣⲓ|ⲡⲉϥⲙⲉⲉⲩⲉ ϩⲁⲙⲏ(ⲛ) | Κύριε φύλαξον δὸ(ν) | (10) δοῦλου σονο <persName type="copyist" ref="paths.persons.189">Ἀντώ|νιος Μίκκος</persName> <roleName type="civil">καλ|λιγράφοις</roleName> ἀμήν | ϋἱ̈ὸς ἀββᾶ Ἀπολλώς | καὶ ἀββᾶ Ἰερημίας
+
+      ⳧ ⲁⲣⲓⲧⲁⲅⲁⲏ [--- ⲣ̄]|ⲡⲁⲙⲉⲉⲩⲉ ⲁⲛⲟⲕ ⲡ̣ⲉ̣[ⲗⲁⲭⲓⲥ]|ⲧⲟⲥ <persName type="copyist" ref="paths.persons.189">ⲁⲛⲧⲱⲛⲉ</persName> [---] | ἐγὼ <persName type="copyist" ref="paths.persons.189">Ἀντῶνε</persName> [---] | (5) Κύριε φύλαξον [---]
+    </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.184</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.184</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.184</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+ⲉ̇ϫⲉⲛⲧϫⲓϫ ⲙ̇ⲡⲓϩⲉⲕⲓ ⲉⲑⲃⲉⲛⲉϥⲛⲟⲃⲓ | ⲉⲧⲟϣ ⲡⲓⲙⲟⲛⲁⲭⲟⲥ <persName type="copyist" ref="paths.persons.187">ⲙⲓⲭⲁⲏⲗ ⲡϣⲏⲣⲓ ⲛ̇ⲁⲃⲣⲁⲁⲙ</persName> | ⲡⲓⲉⲃⲟⲗ ϧⲉⲛϯⲃⲁⲕⲓ ⲙ̇ⲙⲁⲓⲛⲟⲩϯ ⲡⲉⲙϫⲏ ϯϯϩⲟ | ⲁ̇ⲣⲓⲡⲁⲙⲉⲩⲓ̇ ⲛⲁⲓⲟϯ ⲛⲉⲙⲛⲁⲥⲛⲏⲟⲩ ϣⲗⲏⲗ ⲉ̇ϫⲱⲓ ϩⲓⲛⲁ | ⲛ̇ⲧⲁϫⲓⲙⲓ ⲛ̇ⲟⲩⲡⲁⲣⲣⲏⲥⲓⲁ̇ ϧⲉⲛⲡⲓⲃⲏⲙⲁ ⲉ̇ⲧⲟⲓ ⲛ̇ϩⲟϯ | ⲟⲩⲟϩ ⲛ̇ⲧⲁⲥⲱⲧⲉⲙ ⲉ̇ϯⲥⲙⲏ ⲉⲥϫⲱ ⲙ̇ⲙⲟⲥ ϫⲉⲁ̇ⲙⲱⲓⲛⲓ | ϩⲁⲣⲟⲓ ⲛⲏ ⲉⲧⲥⲙⲁⲣⲱⲟⲩⲧ ⲛ̇ⲧⲉⲡⲁⲓⲱⲧ ⲁⲣⲓⲕⲗⲏⲣⲟⲛⲟⲙⲓⲛ | ⲛ̇ϯⲙⲉⲧⲟⲩⲣⲟ ⲉⲧⲁⲩⲥⲉⲃⲧⲱⲧⲥ ⲛⲱⲧⲉⲙ ⲓⲥϫⲉⲛ|ⲧⲁⲣⲭⲏ ⲙ̇ⲡⲓⲥⲱⲛⲧ ⲫⲁⲓ ⲉ̇ⲥⲉ̇ϣⲱⲡⲓ ⲛⲏⲓ ⲛⲉⲙⲛⲏ ⲉⲧⲁⲩ|ⲙⲉⲣⲣⲉ ⲡⲉϥⲟⲩⲱⲛϩ ⲉ̇ⲃⲟⲗ ⲁ̇ⲙⲏⲛ ⲉⲥⲉ̇ϣⲱⲡⲓ | ⲁⲓⲥϧⲏⲧϥ ⲙ̇ⲡⲁⲓⲱⲧ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ ⲡⲓⲡⲓⲥⲧⲟⲥ ⲉⲧⲉⲛϩⲟⲧ | ϧⲉⲛⲛⲓⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲅⲉⲟⲣⲅⲓⲟⲥ ⲡϭ︦ⲥ︦ ⲉϥⲉϯ ⲛⲏⲓ | ⲛ̇ⲟⲩⲛⲁⲓ ϧⲉⲛⲛⲉϥⲧⲱⲃϩ ⲟⲩⲟϩ ⲉϥⲉⲁ̇ⲣⲉϩ ⲉⲡⲉ̇ϥⲱⲛϧ | ⲛ̇ϩⲁⲛⲙⲏϣ ⲛ̇ⲣⲟⲙⲡⲓ ⲛⲉⲙϩⲁⲛⲥⲏⲟⲩ ⲛ̇ϩⲓⲣⲏⲛⲓⲕⲟⲛ ⲁ̇ⲙⲏⲛ | ⲛⲓⲣⲟⲙⲡⲓ ⲛ̇ⲛⲓⲙⲁⲣⲧⲩⲣⲟⲥ ͵ⲁ︦ⲟ︦ⲇ︦ ϧⲉⲛⲡⲓⲁ̇ⲃⲟⲧ ⲑⲱⲟⲩⲧ
+    </p>
+    </body>
+  </text>
+</TEI>

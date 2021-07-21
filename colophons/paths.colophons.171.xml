@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.171</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.171</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.171</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+      † αλιθως ακσζανσατζει αρισοφος ακσζανχαμασζτζ
+      αρινοειν τζεουσοφος ενκατϩητ πασζηρι ατκωτ
+      εμπηει εμπτζο(εις) σμου εροει χω νηει εβολ αριπα-
+      μεβι εντεπατζο(εις) ειησ(ους) πχ(ριστο)ς χανα[νο]βι νηει εβολ ανοκ
+      5 χα πιτζωπ ενρεφερνοβι παραρωμι νιβεν
+      ετσζοπ ϩιτζενπικαϩει ουοϩ εον ετοει νατεμσζα
+      εμπιραν εταυτηειφ εροφ πιελαχ(ιστος) <persName type="civil" ref="paths.persons.179">μακαρι</persName> υἱ(ὸς) Φι(λο)θ(έου)
+      εντεπιτζις αριπαμεβι τεπιτζο(εις) ειη(ους) χανανοβι
+      [ν]ηει εβολ πη ετνατζος τζεαμην εφετζι ϩωφ κατα-
+      10 πισμου αμην εσεσζωπι αμην ϥθ†
+
+      †ⲁⲗⲓⲑⲱⲥ ⲁⲕϣⲁⲛⲥⲁϫⲓ ⲁⲣⲓⲥⲟⲫⲟⲥ ⲁⲕϣⲁⲛⲭⲁⲙⲁϣϫ ⲁⲣⲓⲛⲟⲓⲛ ϫⲉⲟⲩⲥⲟⲫⲟⲥ ⲛⲕⲁⲧϩⲏⲧ ⲡⲁϣⲏⲣⲓ ⲉⲧⲕⲱⲧ ⲙⲡⲏⲓ ⲙⲡϭⲱⲓⲥ ⲥⲙⲟⲩ ⲉⲣⲟⲓ ⲭⲱ ⲛⲏⲓ ⲉⲃⲟⲗ ⲁⲣⲓⲡⲁⲙⲉⲩⲓ ⲛⲧⲉⲡⲁϭⲱⲓⲥ ⲓⲏⲥⲟⲩⲥ ⲡⲭⲣⲓⲥⲧⲟⲥ ⲭⲁⲛⲁⲛⲟⲃⲓ ⲛⲏⲓ ⲉⲃⲟⲗ ⲁⲛⲟⲕ ϧⲁⲡⲓϫⲱⲃ ⲛⲣⲉϥⲉⲣⲛⲟⲃⲓ ⲡⲁⲣⲁⲣⲱⲙⲓ ⲛⲓⲃⲉⲛ ⲉⲧϣⲟⲡ ϩⲓϫⲉⲛⲡⲓⲕⲁϩⲓ ⲟⲩⲟϩ ⲟⲛ ⲉⲧⲟⲓ ⲛⲁⲧⲉⲙϣⲁ ⲙⲡⲓⲣⲁⲛ ⲉⲧⲁⲩⲧⲏⲓϥ ⲉⲣⲟϥ ⲡⲓⲉⲗⲁⲭⲓⲥⲧⲟⲥ ⲙⲁⲕⲁⲣⲓ ⲩⲓⲟⲥ ⲫⲓⲗⲟⲑⲉⲟⲩ ⲛⲧⲉⲡⲓϭⲓⲥ ⲁⲣⲓⲡⲁⲙⲉⲩⲓ ⲧⲉⲡⲓϭⲱⲓⲥ ⲓⲏⲥⲟⲩⲥ ⲭⲁⲛⲁⲛⲟⲃⲓ ⲛⲏⲓ ⲉⲃⲟⲗ ⲡⲏ ⲉⲧⲛⲁϫⲟⲥ ϫⲉⲁⲙⲏⲛ ⲉϥⲉϭⲓ ϩⲱϥ ⲕⲁⲧⲁⲡⲓⲥⲙⲟⲩ ⲁⲙⲏⲛ ⲉⲥⲉϣⲱⲡⲓ ⲁⲙⲏⲛ ϥⲑ†
+    </p>
+    </body>
+  </text>
+</TEI>

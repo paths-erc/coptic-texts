@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.154</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.154</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.154</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+      ⲁⲣⲓⲡⲁⲙⲉⲩⲓ̇ ϧⲉⲛⲟⲩⲁⲅⲁⲡⲏ بلحب الروحاني
+      ⲛⲁⲓⲟϯ ⲛⲉⲙⲛⲁⲥⲛⲏⲟⲩⲓ̇ ⲉⲩ- اذكروني يا ابهاتي
+      ⲉϫⲟⲥ ϧⲉⲛⲧⲉϥⲁⲅⲁⲡⲓ ⲉ̇- واخوتي وقولوا
+      ϧⲟⲩⲛ ⲫϯ· ϫⲉⲡ︦⳪︦ ⲛⲁⲓ ⲛ̇ⲧⲉ- بحبة لله يا رب
+      ⲡ̇ϧⲁⲓⲉ̇ ⲉ̇ⲃⲟⲗ ϧⲉⲛⲕⲟⲥⲙⲟⲥ ارحم اعجز العالم
+      ⲉϥⲣⲁⲛⲁϥ ⲁⲛ ⲫϯ· ⲓⲥ ϯ- الغير مرضي لله
+      ⲙⲉⲧⲁⲛⲟⲓ ⲙ̇ⲡⲉⲣϥⲓⲱⲡ ⲛⲉ- ها مطانية لا تحاسبوني
+      ⲙⲏⲓ ⲉⲑⲃⲉⲛⲁⲛⲛⲟⲃⲓ ⲉⲧ- لاجل خطاياي الكشيرة فاني
+      ⲟϣ ϫⲉⲙ̇ⲡⲁϯⲛⲟⲓ ⲁⲛⲉⲥ- لم افهم الكتابة
+      ϧⲁⲓ ⲁⲓⲉⲥϧⲁⲓ ⲁ̇ⲛⲟⲕ ⲡⲓⲉ̇- التي كتبتها انا
+      ⲃⲓⲏⲛ ⲛ̇ⲧⲁⲗⲁ⟦ⲁ⟧ⲉⲡⲱⲣⲟⲥ· ⲡⲓ- الحقير الشقي الغير
+      ⲁⲧⲉⲙⲡ̇ϣⲁ ⲉⲙⲟⲩϯ ⲉ̇ⲣⲟⲓ· مستحق ان ادعا
+      ϫⲉⲣⲱⲙⲓ· ϫⲉⲙⲁⲗⲓⲥⲧⲁ اناسا لا سيما
+      ⲡⲓ <roleName type="religious">ⲇⲓⲁ̇ⲕⲱⲛ</roleName> <persName type="copyist" ref="paths.persons.195">ⲥⲱⲗⲟⲙⲟⲛ</persName> شماسا سليمان
+      ⲛ̇ϣⲱⲣⲡⲟ ⲡ̇ϣⲏⲣⲓ ⲙⲓⲭⲁⲏⲗ· العريشي ابن ميخائيل
+      ⲉⲧⲉⲡⲟⲗⲓⲥ <placeName type="city_village" ref="paths.places.133">ⲙⲟϧⲟⲛⲟⲛ</placeName>· ⲡ︦⳪︦ من ناحية مخنان
+      ⲙⲁⲙ̇ⲧⲟⲛ ⲛⲟⲩⲱ ⲉⲥⲉϣⲱ- يا رب اعطهم نياحا
+      ⲡⲓ ⲁ̇ⲙⲏⲛ· ۞ابديا يكون امين
+      ⲡⲓⲱⲟⲩ ⲫⲁⲓ ⲥⲟⲩ ⲙ̇ⲡⲓⲁ̇ⲃⲟⲧ كمل في
+      ⲕ︦ⲑ︦ ⲫⲁⲙⲉⲛⲱⲑ ϯⲣⲟⲙⲡⲓ التاسع والعشرين
+      ⲑⲁⲓ ⳩ ⳥ ͵ⲁ︦ⲧ︦ⲗ︦ⲃ︦ ϧⲉⲛⲟⲩϩⲓ- من شهر برمهات
+      ⲣⲏⲛⲏ ⲛ̄ⲧⲉⲫϯ ⲁ̇ⲙⲏⲛ· سنة الف وثلثمائة
+      اثنين وثلاثين الشهداء
+      بسلام من الرب امين
+      </p>
+    </body>
+  </text>
+</TEI>
