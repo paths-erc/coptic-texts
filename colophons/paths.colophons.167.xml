@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons.167</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons.167</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.167</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        Ϧⲉⲛⲫⲣⲁⲛ ⲙ̄ⲫⲓⲱⲧ ⲛⲉⲙⲡⲓϣⲏⲣⲓ ⲛⲉⲙⲡⲓⲡ︦ⲛ︦ⲁ︦ ⲉⲑⲟⲩⲁⲃ ϯⲧⲣⲓⲁⲥ ⲛ̄ⲟⲩⲟⲙⲟⲟⲩⲥⲓⲟⲥ ⲟⲩⲟϩ ⲛ̄ⲁⲧⲫⲱⲣϫ ⲉⲥⲭⲏ ϧⲉⲛⲟⲩⲙⲉⲧⲛⲟⲩϯⲛ̄ⲟⲩⲟⲧ ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̄ⲙⲟⲥ ⲧⲉⲛϯⲱⲟⲩ ⲛⲁⲥ. ⲫϯ ⲫⲏ ⲉⲧⲁϥϣⲟⲡ ⲉⲣⲟϥ ⲛ̄ⲛⲓⲇⲱⲣⲟⲛ ⲛ̄ⲧⲉⲁⲃⲏⲗ ⲡⲓⲑⲙⲏⲓ ⲛⲉⲙϯⲑⲩⲥⲓⲁ ⲛ̄ⲧⲉⲡⲉⲛⲓⲱⲧ ⲁⲃⲣⲁⲁⲙ ⲛⲉⲙϯⲧⲉⲃⲓ ⲥⲛⲟⲩϯ ⲛ̄ⲧⲉϯⲭⲏⲣⲁ ⲛ̄ⲥϩⲓⲙⲓ ϣⲟⲡ ⲉⲣⲟⲕⲟⲩⲛ ⲡⲉⲛⲛⲏⲃ ⲡⲓⲙⲁⲓⲣⲱⲙⲓ ⲛ̄ⲛⲓⲉⲩⲭⲁⲣⲓⲥⲧⲏⲣⲓⲟⲛ ⲙ̄ⲡⲉⲕⲃⲱⲕ ⲛ̄ⲁⲣⲭⲱⲛ ⲉⲧⲧⲁⲓⲟⲩⲧ ⲕⲁⲧⲁⲥⲙⲟⲧ ⲛⲓⲃⲉⲛ ⲡⲓⲇⲓⲁⲕⲱⲛ ⲙ̄ⲙⲁⲓⲭ︦ⲥ︦ ⲟⲩⲟϩ ⲙ̄ⲙⲁⲓⲁⲅⲁⲡⲏ ⲟⲩⲟϩ ⲙ̄ⲙⲁⲓϣⲉⲙⲙⲟ ⲡⲓϧⲉⲗⲗⲟ <persName type="donor" ref="paths.persons.177"> ⲃⲉⲗⲓⲉⲧⲧⲉⲩⲗⲉϩ ⲉⲡⲟⲗⲡⲁⲣⲁⲭⲉⲧ ⲡϣⲏⲣⲓ ⲛ̄ⲉⲡⲟⲗⲙⲉⲛⲥⲟⲣ</persName>. ⲛ̄ⲑⲟϥ ⲁϥϥⲓⲣⲱⲟⲩϣ ⲙ̄ⲡⲁⲓⲁⲅⲓⲟⲛ ⲛ̄ϫⲱⲙ ⲛ̄ⲇ̄ ⲛ̄ⲓⲁⲣⲱⲟⲩ ⲛ̄ⲟⲛϧⲉⲧⲉⲡⲓⲇ ⲛ̄ⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ ⲉⲑⲟⲩⲁⲃ ⲉⲁϥⲑⲁⲙⲓⲟϥ ⲉⲃⲟⲗ ϧⲉⲛⲛⲉϥϧⲓⲥⲓ ⲙ̄ⲙⲏⲓ ⲉⲑⲣⲉϥⲉⲣⲙⲉⲗⲉⲧⲁⲛ ⲛ̄ϧⲏⲧϥ ⲉⲩϩⲏⲟⲩ ⲛ̄ⲧⲉϥⲯⲩⲭⲏ ⲉⲩⲉⲣⲫⲙⲉⲩⲓ ⲛⲁϥ ⲛⲉⲙⲛⲉϥϣⲏⲣⲓ ⲛⲉⲙⲛⲉϥⲥⲛⲏⲟⲩ ⲛⲉⲙⲛⲏ ⲉⲑⲛⲏⲟⲩ ⲙⲉⲛⲉⲛⲥⲱϥ. Ⲡ⳪︦ ⲓ︦ⲏ︦ⲥ︦ ⲡⲭ︦ⲥ︦ ⲡⲉⲛⲁⲗⲏⲑⲏⲛⲟⲥ ⲛ̄ⲛⲟⲩϯ ϯϣⲉⲃⲓⲱ ⲛⲁϥⲃ ⲉⲫⲙⲁ ⲙ̄ⲡⲉϥϧⲓⲥⲓ ϧⲉⲛⲣ̄ ⲛⲉⲙⲝ︦ ⲛⲉⲙⲗ︦ ϧⲉⲛⲓ̄ⲗ︦ⲏ︦ⲙ︦ ⲛ̄ⲧⲉⲧⲫⲉ ϧⲉⲛⲧⲭⲱⲣⲁ ⲛ̄ⲧⲉⲛⲏ ⲉⲧⲟⲛϧ ⲉⲧⲁⲩⲣⲁⲛⲁϥ ϧⲉⲛⲛⲟⲩϩⲃⲏⲟⲩⲓ ⲟⲩⲟϩ ⲙ̄ⲫⲣⲏϯ ⲉⲧⲁϥⲉⲣⲫⲙⲉⲩⲓ ⲙ̄ⲡⲉⲕⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ ϩⲓϫⲉⲛⲡⲓⲕⲁϩⲓ ⲁⲣⲓⲡⲉϥⲙⲉⲩⲓ ϩⲱϥ ϧⲉⲛⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ ⲟⲩⲟϩ ϧⲉⲛⲡⲁⲓⲕⲉⲱⲛ ⲫⲁⲓ ⲙ̄ⲡⲉⲣⲭⲁϥ ⲛ̄ⲥⲱⲕ ϫⲉⲕⲥⲙⲁⲣⲱⲟⲩϯ ⲫⲓⲱⲧ ⲛⲉⲙⲡϣⲏⲣⲓ ⲛⲉⲙⲡ︦ⲛ︦ⲁ︦ ⲉⲑⲟⲩⲁⲃ ⲓⲥϫⲉⲛⲛⲉⲙϣⲁⲉⲛⲉϩ ⲛ̄ⲧⲉⲡⲓⲉⲛⲉϩ ⲧⲏⲣⲟⲩ ⲁⲙⲏⲛ.
+    </p>
+    </body>
+  </text>
+</TEI>
