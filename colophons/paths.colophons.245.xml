@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons 197</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons 197</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.197</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        ⳧ ⲥⲩⲛ ⲑ(ⲉ)ⲱ | ϩⲙⲡⲣⲁⲛ ⲙⲡⲉⲛϫⲟⲉⲓⲥ ⲓⲥ︦ ⲡⲉⲭ︦ⲥ︦ ⲡⲛⲟⲩⲧ(ⲉ) ⲁⲩⲱ ⲡϣⲏⲣⲉ | ⲡⲛⲟⲩⲧ(ⲉ) ⲡⲣⲉϥϯⲃⲉⲕⲉ ⲙⲙⲉ ⲛⲟⲩⲟⲛ ⲛⲓⲙ ⲉⲧⲙⲉ | ⲙ̇ⲙⲟϥ ⲉϥⲉϫⲓ ⲛ̄ⲧⲟⲟⲧϥ̄ ⲙ̄ⲡⲉⲛⲥⲟⲛ <persName type="donor" ref="path.persons.102">ⲑⲱ̄ⲇ̄ⲣ̄ | (5) ⲡϣ⸀ⲏⲣⲉ ⲙ̇ⲙⲓⲛⲁ</persName>⸱ⲙⲛⲧⲛ̄ⲙⲁⲓⲛⲟⲩⲧⲉ ⲛⲥⲱⲛ̄ | ⲁⲩⲱ ⲛⲥⲙⲓ̣⸀ⲏ <persName type="donor" ref="paths.persons.103">ⲧⲇⲟⲩⲝ ⲧϣⲉⲉⲣⲉ ⲙⲡⲓⲣⲟⲑⲉ</persName> | ⲛⲁ<placeName type="village" ref="paths.places.000">ⲡⲥⲟⲟⲩⲛ̇ϩⲁⲓ</placeName> ϫⲉⲛⲧⲟⲟⲩ ⲛ̣̄ⲧⲁⲩⲱ̣ | ϥⲓⲡⲣⲟⲟⲩϣ ⲛⲛⲓⲕⲉⲫⲁⲗⲓⲟⲛ ⲛϫⲱⲱⲙ̄ | ⲙⲡⲁⲣϩⲟⲙⲓⲁ ⲙⲛ̄ⲡⲉⲕⲗⲏⲥⲓⲁⲥⲧⲏⲥ ⲙⲛ̄ⲡϫⲱ|(10)ⲱⲙⲉ ⲛ̄ⲛⲓⲱⲃ ⲡⲇⲓⲕⲁⲓⲟ(ⲥ) ϫⲉⲕⲁⲥ ⲉⲣⲉⲛⲓⲡⲉⲧⲟⲩ|ⲁⲁⲃ ⲥⲟⲡⲥ ⲙⲡⲛⲟⲩⲧ(ⲉ) ⲉϫⲟⲟⲩ ⲉⲣⲉⲡⲛⲟⲩⲧ(ⲉ) ϫⲓ ⲛ̇ⲧⲟⲟⲧⲟⲩ | ⲙ̇ⲡⲉⲩⲇⲱⲣⲟⲛ ⲉ̇ϩⲣⲁⲓ ⲉϫⲙⲡⲉⲑⲩⲥⲓⲁⲥⲧⲏ|ⲣⲓⲟⲛ ⲙⲡⲉⲛ{ⲛ}ⲉⲓⲱⲧ ⲙ̇<placeName type="monastery" ref="paths.places.112">ⲡⲣⲟⲫ(ⲏ)ⲧ(ⲏⲥ)ːⲁⲡⲁ ϣⲉⲛⲟⲩⲧ(ⲉ) | ⲙⲡⲧⲟⲟⲩ ⲛⲁⲧⲣⲓⲡⲉ</placeName> ⲛϥ̄ⲥⲙⲟⲩ‵ⲟ′ϥ ϩⲛⲥⲙⲟⲩ ⲛⲓⲙ |(15)	ⲙⲡⲛ(ⲉⲩⲙⲁⲧ)ⲓⲕ‵ⲟ′(ⲥ) ⲁⲩⲱ ⲛⲉⲡⲱⲣⲁⲛⲓⲟⲛ ⲙⲛ̄ⲛⲉⲩϣⲏⲣⲉ | ⲙ̄ⲛⲛ̇ⲕⲁ ⲛⲓⲙ ⲉⲧϣⲟⲟⲡ ⲛⲁⲩ ⲛⲥⲉϣⲱⲡⲉ ⲉⲩ|ⲥⲙⲁⲙⲁⲁⲧ ϩⲛ̄ⲧⲉⲩⲧϭⲓⲛⲃⲱⲕ ⲉⲃⲟⲗ | ⲙⲛ̄ⲧⲉⲩⲧϭⲓⲛⲃⲱⲕ ⲉϩⲟⲩⲛ ⲛ̄ϥⲥϩⲁⲓ̈ⲡⲉⲩ|ⲣⲁⲛ ⲉⲡϫⲱⲱⲙⲉ ⲙ̄ⲡⲱⲛϩ̄ ⲛ̣̄ⲑⲉ ⲛⲧⲁⲩⲁⲁⲥ |(20) ϩⲛ̄ⲧⲉⲩⲡⲣⲟϩⲁⲓⲣⲉⲥⲓⲥ ⲉⲧⲛⲁⲛⲟⲩⲥ ⲙⲛⲛⲉ|ⲧⲟⲩⲁⲁⲃ ⲧⲏⲣⲟⲩ | ⲁⲩⲱ ⲧⲗⲟⲓϭⲉ ⲛ̄ⲧϭⲓⲛⲥⲛ̄ϩⲓ̈ⲥⲧⲁ ⲙ̄ⲡⲓϫⲱⲱⲙⲉ | ⲉϩⲟⲩⲛ ⲉⲡⲉⲓⲙⲟⲛⲁⲥ(ⲧⲏⲣⲓ)ⲟ(ⲛ) ⲡⲉ ⲡⲉⲛⲃⲁⲓⲣⲟⲟⲩϣ ⲛ̇ⲥⲟⲛ | <persName type="monk">ⲃⲁⲥⲓⲗⲉ</persName> ⲡ<roleName type="ecclesiastical">ⲙⲟⲛⲁⲭⲟⲥ</roleName> ⲁⲩⲱ ⲡⲉⲓⲕⲟⲛⲟⲥⲙⲟⲥ ⲙ|(25)ⲡⲛⲟϭ ⲛ̄ⲥⲟⲟⲩϩ ⲑⲓⲉⲗ︦ⲏ︦ⲙ︦ ⲛⲁⲙⲉ ⲛⲧⲁϥϫⲟⲟⲥ ⲉ|ⲧⲃⲏⲏⲧⲥ̄ ϫⲉⲛⲧⲟ ⲛ̇ⲧⲟⲡⲉ ⲑⲓⲉⲣⲗ︦ⲏ︦ⲙ︦ ⲛⲧⲡⲉ | ⲉⲣⲉⲡⲛ(ⲟ)ⲩ(ⲧⲉ) ⲁⲁϥ ⲛⲙⲡϣⲁ ⲛ̇ⲃⲱⲕ ⲉϩⲟⲩⲛ ⲉⲧⲡⲟⲗⲓⲥ | ⲉ̇ⲧⲙ̄ⲙⲁⲩ ϩⲛ̇ⲟⲩϩⲟ ⲉ̣ⲙⲛ̄ϣⲓⲡⲉ ⲛϩⲏⲧϥ̄ | ⲙⲛ̄ⲟⲩⲟⲛ ⲛⲓⲙ ⲛ̄ⲧⲁⲩⲕⲟⲓⲛⲱⲛⲉⲓ̣ ⲉⲡ̣ⲓ̈ⲕⲁⲑⲟ(ⲛ) |(30) ⲉⲧⲉⲡⲁⲓ̣̈ⲡ̣ⲉ̣ ⲁⲙⲏⲛ
+      </p>
+    </body>
+  </text>
+</TEI>
