@@ -20,7 +20,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text>
     <body>
       <p>
-ⲡⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ ⲉⲧⲟⲩⲁⲁⲃ ⲛ̄|ⲕⲁⲧⲁⲓ̈ⲱϩⲁⲛⲛⲏⲥ | <placeName type="church_basilica" ref="paths.places.000">ἐκκλησίας τῆς ἁγίας | Θεοδώκου Μαρίας | ἀπὸ Τ[---]τ</placeName> | ἁγία Μαρία
+<placeName type="church_basilica" ref="paths.places.000">ἐκκλησίας τῆς ἁγίας | Θεοδώκου Μαρίας | ἀπὸ Τ[---]τ</placeName> | ἁγία Μαρία
       </p>
     </body>
   </text>
