@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../paths-schema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>paths.colophons 270</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>paths.colophons 270</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>paths.colophons.270</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        ⲥⲙⲟⲩ ⲉⲣⲟⲓ ⲕⲟ ⲛⲁⲓ ⲉⲃⲟⲗ ⲁⲛⲟⲕ | ⲡⲓⲣⲉϥⲉⲣⲛⲟⲃⲉ ⲃⲓⲕⲧⲟⲣ ⲩ̄ ⲓⲱ̄ | ⲇ︥ⲓ︦ ⲛⲣⲉⲙⲧⲡⲟⲗⲓⲥ ⲡⲉⲙϫⲏ: ϫⲉ|ⲛⲧⲁⲉⲓ ⲉϩⲟⲩⲛ ⲉⲡⲓⲙⲟⲛⲁⲥⲧⲏ|ⲣⲓⲟⲛ· ⲛⲥⲟⲩⲕ︦ⲁ︦ ⲛⲉⲙϣⲓⲣ | ϩⲛⲛⲉϩⲟⲟⲩ ⲛⲡⲁⲡⲁ ⲓⲟⲩⲗⲟⲩⲥ | ⲉⲃⲉ ⲛⲡⲣⲟⲉⲓⲥⲧⲟⲥ: ⲉⲓⲥ ⲙⲉⲇ|ⲁⲛⲓⲁ ⲁⲣⲓⲡⲁⲙⲏⲟⲩⲉ ⲧⲉⲡ︥ⲛ︦ⲟ︦ⲩ︦ | ⲧⲓⲟⲩϩⲏⲡⲟⲙⲟⲛⲏ ⲛⲁⲓ ⲧⲁϭⲟ | ϩⲓⲡⲓⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ ⲧⲁϣ|ϣⲗⲏⲗ ⲉⲡⲛⲟⲩⲧⲉ ϩⲁⲛⲁⲛⲟⲃⲉ | ⲉⲓ ⲁⲣⲏⲩ ⲧⲁϭⲓⲛⲉ ⲛⲟⲩⲛⲁ ⲛ̄|ⲡⲉⲙⲧⲟ ⲉⲃⲟⲗ ⲡ︦ⲟ︦ⲥ︦ ϩⲁⲙⲏⲛ | ⲁⲡⲟ ⲇⲓⲟⲕ⸌ⲗ⸍ ⲭⲙⲍ
+      </p>
+    </body>
+  </text>
+</TEI>
