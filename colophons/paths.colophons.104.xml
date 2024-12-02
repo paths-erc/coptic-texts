@@ -19,17 +19,24 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   </teiHeader>
   <text>
     <body>
-      <p>
-ⲥⲙⲟⲩ ⲉⲣⲟⲓ̈ ⲉⲓ̈ⲇⲓⲙⲉⲧⲁ|ⲛⲟⲓ̈ⲁ · ⲛⲁⲉⲓ̈ⲟⲧⲉ ⲉⲧⲟⲩⲁⲁⲃ | <persName type="monk">ⲉⲡⲓ̈ⲙⲁ</persName>
+      <p fol="16v">
+ⲥⲙⲟⲩ ⲉⲣⲟⲓ̈ ⲉⲓ̈ⲇⲓⲙⲉⲧⲁ|ⲛⲟⲓ̈ⲁ · ⲛⲁⲉⲓ̈ⲟⲧⲉ ⲉⲧⲟⲩⲁⲁⲃ | <persName type="monk">ⲉⲡⲓ̈ⲙⲁ</persName></p>
+<p fol="23v">
 ⲥⲙⲟⲩ ⲉⲣⲟⲓ̈ ⲕⲱ ⲛⲁⲓ̈ | ⲉⲃⲟⲗ ⲛⲁⲉⲓⲟⲧⲉ ⲉⲧⲟⲩ|ⲁⲁⲃ ⲁⲛⲟⲕ ⲡⲉⲗ(ⲁ)ⲭ(ⲓⲥⲧⲟⲥ) <persName type="monk">ⲉⲡⲓ̈ⲙⲁ</persName>
-ⲱⲝⲗⲭ ⲷ⳨ⲑϥ ⲡⲥ ⲽⲑϥ ⲷ | ⲏⲑⲟ ⲽⲑϥⲑⲯⲷ ⲷⲯⲗⲭ | ⲑⲑⲏ ⲑⲽⲑⲡ ⲕϥⲷⲟⲑ̄ⲩⲭ | ⲁⲷⲱⲋⲥ⳨ⲥⲱ ⲋϥ ⲝⲝϥⲩⲑⲃⲟ̣
-<persName type="monk">ⲉⲡⲓⲙⲁ</persName> ⲡϩⲙϩⲁⲙ ⲙ<persName type="arch_angel">ⲙⲓⲭⲁⲏⲗ</persName>
-ⲥⲙⲟⲩ ⲉⲣⲟⲓ̈ ⲕⲱ ⲛⲁⲓ̈ | ⲉⲃⲟⲗ
-<persName type="arch_angel">ⲙⲓⲭⲁⲏⲗ ⲁⲣⲭⲁⲅⲅⲉⲗⲟⲥ</persName> <persName type="monk">ⲥ̄ⲉⲣⲡⲁⲙⲓ</persName> ⲡⲉ
-<persName type="monk">ⲥⲧⲉⲫⲉⲛ</persName> ⲡϩⲁⲙ
-⳧ ⲥⲙⲟⲩ ⲉⲣⲟⲓ̈ ⲛⲁⲓⲟⲧⲉ | ⲉⲧⲟⲩⲁⲁⲃ ⲕⲱ | ⲛⲁⲓ̈ ⲉⲃⲟⲗ ϫⲉⲁⲛ|ⲟⲕ ⲟⲩⲣⲉϥϣⲱϥⲧ | (5) <persName type="monk">ⲉⲡⲓⲙⲁ</persName> ⲡϩⲙϩⲁⲗ ⲙⲡⲛⲟⲩⲧⲉ ⲙⲛⲡ<persName type="arch_angel">ⲁⲣⲭⲁⲅⲅⲉⲗⲟⲥ ⲙⲓⲭⲁⲏⲗ</persName>
+ⲱⲝⲗⲭ ⲷ⳨ⲑϥ ⲡⲥ ⲽⲑϥ ⲷ | ⲏⲑⲟ ⲽⲑϥⲑⲯⲷ ⲷⲯⲗⲭ | ⲑⲑⲏ ⲑⲽⲑⲡ ⲕϥⲷⲟⲑ̄ⲩⲭ | ⲁⲷⲱⲋⲥ⳨ⲥⲱ ⲋϥ ⲝⲝϥⲩⲑⲃⲟ̣ </p>
+<p fol="28v">
+<persName type="monk">ⲉⲡⲓⲙⲁ</persName> ⲡϩⲙϩⲁⲙ ⲙ<persName type="arch_angel">ⲙⲓⲭⲁⲏⲗ</persName></p>
+<p fol="58v">
+ⲥⲙⲟⲩ ⲉⲣⲟⲓ̈ ⲕⲱ ⲛⲁⲓ̈ | ⲉⲃⲟⲗ </p>
+<p fol="86r">
+<persName type="arch_angel">ⲙⲓⲭⲁⲏⲗ ⲁⲣⲭⲁⲅⲅⲉⲗⲟⲥ</persName> <persName type="monk">ⲥ̄ⲉⲣⲡⲁⲙⲓ</persName> ⲡⲉ </p>
+<p fol="91r">
+<persName type="monk">ⲥⲧⲉⲫⲉⲛ</persName> ⲡϩⲁⲙ </p>
+<p fol="138v">
+⳧ ⲥⲙⲟⲩ ⲉⲣⲟⲓ̈ ⲛⲁⲓⲟⲧⲉ | ⲉⲧⲟⲩⲁⲁⲃ ⲕⲱ | ⲛⲁⲓ̈ ⲉⲃⲟⲗ ϫⲉⲁⲛ|ⲟⲕ ⲟⲩⲣⲉϥϣⲱϥⲧ | <persName type="monk">ⲉⲡⲓⲙⲁ</persName> ⲡϩⲙϩⲁⲗ ⲙⲡⲛⲟⲩⲧⲉ ⲙⲛⲡ<persName type="arch_angel">ⲁⲣⲭⲁⲅⲅⲉⲗⲟⲥ ⲙⲓⲭⲁⲏⲗ</persName></p>
+<p fol="167v">
 ⳧ ⲥⲙⲟⲩ ⲉⲣⲟⲓ̈ ⲛⲁⲉⲓ̈ⲟⲧⲉ ⲉⲧⲟⲩⲁⲁⲃ ⲕⲱ ⲛⲁⲓ̈̈ ⲉⲃⲟⲗ <persName type="monk">ⲉⲡⲓ̈ⲙⲁ</persName>
     </p>
-    </body>
+    </bod>
   </text>
 </TEI>
